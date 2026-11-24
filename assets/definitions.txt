@@ -1,0 +1,126 @@
+# Définitions (en français). Format : id|définition
+bonjour|Formule de salutation employée à l'arrivée ou pendant la journée.
+merci|Mot qui exprime la reconnaissance envers quelqu'un.
+aurevoir|Formule de salutation quand on se quitte.
+silvousplait|Formule de politesse pour formuler une demande.
+pardon|Mot pour s'excuser ou pour demander à quelqu'un de répéter.
+oui|Mot qui exprime l'accord ou une réponse affirmative.
+non|Mot qui exprime le refus ou une réponse négative.
+bienvenue|Formule d'accueil adressée à quelqu'un qui arrive.
+comment_allez|Question de politesse pour prendre des nouvelles de quelqu'un.
+ca_va_bien|Réponse pour dire que l'on se porte bien.
+je_mappelle|Formule pour dire son nom en se présentant.
+je_taime|Déclaration d'amour ou d'affection profonde.
+combien|Question pour connaître le prix de quelque chose.
+ou_est|Question pour demander un lieu ou une direction.
+je_ne_comprends|Phrase pour indiquer que l'on n'a pas saisi le sens.
+aidez_moi|Appel pour demander de l'aide.
+bonne_nuit|Souhait que l'on adresse à quelqu'un avant qu'il dorme.
+bon_appetit|Souhait adressé aux personnes qui vont manger.
+un|Nombre entier qui suit zéro (1).
+deux|Nombre entier qui suit un (2).
+trois|Nombre entier qui suit deux (3).
+quatre|Nombre entier qui suit trois (4).
+cinq|Nombre entier qui suit quatre (5).
+six|Nombre entier qui suit cinq (6).
+sept|Nombre entier qui suit six (7).
+huit|Nombre entier qui suit sept (8).
+neuf|Nombre entier qui suit huit (9).
+dix|Nombre entier qui suit neuf (10).
+mere|Nom féminin. Femme qui a donné naissance à un enfant ou qui l'élève.
+pere|Nom masculin. Homme qui a un ou plusieurs enfants.
+frere|Nom masculin. Garçon ou homme né des mêmes parents qu'une autre personne.
+soeur|Nom féminin. Fille ou femme née des mêmes parents qu'une autre personne.
+famille|Nom féminin. Ensemble de personnes unies par des liens de parenté.
+chef|Nom masculin. Personne qui dirige, commande ou guide un groupe.
+tete|Nom féminin. Partie du corps qui porte le visage et le cerveau.
+main|Nom féminin. Partie du corps au bout du bras, avec cinq doigts.
+coeur|Nom masculin. Organe qui fait circuler le sang ; siège des sentiments.
+oeil|Nom masculin. Organe de la vue (pluriel : yeux).
+bouche|Nom féminin. Ouverture du visage servant à manger et à parler.
+pied|Nom masculin. Partie du corps au bout de la jambe, sur laquelle on marche.
+sang|Nom masculin. Liquide rouge qui circule dans le corps.
+eau|Nom féminin. Liquide transparent essentiel à la vie.
+feu|Nom masculin. Chaleur et lumière produites par une combustion.
+terre|Nom féminin. Notre planète ; sol sur lequel on marche et on cultive.
+ciel|Nom masculin. Espace visible au-dessus de nos têtes.
+arbre|Nom masculin. Grande plante à tronc dur et à branches.
+pluie|Nom féminin. Eau qui tombe des nuages en gouttes.
+fleuve|Nom masculin. Grand cours d'eau qui se jette dans la mer.
+soleil|Nom masculin. Étoile qui éclaire et réchauffe la Terre.
+lune|Nom féminin. Astre qui tourne autour de la Terre et brille la nuit.
+nuit|Nom féminin. Temps où il fait noir, entre le coucher et le lever du soleil.
+montagne|Nom féminin. Grande élévation naturelle du sol.
+chien|Nom masculin. Animal domestique qui aboie, ami de l'homme.
+chat|Nom masculin. Petit animal domestique qui miaule.
+poisson|Nom masculin. Animal qui vit dans l'eau et respire par des branchies.
+oiseau|Nom masculin. Animal à plumes, à bec et à ailes, qui pond des œufs.
+elephant|Nom masculin. Très grand animal à trompe et à défenses.
+lion|Nom masculin. Grand félin d'Afrique, appelé le roi des animaux.
+serpent|Nom masculin. Reptile au corps long, sans pattes.
+singe|Nom masculin. Mammifère qui grimpe aux arbres et ressemble à l'homme.
+poule|Nom féminin. Oiseau de basse-cour qui pond des œufs.
+vache|Nom féminin. Femelle du taureau, élevée pour son lait et sa viande.
+pain|Nom masculin. Aliment fait de farine, d'eau et de levure, cuit au four.
+viande|Nom féminin. Chair des animaux que l'on mange.
+riz|Nom masculin. Céréale dont on mange les grains cuits.
+sel|Nom masculin. Substance blanche qui sert à assaisonner les aliments.
+sucre|Nom masculin. Substance au goût doux, extraite de la canne ou de la betterave.
+cafe|Nom masculin. Boisson chaude faite avec les graines torréfiées du caféier.
+lait|Nom masculin. Liquide blanc produit par les femelles de mammifères.
+manger|Verbe. Mâcher et avaler un aliment.
+boire|Verbe. Avaler un liquide.
+dormir|Verbe. Être dans le sommeil pour se reposer.
+aller|Verbe. Se déplacer d'un endroit vers un autre.
+venir|Verbe. Se rendre à l'endroit où se trouve la personne qui parle.
+voir|Verbe. Percevoir par les yeux.
+parler|Verbe. Dire des mots, s'exprimer avec la voix.
+aimer|Verbe. Éprouver de l'affection ou de l'attachement pour quelqu'un ou quelque chose.
+travailler|Verbe. Faire un effort pour accomplir une tâche ou exercer un métier.
+comprendre|Verbe. Saisir le sens de quelque chose.
+donner|Verbe. Remettre quelque chose à quelqu'un sans contrepartie.
+bon|Adjectif. Qui a de la qualité, qui est agréable ou utile.
+mauvais|Adjectif. Qui n'est pas bon, qui est de mauvaise qualité.
+grand|Adjectif. Qui a une taille ou une dimension importante.
+petit|Adjectif. Qui a une taille ou une dimension réduite.
+beau|Adjectif. Qui plaît à la vue ou à l'esprit.
+chaud|Adjectif. Qui a une température élevée.
+froid|Adjectif. Qui a une température basse.
+nouveau|Adjectif. Qui existe depuis peu, qui vient d'apparaître.
+jour|Nom masculin. Période de vingt-quatre heures, ou temps où il fait clair.
+mois|Nom masculin. Période d'environ trente jours ; il y en a douze dans l'année.
+annee|Nom féminin. Période de douze mois, soit environ 365 jours.
+aujourdhui|Adverbe. Le jour où l'on est.
+demain|Adverbe. Le jour qui suit celui où l'on est.
+hier|Adverbe. Le jour qui précède celui où l'on est.
+ami|Nom masculin. Personne avec qui l'on partage de l'affection et de la confiance.
+maison|Nom féminin. Bâtiment où l'on habite.
+ecole|Nom féminin. Établissement où l'on enseigne aux enfants.
+travail|Nom masculin. Activité, effort ou métier par lequel on gagne sa vie.
+argent|Nom masculin. Monnaie qui sert à acheter et à vendre.
+enfant|Nom masculin ou féminin. Garçon ou fille qui n'est pas encore adulte.
+livre|Nom masculin. Ensemble de pages imprimées et reliées que l'on lit.
+femme|Nom féminin. Personne adulte de sexe féminin.
+homme|Nom masculin. Personne adulte de sexe masculin ; être humain.
+village|Nom masculin. Petit groupe d'habitations à la campagne.
+ville|Nom féminin. Grande agglomération d'habitants, avec des rues et des services.
+voiture|Nom féminin. Véhicule à moteur qui transporte des personnes sur la route.
+route|Nom féminin. Voie aménagée pour circuler d'un lieu à un autre.
+medecin|Nom masculin. Personne qui soigne les malades.
+hopital|Nom masculin. Établissement où l'on soigne les malades.
+marche|Nom masculin. Lieu public où l'on vend et achète des marchandises.
+musique|Nom féminin. Art de combiner des sons ; ensemble de sons agréables.
+danse|Nom féminin. Suite de mouvements du corps, rythmés par la musique.
+fete|Nom féminin. Réjouissance, célébration d'un événement.
+langue|Nom féminin. Système de mots qu'un peuple utilise pour communiquer ; organe de la bouche.
+dieu|Nom masculin. Être suprême que l'on adore dans les religions.
+vie|Nom féminin. Ensemble des phénomènes qui animent les êtres vivants, de la naissance à la mort.
+mort|Nom féminin. Fin de la vie.
+nom|Nom masculin. Mot qui désigne une personne ou une chose.
+amour|Nom masculin. Sentiment profond d'affection envers quelqu'un.
+paix|Nom féminin. Situation sans guerre ni conflit ; calme et tranquillité.
+force|Nom féminin. Capacité physique ou morale d'agir avec puissance.
+joie|Nom féminin. Sentiment de bonheur intense.
+espoir|Nom masculin. Fait d'attendre quelque chose de bon pour l'avenir.
+verite|Nom féminin. Ce qui est conforme à la réalité.
+courage|Nom masculin. Force morale qui permet d'affronter le danger ou la difficulté.

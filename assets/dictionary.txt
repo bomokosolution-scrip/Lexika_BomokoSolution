@@ -1,0 +1,780 @@
+# Lexika — dictionnaire multilingue · Bomoko Solution
+# Format : id|catégorie|emoji|exemple (français)|22 mots
+# Ordre des langues : fr|ln|en_US|en_GB|sw|lua|kg|es|pt|de|wa|nl_BE|en_SL|fr_SL|af|eo|ru|zu
+# Une case vide = traduction pas encore disponible (à compléter par un locuteur natif).
+bonjour|Salutations|👋|Bonjour, comment allez-vous ?|Bonjour|Mbote|Hello|Good morning|Jambo / Hujambo / Habari|Moyo|Mbote|Hola / Buenos días|Olá|Guten Tag / Hallo|Bondjoû|Goeiedag|Yo, what's up|Salut / Wesh|Hallo / Goeie dag|Saluton|Здравствуйте|Sawubona
+merci|Salutations|🙏|Merci beaucoup pour votre aide.|Merci|Matondo / Melesi / Matondi|Thank you|Cheers|Asante / Asante sana|Tuasakidila|Matondo|Gracias|Obrigado|Danke|Mierci|Dank u|Thanks a ton|Merco|Dankie|Dankon|Спасибо|Ngiyabonga
+aurevoir|Salutations|🖐️|Au revoir, à demain !|Au revoir|Kende malamu / Tikala malamu / Tokomonana|Goodbye|Cheerio|Kwaheri / Kwa heri|Shala bimpe / Ndaku bimpe / Maluimpe|Kwenda mbote / Bikala mbote|Adiós / Hasta luego|Adeus|Auf Wiedersehen|Å r'veyance|Tot ziens|Later|Ciao / À plus|Totsiens|Ĝis revido|До свидания|Sala kahle / Hamba kahle
+silvousplait|Salutations|🙂|S'il vous plaît, aidez-moi.|S'il vous plaît|Nabondeli / Nabondeli yo|Please|Please|Tafadhali|||Por favor|Por favor|Bitte||Alstublieft|Pretty please|SVP|Asseblief|Bonvolu|Пожалуйста|Ngicela
+pardon|Salutations|🙇|Pardon, je suis en retard.|Pardon|Limbisá ngai / Palado|Sorry|Sorry|Samahani / Pole||Pardon / Lolula mono|Perdón|Desculpe|Entschuldigung||Sorry|My bad|Pardon|||Простите|
+oui|Salutations|✅|Oui, bien sûr.|Oui|Ɛɛ / Iyo / Ee|Yes|Yes|Ndiyo|Eyowa|Ee|Sí|Sim|Ja||Ja|Yep|Ouais|Ja|Jes|Да|Yebo
+non|Salutations|❌|Non, merci.|Non|Te|No|No|Hapana|Tòo / Nansha / To|Ve|No|Não|Nein||Nee|Nope|Nan|Nee|Ne|Нет|Cha
+bienvenue|Salutations|🤗|Bienvenue chez nous !|Bienvenue|Boyei bolamu / Boyei malamu|Welcome|Welcome|Karibu / Karibuni|||Bienvenido|Bem-vindo|Willkommen||Welkom||||||
+comment_allez|Phrases|💬|Comment allez-vous ?|Comment allez-vous ?|Ozali boni ?|How are you?|How are you?|Habari yako?|||¿Cómo está usted?|Como está?|Wie geht es Ihnen?||Hoe gaat het met u?|How's it going?|Ça va ?||||
+ca_va_bien|Phrases|😊|Je vais bien, merci.|Je vais bien|Nazali malamu|I'm fine|I'm fine|Niko salama|Ndi bimpe|Mono kele mbote|Estoy bien|Estou bem|Mir geht es gut.||Het gaat goed|I'm good|Ça roule||||
+je_mappelle|Phrases|🪪|Je m'appelle Marie.|Je m'appelle…|Nkombo na ngai ezali…|My name is…|My name is…|Jina langu ni…|Dina dianyi ndi...||Me llamo…|Meu nome é…|Ich heiße…||Mijn naam is…|Call me…|Moi c'est…||||
+je_taime|Phrases|💞|Je t'aime.|Je t'aime|Nalingi yo|I love you|I love you|Nakupenda|Ndi mukusue||Te quiero|Eu amo-te|Ich liebe dich.||Ik hou van je|Luv ya|Je t'kiffe||||
+combien|Phrases|🏷️|Combien ça coûte ?|Combien ça coûte ?|Ezali boni ? / Mbongo boni ?|How much is it?|How much is it?|Bei gani?|||¿Cuánto cuesta?|Quanto custa?|Wie viel kostet das?||Hoeveel kost het?|What's the damage?|C'est combien ?||||
+ou_est|Phrases|🧭|Où sont les toilettes ?|Où est… ?|Wapi… ?|Where is…?|Where is…?|Iko wapi…?|||¿Dónde está...?|Onde fica…?|Wo ist …?||Waar is…?|Where's … at?|C'est où… ?||||
+je_ne_comprends|Phrases|🤷|Je ne comprends pas.|Je ne comprends pas|Nayoki te / Nasosoli te|I don't understand|I don't understand|Sielewi|Tshiena ngumvua to||No entiendo|Não entendo|Ich verstehe nicht.||Ik begrijp het niet|I don't get it|Je pige pas||||
+aidez_moi|Phrases|🆘|Aidez-moi, s'il vous plaît.|Aidez-moi !|Salisa ngai !|Help me!|Help me!|Nisaidie!|||¡Ayúdeme!|Ajude-me!|Helfen Sie mir!||Help me!|Help!|À l'aide !||||
+bonne_nuit|Phrases|🌙|Bonne nuit, à demain.|Bonne nuit|Butu elamu / Lala malamu|Good night|Good night|Usiku mwema|Lala bimpe|Kansi / Lala mbote|Buenas noches|Boa noite|Gute Nacht|Bone nut|Goeienacht|Nighty night|Bonne nuit|Nag|Bonan nokton|Спокойной ночи|Ulale kahle
+bon_appetit|Phrases|😋|Bon appétit !|Bon appétit|Bolia malamu|Enjoy your meal|Enjoy your meal|Karibu chakula|||Buen provecho|Bom apetite|Guten Appetit!|Bon apétit|Smakelijk|Dig in|Bon app'||||
+un|Nombres|1️⃣|J'ai un frère.|Un|Moko|One|One|Moja|Umue|Mosi|Uno|Um|Eins|Onk|Een|One|Un|Een|Unu|Один|Kunye
+deux|Nombres|2️⃣|Il y a deux chaises.|Deux|Mibale|Two|Two|Mbili|Ibidi / Ibiddi|Zole|Dos|Dois|Zwei|Deus|Twee|Two|Deux|Twee|Du|Два|Kubili
+trois|Nombres|3️⃣|Nous sommes trois.|Trois|Misato|Three|Three|Tatu|Isatu|Tatu|Tres|Três|Drei|Treus|Drie|Three|Trois|Drie|Tri|Три|Kuthathu
+quatre|Nombres|4️⃣|Quatre saisons par an.|Quatre|Minei|Four|Four|Nne|Inayi|Iya / Ya|Cuatro|Quatro|Vier|Cwate|Vier|Four|Quatre|Vier|Kvar|Четыре|Kune
+cinq|Nombres|5️⃣|Cinq doigts sur la main.|Cinq|Mitano|Five|Five|Tano|Itanu|Tanu|Cinco|Cinco|Fünf|Cink|Vijf|Five|Cinq|Vyf|Kvin|Пять|Kuhlanu
+six|Nombres|6️⃣|Il est six heures.|Six|Motoba|Six|Six|Sita|Isambombo|Sambanu|Seis|Seis|Sechs|Sis|Zes|Six|Six|Ses||Шесть|Isithupha
+sept|Nombres|7️⃣|Sept jours dans la semaine.|Sept|Sambo|Seven|Seven|Saba|Muanda mutekete|Nsambwadi|Siete|Sete|Sieben|Set|Zeven|Seven|Sept|Sewe||Семь|Isikhombisa
+huit|Nombres|8️⃣|Huit heures du matin.|Huit|Mwambe|Eight|Eight|Nane|Muanda mukulu|Nana|Ocho|Oito|Acht|Wit|Acht|Eight|Huit|Agt||Восемь|Isishiyagalombili
+neuf|Nombres|9️⃣|Neuf élèves sont présents.|Neuf|Libwa|Nine|Nine|Tisa|Tshitema|Uvwa / Ivwa|Nueve|Nove|Neun|Nouf|Negen|Nine|Neuf|Nege||Девять|Isishiyagalolunye
+dix|Nombres|🔟|Dix minutes de marche.|Dix|Zomi|Ten|Ten|Kumi|Dikumi|Kumi|Diez|Dez|Zehn|Dijh|Tien|Ten|Dix|Tien|Dek|Десять|Ishumi
+mere|Famille|👩‍👧|Ma mère cuisine très bien.|Mère|Mama|Mother|Mum|Mama|Mamu|Mama|Madre / Mamá|Mãe|Mutter|Mame|Moeder|Mom|Daronne|Moeder / Ma|Patrino|Мать|Umama
+pere|Famille|👨‍👦|Mon père travaille beaucoup.|Père|Tata|Father|Dad|Baba|Tatu|Tata|Padre / Papá|Pai|Vater||Vader|Pops|Daron|Vader / Pa|Patro|Отец|Ubaba
+frere|Famille|🧑‍🤝‍🧑|Mon frère est plus grand que moi.|Frère|Ndeko / Ndeko mobali|Brother|Brother|Ndugu / Kaka / Ndugu wa kiume|Muanetu|Mpangi|Hermano / Hermana|Irmão|Bruder||Broer|Bro|Frangin|Broer|Frato|Брат|Umfowethu
+soeur|Famille|👭|Ma sœur habite à Kinshasa.|Sœur|Ndeko mwasi / Ndeko ya mwasi / Ndeko|Sister|Sister|Dada|Muanetu|Mpangi|Hermana|Irmã|Schwester||Zus|Sis|Frangine|Suster|Fratino|Сестра|Udadewethu
+famille|Famille|👪|Ma famille est nombreuse.|Famille|Libota|Family|Family|Familia||Kanda / Nzo / Dikanda|Familia|Família|Familie||Familie|Fam|Famille|Familie|Familio|Семья|Umndeni
+chef|Société|🧑‍💼|Le chef du village est sage.|Chef|Mokonzi|Chief|Chief|Kiongozi / Chifu / Mkuu|Mfumu|Mfumu / N'kuluntu|Jefe|Chefe|Chef||Chef|Boss|Patron||||
+tete|Corps|🗣️|J'ai mal à la tête.|Tête|Moto / Mutu|Head|Head|Kichwa|Mutu|Ntu|Cabeza|Cabeça|Kopf|Tièsse|Hoofd|Noggin|Caboche|Kop|Kapo|Голова|Ikhanda
+main|Corps|✋|Lave-toi les mains.|Main|Lobɔkɔ / Loboko|Hand|Hand|Mkono / Mikono|Diboko / Maboko|Diboko / Maboko|Mano|Mão|Hand|Mwin|Hand|Hand|Paluche|Hand|Mano|Рука|Isandla
+coeur|Corps|🫀|Il a un grand cœur.|Cœur|Motema|Heart|Heart|Moyo|Muoyo|Ntima|Corazón|Coração|Herz||Hart|Ticker|Palpitant|Hart|Koro|Сердце|Inhliziyo
+oeil|Corps|👁️|Elle a de beaux yeux.|Œil|Liso|Eye|Eye|Jicho / Macho|Disu / Mesu|Disu / Meso|Ojo / Ojos|Olho|Auge||Oog|Peeper|Mirette|Oog|Okulo|Глаз|Iso
+bouche|Corps|👄|Ouvre la bouche.|Bouche|Monoko / Monɔkɔ|Mouth|Mouth|Mdomo / Kinywa|Mukana|Munoko / N'nwa / Munwa|Boca|Boca|Mund||Mond|Gob|Gueule|Mond||Рот|Umlomo
+pied|Corps|🦶|Je me suis blessé au pied.|Pied|Lokolo|Foot|Foot|Mguu / Miguu|Dikulu / Makulu|Kulu / Makulu|Pie|Pé|Fuß|Pî|Voet|Foot|Panard|Voet||Ступня|Unyawo
+sang|Corps|🩸|Le sang circule dans le corps.|Sang|Makila|Blood|Blood|Damu|||Sangre|Sangue|Blut|Sonk|Bloed|Blood|||||
+eau|Nature|💧|Je voudrais un verre d'eau.|Eau|Mai / Mayi|Water|Water|Maji|Mayi|Maza / Masa|Agua|Água|Wasser|Aiwe|Water|Adam's ale|Flotte|Water|Akvo|Вода|Amanzi
+feu|Nature|🔥|Le feu est chaud.|Feu|Moto / Mɔtɔ / Tiya|Fire|Fire|Moto||Tiya|Fuego|Fogo|Feuer|Feu|Vuur|Fire||Vuur||Огонь|Umlilo
+terre|Nature|🌍|La terre est ronde.|Terre|Mabele|Earth|Earth|Ardhi|Buloba|Nsi|Tierra|Terra|Erde||Aarde|||Aarde||Земля|Umhlaba
+ciel|Nature|☁️|Le ciel est bleu.|Ciel|Likolo|Sky|Sky|Anga||Zulu|Cielo|Céu|Himmel||Hemel|Sky|||||
+arbre|Nature|🌳|Cet arbre est très vieux.|Arbre|Nzete|Tree|Tree|Mti|Mutshi|Nti|Árbol|Árvore|Baum|Åbe|Boom||||||
+pluie|Nature|🌧️|La pluie tombe depuis ce matin.|Pluie|Mbula|Rain|Rain|Mvua|Mvula|Mvula|Lluvia|Chuva|Regen|Ploû|Regen|||Reën|Pluvo|Дождь|Imvula
+fleuve|Nature|🏞️|Le fleuve Congo est immense.|Fleuve|Ebale|River|River|Mto|Mulonga|Nzadi|Río|Rio|Fluss||Rivier||||||
+soleil|Nature|☀️|Le soleil se lève à l'est.|Soleil|Moipepe / Moi / Ntango|Sun|Sun|Jua|Diba|Mwini / Ntangu|Sol|Sol|Sonne|Solea|Zon|Big yellow|Cagnard|Son|Suno|Солнце|Ilanga
+lune|Nature|🌕|La lune brille ce soir.|Lune|Sanza|Moon|Moon|Mwezi|Ngondo / Muedi|Ngonda|Luna|Lua|Mond||Maan|Moon|||||
+nuit|Nature|🌙|La nuit est calme.|Nuit|Butu|Night|Night|Usiku|Butuku|Mpimpa|Noche / Por la noche|Noite|Nacht|Nut|Nacht|Nite|Nuitée|Nag|Nokto|Ночь|Ubusuku
+montagne|Nature|⛰️|Nous montons la montagne.|Montagne|Ngomba|Mountain|Mountain|Mlima|||Montaña|Montanha|Berg||Berg||||||
+chien|Animaux|🐕|Le chien aboie.|Chien|Mbwa|Dog|Dog|Mbwa|Mbua|Mbwa|Perro|Cão|Hund|Chén|Hond|Pup|Clebs||||
+chat|Animaux|🐈|Le chat dort sur le canapé.|Chat|Pusi|Cat|Cat|Paka|||Gato|Gato|Katze|Tchat|Kat|Kitty|Greffier||||
+poisson|Animaux|🐟|Nous mangeons du poisson.|Poisson|Mbisi|Fish|Fish|Samaki|Mishipa|Mbisi|Pescado / Pez|Peixe|Fisch||Vis|Fish|Poiscaille|Vis|Fiŝo|Рыба|Inhlanzi
+oiseau|Animaux|🐦|Un oiseau chante.|Oiseau|Ndeke|Bird|Bird|Ndege||Nuni|Pájaro|Pássaro|Vogel||Vogel|Birdie|Piaf||||
+elephant|Animaux|🐘|L'éléphant est très grand.|Éléphant|Nzoku|Elephant|Elephant|Tembo|Nzolo||Elefante|Elefante|Elefant|Éléfant|Olifant|Jumbo|||||
+lion|Animaux|🦁|Le lion est le roi de la savane.|Lion|Nkosi|Lion|Lion|Simba||Nkosi|León|Leão|Löwe|Lion|Leeuw||||||
+serpent|Animaux|🐍|Attention au serpent !|Serpent|Nyoka|Snake|Snake|Nyoka||Nyoka / Nioka|Serpiente|Cobra|Schlange|Sèrpint|Slang|Snake|||||
+singe|Animaux|🐒|Le singe grimpe à l'arbre.|Singe|Nkima|Monkey|Monkey|Tumbili||Nkewa / Kima|Mono|Macaco|Affe|Singe|Aap||||||
+poule|Animaux|🐔|La poule pond des œufs.|Poule|Nsoso|Hen|Hen|Kuku|Nkoko|Nsusu|Gallina|Galinha|Huhn||Kip|Chicken|Poulette||||
+vache|Animaux|🐄|La vache donne du lait.|Vache|Ngombe|Cow|Cow|Ng'ombe||Ngombe|Vaca|Vaca|Kuh||Koe|Cow|||||
+pain|Nourriture|🍞|J'achète du pain frais.|Pain|Mampa / Lipa|Bread|Bread|Mkate||Mampa / Dimpa|Pan|Pão|Brot|Pwin|Brood|Dough|Bricheton|Brood|Pano|Хлеб|Isinkwa
+viande|Nourriture|🥩|Nous mangeons de la viande.|Viande|Nyama / Misuni|Meat|Meat|Nyama|Munyinyi|Nyama|Carne|Carne|Fleisch|Tchår|Vlees|Meat|Barbaque|Vleis|Viando|Мясо|Inyama
+riz|Nourriture|🍚|Du riz avec des haricots.|Riz|Loso|Rice|Rice|Wali / Mchele||Loso|Arroz|Arroz|Reis|Rize|Rijst|||Rys|Rizo|Рис|Irayisi
+sel|Nourriture|🧂|Ajoute un peu de sel.|Sel|Mungwa|Salt|Salt|Chumvi|Luesa / Munyi|Mungwa / Munga|Sal|Sal|Salz|Sé|Zout|||Sout||Соль|Usawoti
+sucre|Nourriture|🍬|Un café sans sucre.|Sucre|Sukali|Sugar|Sugar|Sukari|||Azúcar|Açúcar|Zucker|Sucre|Suiker|||Suiker||Сахар|Ushukela
+cafe|Nourriture|☕|Un café, s'il vous plaît.|Café|Kafe|Coffee|Coffee|Kahawa||Kafe|Café|Café|Kaffee|Cafè|Koffie|Joe|Caoua|Koffie||Кофе|Ikhofi
+lait|Nourriture|🥛|Un verre de lait frais.|Lait|Miliki|Milk|Milk|Maziwa||Miliki|Leche|Leite|Milch|Laît|Melk||||||
+manger|Verbes|🍽️|Nous allons manger ensemble.|Manger|Kolia|Eat|Eat|Kula|Kudia|Kudia / Kudya / Dia|Comer|Comer|Essen|Magnî|Eten|Chow down|Bouffer|Eet|Manĝi|Есть|Ukudla
+boire|Verbes|🥤|Je veux boire de l'eau.|Boire|Komela|Drink|Drink|Kunywa|Kunua|Kunwa / Nwa|Beber / Tomar|Beber|Trinken|Boere|Drinken|Chug|Picoler|Drink|Trinki|Пить|Ukuphuza
+dormir|Verbes|😴|Les enfants doivent dormir.|Dormir|Kolala|Sleep|Sleep|Kulala|Kulala|Kulala / Lala|Dormir|Dormir|Schlafen|Dwarmi|Slapen|Crash|Roupiller|Slaap|Dormi|Спать|Ukulala
+aller|Verbes|🚶|Je vais au marché.|Aller|Kokende|Go|Go|Kwenda|Kuya|Kukwenda / Kuenda / Kwenda|Ir|Ir|Gehen / Fahren|Aler|Gaan|Bounce|Se barrer|Gaan|Iri|Идти|Ukuya
+venir|Verbes|🏃|Viens avec nous !|Venir|Koya|Come|Come|Kuja|Kulua|Kukwisa / Kuiza / Kukwiza / Kwisa|Venir|Vir|Kommen|Vini|Komen|Swing by|Débarquer|Kom|Veni|Приходить|Ukuza
+voir|Verbes|👀|Je veux voir la mer.|Voir|Komona|See|See|Kuona|Kumona|Kumona / Mona|Ver / Mirar|Ver|Sehen|Vèyî|Zien|Peep|Mater|Sien|Vidi|Видеть|Ukubona
+parler|Verbes|🗣️|Il parle trois langues.|Parler|Koloba|Speak|Speak|Kuzungumza / Kusema|Kuakula / Kuamba|Kutuba / Vova|Hablar|Falar|Sprechen|Djåzer|Spreken|Chat|Causer|Praat|Paroli|Говорить|Ukukhuluma
+aimer|Verbes|💗|J'aime la musique.|Aimer|Kolinga|Love|Love|Kupenda|Kusua / Kunanga|Kuzola|Amar / Querer|Amar|Lieben / Mögen||Houden van|Dig|Kiffer|Liefhê / Hou van|Ami|Любить|Ukuthanda
+travailler|Verbes|🛠️|Il faut travailler dur.|Travailler|Kosala|Work|Work|Kufanya kazi||Kusala / Sala|Trabajar|Trabalhar|Arbeiten|Ovrer|Werken|Grind|Bosser|Werk|Labori|Работать|Ukusebenza
+comprendre|Verbes|💡|Je comprends la leçon.|Comprendre|Kososola / Koyoka|Understand|Understand|Kuelewa|Kumvua|Kuvisa|Entender|Entender|Verstehen|Comprinde|Begrijpen|Get it|Piger|Verstaan|Kompreni|Понимать|Ukuqonda
+donner|Verbes|🎁|Je te donne ce livre.|Donner|Kopesa|Give|Give|Kutoa / Kupa|Kupa / Kupesha|Kupesa / Pesa|Dar|Dar|Geben||Geven|Hand over|Filer|Gee|Doni|Давать|Ukunika
+bon|Adjectifs|👍|C'est un bon repas.|Bon|Malamu|Good|Good|Nzuri / Mzuri|Lengele|Mbote / Luwu|Bueno|Bom|Gut|Bon|Goed|Dope||Goed|Bona|Хороший|Hle
+mauvais|Adjectifs|👎|Quel mauvais temps !|Mauvais|Mabe|Bad|Bad|Mbaya||Mbi|Malo|Mau|Schlecht||Slecht|Lousy|Nul|Sleg|Malbona|Плохой|Bi
+grand|Adjectifs|📏|C'est une grande maison.|Grand|Monene / Molayi|Big|Big|Kubwa||Nene|Grande|Grande|Groß|Grand|Groot|Huge|Balèze|Groot|Granda|Большой|Khulu
+petit|Adjectifs|🤏|Un petit chat.|Petit|Moke|Small|Small|Ndogo||Fyoti|Pequeño|Pequeno|Klein||Klein|Tiny|Riquiqui|Klein|Malgranda|Маленький|Ncane
+beau|Adjectifs|✨|Quel beau paysage !|Beau|Kitoko|Beautiful|Beautiful|Zuri / Mzuri|Lengele||Hermoso / Bonito|Bonito|Schön|Bê|Mooi|Gorgeous|Canon|Mooi|Bela|Красивый|Hle
+chaud|Adjectifs|🥵|Le thé est chaud.|Chaud|Molunge / Ya moto / Moto|Hot|Hot|Moto / Joto|||Caliente|Quente|Warm / Heiß|Tchaud|Warm|Hot||Warm|Varma|Тёплый|Shisa
+froid|Adjectifs|🥶|Il fait froid ce matin.|Froid|Malili / Ya malili|Cold|Cold|Baridi|||Frío|Frio|Kalt|Freud|Koud|Chilly||Koud|Malvarma|Холодный|Banda
+nouveau|Adjectifs|🆕|J'ai un nouveau téléphone.|Nouveau|Ya sika / Sika|New|New|Mpya||Mpa|Nuevo|Novo|Neu|Noû|Nieuw|Fresh||Nuut|Nova|Новый|Sha
+jour|Temps|📅|Bonne journée !|Jour|Mokolo|Day|Day|Siku|Dituku|Kilumbu / Lumbu / Suku|Día|Dia|Tag|Djoû|Dag|Day|Jour|Dag|Tago|День|Usuku
+mois|Temps|🗓️|Ce mois est chargé.|Mois|Sanza|Month|Month|Mwezi|Ngondo / Muedi|Ngonda|Mes|Mês|Monat|Mwès|Maand|Month||Maand|Monato|Месяц|Inyanga
+annee|Temps|🎆|Bonne année !|Année|Mbula / Mobu|Year|Year|Mwaka|Tshidimu|Mvula|Año|Ano|Jahr||Jaar|Year||Jaar|Jaro|Год|Unyaka
+aujourdhui|Temps|📍|Aujourd'hui, il fait beau.|Aujourd'hui|Lelo|Today|Today|Leo|Lelu|Bubu|Hoy|Hoje|Heute||Vandaag|Today||Vandag|Hodiaŭ|Сегодня|Namuhla
+demain|Temps|⏭️|À demain !|Demain|Lobi|Tomorrow|Tomorrow|Kesho|Makelela|Mbazi|Mañana|Amanhã|Morgen|Dimin|Morgen|Tomorrow||Môre|Morgaŭ|Завтра|Kusasa
+hier|Temps|⏮️|Hier, il a plu.|Hier|Lobi / Lobi eleki|Yesterday|Yesterday|Jana||Mazono|Ayer|Ontem|Gestern|Hîr|Gisteren|Yesterday||Gister|Hieraŭ|Вчера|Izolo
+ami|Société|🤝|C'est mon meilleur ami.|Ami|Moninga|Friend|Mate|Rafiki|Mulunda|Nduku|Amigo / Amiga|Amigo|Freund|Camarade|Vriend|Homie|Poto|Vriend|Amiko|Друг|Umngane
+maison|Société|🏠|Ma maison est près du fleuve.|Maison|Ndako|House|House|Nyumba|Nzubu|Nzo|Casa|Casa|Haus|Måjo|Huis|Crib|Piaule|Huis|Domo|Дом|Indlu
+ecole|Société|🎓|Les enfants vont à l'école.|École|Kelasi / Eteyelo|School|School|Shule|Kalasa / Tshikolo|Nzo-nkanda / Sukulu|Escuela|Escola|Schule|Scole|School|Skool|Bahut|Skool|Lernejo|Школа|Isikole
+travail|Société|💼|J'ai beaucoup de travail aujourd'hui.|Travail|Mosala|Work|Work|Kazi|Mudimu|Kisalu / Salu|Trabajo|Trabalho|Arbeit|Ovrèdje|Werk|Grind|Boulot|Werk|Laboro|Работа|Umsebenzi
+argent|Société|💰|Il n'a pas assez d'argent.|Argent|Mbongo|Money|Money|Pesa / Faranga|Makuta / Mfranga|Mbongo|Dinero|Dinheiro|Geld|Aldjint|Geld|Bread|Thune|Geld|Mono|Деньги|Imali
+enfant|Société|🧒|L'enfant joue dans le jardin.|Enfant|Mwana|Child|Child|Mtoto / Watoto|Mwana / Muana|Mwana|Niño / Niña|Criança|Kind|Èfant|Kind|Kid|Gamin|Kind|Infano|Ребёнок|Ingane
+livre|Société|📖|Je lis un livre passionnant.|Livre|Mokanda / Buku|Book|Book|Kitabu|Mukanda|Mukanda|Libro|Livro|Buch|Live|Boek|Read|Bouquin|Boek|Libro|Книга|Incwadi
+femme|Société|👩|Cette femme est médecin.|Femme|Mwasi|Woman|Woman|Mwanamke|Mukaji|Nkento|Mujer|Mulher|Frau|Feume|Vrouw|Chick|Meuf|Vrou|Virino|Женщина|Owesifazane
+homme|Société|👨|Cet homme est mon voisin.|Homme|Mobali|Man|Man|Mwanaume|Mulume|Bakala|Hombre|Homem|Mann|Ome|Man|Dude|Mec|Man|Viro|Мужчина|Indoda
+village|Société|🏘️|Mon village est paisible.|Village|Mboka|Village|Village|Kijiji|Musoko|Bwala / Vata|Pueblo|Vila|Dorf|Viladje|Dorp||Bled|Dorp|Vilaĝo|Деревня|Umuzi
+ville|Société|🏙️|Kinshasa est une grande ville.|Ville|Engumba / Mboka|City|City|Mji|Tshimenga|Bwala|Ciudad|Cidade|Stadt|Veye|Stad|||Stad|Urbo|Город|Idolobha
+voiture|Société|🚗|La voiture est en panne.|Voiture|Motuka|Car|Car|Gari|Mashinyi / Mutuka|Kamina / Motuka|Coche / Carro / Automóvil|Carro|Auto||Auto|Ride|Bagnole|Motor|Aŭto|Машина|Imoto
+route|Société|🛣️|La route est longue.|Route|Nzela|Road|Road|Njia / Barabara|Njila|Nzila|Camino|Estrada|Straße|Voye|Weg||||||
+medecin|Société|🩺|Le médecin est arrivé.|Médecin|Monganga|Doctor|Doctor|Daktari / Mganga|Munganga|Munganga|Médico / Doctor|Médico|Arzt / Ärztin|Docteur|Dokter|Doc|Toubib||||
+hopital|Société|🏥|Il est à l'hôpital.|Hôpital|Lopitalo|Hospital|Hospital|Hospitali|Lupitadi|Lupitalu|Hospital|Hospital|Krankenhaus||Ziekenhuis|||Hospitaal|Hospitalo|Больница|Isibhedlela
+marche|Société|🛒|Nous allons au marché.|Marché|Zando|Market|Market|Soko|Tshisalu|Zandu|Mercado|Mercado|Markt|Martchî|Markt|||Mark|Merkato|Рынок|Imakethe
+musique|Société|🎵|J'écoute de la musique.|Musique|Miziki|Music|Music|Muziki|||Música|Música|Musik|Musike|Muziek|Tunes|Zik||||
+danse|Société|💃|Elle aime la danse.|Danse|Kobina|Dance|Dance|Ngoma||Makinu|Baile|Dança|Tanz||Dans|Boogie|||||
+fete|Société|🎉|La fête commence ce soir.|Fête|Feti|Party|Party|Sherehe|||Fiesta|Festa|Fest|Fièsse|Feest|Bash|Teuf||||
+langue|Société|🗨️|Quelle langue parlez-vous ?|Langue|Lokota / Monoko|Language|Language|Lugha|Luimi|Ndinga|Idioma|Língua|Sprache||Taal||||||
+dieu|Vie|🙌|Dieu est grand.|Dieu|Nzambe|God|God|Mungu|Nzambi|Nzambi|Dios|Deus|Gott|Diu|God|God|Dieu||||
+vie|Vie|🌱|La vie est belle.|Vie|Bomoi|Life|Life|Maisha|Muoyo|Luzingu|Vida|Vida|Leben||Leven|Life|Vie|Lewe|Vivo|Жизнь|Impilo
+mort|Vie|🕯️|La mort fait partie de la vie.|Mort|Liwa|Death|Death|Kifo|Lufu|Lufwa / Mfwilu|Muerte|Morte|Tod||Dood||||||
+nom|Vie|🏷️|Quel est ton nom ?|Nom|Nkombo|Name|Name|Jina|Dina|Zina|Nombre|Nome|Name||Naam|Handle|Blase||||
+amour|Vie|❤️|L'amour rend le monde plus beau.|Amour|Bolingo|Love|Love|Upendo|Dinanga|Luzolo|Amor|Amor|Liebe|Amoûr|Liefde|Luv|Kiff|Liefde|Amo|Любовь|Uthando
+paix|Vie|🕊️|Nous souhaitons la paix.|Paix|Kimia / Kimya|Peace|Peace|Amani|Ditalala|Ngemba / Luvuvamu|Paz|Paz|Frieden|Påye|Vrede|Peace out|Tranquille|Vrede|Paco|Мир|Ukuthula
+force|Vie|💪|Il a beaucoup de force.|Force|Makasi|Strength|Strength|Nguvu|Bukole|Ngolo|Fuerza|Força|Kraft||Kracht|Muscle|||||
+joie|Vie|😄|Quelle joie de vous voir !|Joie|Esengo|Joy|Joy|Furaha|Disanka|Kiese|Alegría|Alegria|Freude|Djoye|Vreugde||||||
+espoir|Vie|🌅|Gardons espoir.|Espoir|Elikya|Hope|Hope|Matumaini|||Esperanza|Esperança|Hoffnung||Hoop||||||
+verite|Vie|⚖️|Dis-moi la vérité.|Vérité|Solo|Truth|Truth|Ukweli|||Verdad|Verdade|Wahrheit||Waarheid||||||
+courage|Vie|🦁|Courage, tu vas y arriver !|Courage|Mpiko|Courage|Courage|Ujasiri||Nkabu / Kikesa|Valor|Coragem|Mut|Coradje|Moed|Guts|Cran||||
+salut|Salutations|💬||Salut|Mbote / Losako|||Mambo|Moyo|Mbote|Hola||Hallo|||||Hallo|Saluton|Привет|Sawubona
+quoi_de_neuf|Salutations|💬||Quoi de neuf ?|Sango nini ?||||||||||||||||
+rien_de_neuf|Salutations|💬||Rien de neuf|Sango te||||||||||||||||
+comment_vastu|Salutations|💬|Salut l'ami, comment vas-tu ?|Comment vas-tu ?|Ozali malamu ?||||Udi bimpe?||¿Cómo estás?||||||||||
+pardonnemoi|Salutations|💬||Pardonne-moi|Limbisa ngai||||Undekele||||||||||||
+bon_voyage|Salutations|💬||Bon voyage|Kende malamu||||Ndaku bimpe||||Gute Reise!||||||||
+je_comprends|Salutations|💬||Je comprends|Nayoki||||||||Ich verstehe.||||||||
+moi|Pronoms|👤||Moi|Ngai||||||||||||||||
+toi|Pronoms|👤||Toi|Yo||||||||||||||||
+lui|Pronoms|👤||Lui|Ye||||||||||||||||
+nous|Pronoms|👤||Nous|Biso|||Sisi||Beto|Nosotros / Nosotras||Wir|||||Ons|Ni|Мы|Thina
+vous|Pronoms|👤||Vous|Bino|||Ninyi||Beno|Ustedes / Vosotros||Sie / Ihr|||||Julle / U|Vi|Вы|Nina
+eux|Pronoms|👤||Eux|Bango||||||||||||||||
+personne|Famille|👪|Il y a beaucoup de monde sur la place.|Personne|Moto|||Mtu / Watu|Muntu|Muntu|Persona / Gente||Person||||||||
+gens|Famille|👪||Gens|Bato|||Mtu / Watu|Bantu||Persona / Gente||||||||||
+nourriture|Nourriture|🍽️|La nourriture est délicieuse.|Nourriture|Bilei|||Chakula|Biakudia|Madia / Madya|Comida||||||||||
+feuilles_de_manioc|Nourriture|🍽️|Les feuilles de manioc à la noix de coco sont très bonnes.|Feuilles de manioc|Pondu|||Sombe / Kisamvu|Matamba|Saka-saka|||||||||||
+haricots|Nourriture|🍽️|Les haricots contiennent beaucoup de protéines.|Haricots|Madesu||||Makunde|Madesu|||||||||||
+poulet|Nourriture|🍽️|Nous cuisinons du poulet avec des légumes.|Poulet|Nsoso|||Kuku|Nzolo|Nsusu|Pollo||Hähnchen|||||Hoender||Курица|Inkukhu
+oeufs|Nourriture|🍽️||Œufs|Makei||||||||||||||||
+huile|Nourriture|🍽️|Huile de palme.|Huile|Mafuta|||Mafuta|Mafuta|Mafuta|Aceite||Öl|||||Olie||Масло|Uwoyela
+banane|Nourriture|🍽️|Cette banane est bien mûre.|Banane|Etabe / Bitabe|||Ndizi||Dinkondo / Dinkondi|Plátano / Banana||Banane|||||Piesang|Banano|Банан|Ubhanana
+semaine|Temps|⏳|On se voit la semaine prochaine.|Semaine|Poso|Week|Week|Wiki / Juma|Lumingu|Mposo|Semana||Woche|||||Week|Semajno|Неделя|Isonto
+maintenant|Temps|⏳|Je dois partir tout de suite.|Maintenant|Sikoyo|Now|Now|Sasa|||Ahora||Jetzt|||||Nou||Сейчас|Manje
+matin|Temps|⏳|Il se réveille très tôt le matin.|Matin|Tongo / Ntɔngɔ / Ntongo|||Asubuhi|Dinda|Suka|Mañana / Por la mañana||Morgen|||||Oggend|Mateno|Утро|Ekuseni
+midi|Temps|⏳||Midi|Midi / Moi||||Munya||||||||||||
+soir|Temps|⏳|Nous rentrerons le soir.|Soir|Pokwa / Mpokwa|||Jioni|Dilolo||Tarde / Noche / Al anochecer||Abend|||||Aand|Vespero|Вечер|Kusihlwa
+etre|Verbes|🔤|Je suis étudiant et je suis à Madrid.|Être|Kozala|Be|Be|Kuwa|||Ser / Estar||Sein|||||Wees|Esti|Быть|Ukuba
+savoir|Verbes|🔤|Je ne sais pas la bonne réponse.|Savoir|Koyeba|Know|Know|Kujua|Kumanya|Kuzaba|Saber / Conocer||Wissen|||||Weet|Scii|Знать|Ukwazi
+prendre|Verbes|🔤|Il a trouvé un nouveau travail.|Prendre|Kozwa|Take|Take|Kuchukua|Kuangata|Kubaka|Tomar||Nehmen|||||Neem|Preni|Брать|Ukuthatha
+penser|Verbes|🔤||Penser|Kokanisa||||||||||||||||
+habiter|Verbes|🔤||Habiter|Kovanda||||||||||||||||
+lire|Verbes|🔤|Lis le livre.|Lire|Kotánga|||Kusoma|Kubala|Kutanga|Leer||Lesen|||||Lees|Legi|Читать|Ukufunda
+ecrire|Verbes|🔤|Écris ton nom.|Écrire|Kokoma|Write|Write|Kuandika|Kufunda|Kusonika|Escribir||Schreiben|||||Skryf|Skribi|Писать|Ukubhala
+aider|Verbes|🔤|Merci de m'avoir aidé.|Aider|Kosalisa|Help|Help|Kusaidia|Kuambuluisha|Kusadisa|Ayudar||Helfen|||||Help|Helpi|Помогать|Ukusiza
+acheter|Verbes|🔤|Je veux acheter un cadeau pour ma mère.|Acheter|Kosomba|Buy|Buy|Kununua|Kusumba|Kusumba|Comprar||Kaufen|||||Koop|Aĉeti|Покупать|Ukuthenga
+vendre|Verbes|🔤|Ils vendent des produits locaux.|Vendre|Koteka|||Kuuza|Kupana / Kuluisha|Kuteka / Kukita|Vender||Verkaufen|||||Verkoop|Vendi|Продавать|Ukuthengisa
+ancien|Adjectifs|✨||Ancien|Ya kala|||Zamani|||Antiguo||Alt|||||Oud||Старый|Dala
+court|Adjectifs|✨||Court|Mokuse||||||||||||||||
+difficile|Adjectifs|✨||Difficile|Makasi / Pasi|||Ngumu||Mpasi|Difícil||Schwierig|||||Moeilik|Malfacila|Трудный|Nzima
+facile|Adjectifs|✨||Facile|Pɛtɛɛ / Pete|||Rahisi|||Fácil||Einfach|||||Maklik|Facila|Лёгкий|Lula
+beaucoup|Adjectifs|✨||Beaucoup|Mingi||||Bikole||||||||||||
+cent|Nombres|🔢|Ce livre a cent pages.|Cent|Nkama|Hundred|Hundred|Mia moja|Lukama|Nkama|Cien||Hundert|||||Honderd||Сто|Ikhulu
+mille|Nombres|🔢|La ville est à mille kilomètres.|Mille|Nkoto|Thousand|Thousand|Elfu moja|Tshinunu|Funda|Mil||Tausend|||||Duisend||Тысяча|Inkulungwane
+appartement|Lieux|📍||Appartement|Ndako ya kofanda|||Ghorofa|||Apartamento||Wohnung|||||Woonstel||Квартира|
+hotel|Lieux|📍||Hôtel|Otɛlɛ|||Hoteli|||Hotel||Hotel|||||Hotel||Гостиница|Ihhotela
+musee|Lieux|📍||Musée|||||||Museo||Museum||||||||
+toilettes|Lieux|📍||Toilettes|||||||Baño||Toilette||||||||
+banque|Lieux|📍||Banque|Banka|||Benki|||Banco||Bank|||||Bank||Банк|Ibhange
+plage|Lieux|📍||Plage||Beach|Beach||||Playa||Strand||||||||
+foret|Lieux|📍||Forêt|||||||Bosque||Wald||||||||
+parc|Lieux|📍||Parc|||||||Parque||Park||||||||
+riviere|Lieux|📍||Rivière||River|River||||Río||Fluss||||||||
+mer|Lieux|📍||Mer||Sea|Sea||||Mar||Meer||||||||
+lac|Lieux|📍||Lac|||||||Lago||See||||||||
+temps_meteo|Lieux|📍||Temps (météo)|||||||Tiempo (clima)||Wetter||||||||
+neige|Lieux|📍||Neige||Snow|Snow||||Nieve||Schnee||||||||
+orage|Lieux|📍||Orage||Storm|Storm||||Tormenta||Gewitter||||||||
+pharmacie|Santé|🩺||Pharmacie|Farmasi|||Duka la dawa|||Farmacia||Apotheke|||||Apteek||Аптека|Ikhemisi
+antidouleur|Santé|🩺||Antidouleur|||||||Analgésico||||||||||
+medicament|Santé|🩺|Prends ce médicament trois fois par jour.|Médicament|Nkisi|||Dawa|Mupangu / Buanga|Nkisi|Medicina / Medicamento||||||||||
+urgence|Santé|🩺||Urgence|||||||Emergencia||||||||||
+allergie|Santé|🩺||Allergie|||||||Alergia||||||||||
+assurance|Santé|🩺||Assurance|||||||Seguro||||||||||
+douleur|Corps|🫀|Il est malade.|Douleur||Pain|Pain|||Mpasi / Maladi|Dolor||Schmerz||||||||
+dos|Corps|🫀||Dos||Back|Back||||Espalda||Rücken||||||||
+abdomen|Corps|🫀||Abdomen|||||||Vientre||||||||||
+jambe|Corps|🫀|J'ai mal aux jambes.|Jambe|Likolo / Lokolo|Leg|Leg|Mguu|Dikulu / Makulu|Kulu / Makulu|Pierna||Bein|||||Been||Нога|Umlenze
+bras|Corps|🫀|Lave-toi les mains avant de manger.|Bras|Loboko / Lobɔkɔ|Arm|Arm|Mkono|Diboko / Maboko|Diboko / Maboko|Brazo||Arm|||||Arm||Рука|Ingalo
+dent|Corps|🫀|Brosse tes dents chaque matin.|Dent|Lino / Likuya|Tooth|Tooth|Jino|||Diente||Zahn|||||Tand||Зуб|Izinyo
+prenom|Identité|🪪||Prénom||First name|First name||||Nombre||||||||||
+nom_de_famille|Identité|🪪||Nom de famille||Surname|Surname||||Apellido||||||||||
+adresse|Identité|🪪||Adresse|||||||Dirección (postal)||||||||||
+numero_de_telephone|Identité|🪪||Numéro de téléphone|||||||Número de teléfono||||||||||
+pays|Identité|🪪|L'Espagne est un pays très diversifié.|Pays|Ekolo|Country|Country|Nchi|Ditunga|Nsi|País||Land|||||Land|Lando|Страна|Izwe
+lieu_de_naissance|Identité|🪪||Lieu de naissance|||||||Lugar de nacimiento||||||||||
+date_de_naissance|Identité|🪪||Date de naissance|||||||Fecha de nacimiento||||||||||
+passeport|Identité|🪪|Montrez votre passeport à la frontière.|Passeport|||||Mukanda wa buana||Pasaporte||||||||||
+profession|Identité|🪪||Profession|||||||Profesión||||||||||
+adulte|Identité|🪪||Adulte|||||||Adulto||||||||||
+supermarche|Achats|🛍️||Supermarché|||||||Supermercado||||||||||
+prix|Achats|🛍️|Le prix de cet article est juste.|Prix|Motuya / Ntalo|||Bei|Mushinga|Ntalu|Precio||Preis|||||Prys||Цена|Intengo
+ticket_de_caisse|Achats|🛍️||Ticket de caisse|||||||Recibo||||||||||
+distributeur_de_billets|Achats|🛍️||Distributeur de billets|||||||Cajero automático||||||||||
+carte_de_credit|Achats|🛍️||Carte de crédit|||||||Tarjeta de crédito||||||||||
+sac|Achats|🛍️||Sac|||||||Bolso||||||||||
+tampon|Achats|🛍️||Tampon|||||||Tampón||||||||||
+serviette_hygienique|Achats|🛍️||Serviette hygiénique|||||||Compresa||||||||||
+preservatif|Achats|🛍️||Préservatif|||||||Preservativo||||||||||
+brosse_a_dents|Achats|🛍️||Brosse à dents|||||||Cepillo de dientes||||||||||
+aide|Achats|🛍️|Merci beaucoup pour votre aide.|Aide||Help|Help||||Ayuda||||||||||
+police|Achats|🛍️|Ils ont appelé la police après l'accident.|Police|Polisi|||Polisi|||Policía||||||||||
+temps_duree|Temps|⏳||Temps (durée)|||||||Tiempo (duración)||||||||||
+heure|Temps|⏳|Quelle heure est-il ?|Heure|Ngonga|Hour|Hour||Diba||Hora||||||||||
+minute|Temps|⏳||Minute|||||||Minuto||||||||||
+lundi|Temps|⏳|Lundi je commence un nouveau cours.|Lundi|Mokolo ya mosala moko|||Jumatatu|Dimua|Kilumbu ya ntete|Lunes||||||||||
+mardi|Temps|⏳|Mardi nous allons au cinéma.|Mardi|Mokolo ya mosala mibale|||Jumanne|Dibidi|Kilumbu ya zole|Martes||||||||||
+mercredi|Temps|⏳|Aujourd'hui c'est mercredi.|Mercredi|Mokolo ya mosala misato|||Jumatano|Disatu|Kilumbu ya tatu|Miércoles||||||||||
+jeudi|Temps|⏳|Jeudi j'ai rendez-vous chez le dentiste.|Jeudi|Mokolo ya mosala minei|||Alhamisi|Dinayi|Kilumbu ya iya|Jueves||||||||||
+vendredi|Temps|⏳|Vendredi soir nous sortons dîner.|Vendredi|Mokolo ya mosala mitano|||Ijumaa|Ditanu|Kilumbu ya tanu|Viernes||||||||||
+samedi|Temps|⏳|Samedi je me repose à la maison.|Samedi|Mokolo ya poso / Poso|||Jumamosi|Disambombo|Sabala / Mposo|Sábado||||||||||
+dimanche|Temps|⏳|Le dimanche est un jour de repos.|Dimanche|Mokolo ya eyenga|||Jumapili|Lumingu|Lumingu|Domingo||||||||||
+apresmidi|Temps|⏳||Après-midi|||||||Por la tarde||Nachmittag||||||||
+plus_tot|Temps|⏳||Plus tôt|||||||Antes||||||||||
+plus_tard|Temps|⏳||Plus tard|||||||Más tarde||||||||||
+a_lheure|Temps|⏳||À l’heure|||||||A tiempo||||||||||
+en_retard|Temps|⏳||En retard|||||||Con retraso||||||||||
+couleur|Couleurs|🎨||Couleur|||||||Color||||||||||
+blanc|Couleurs|🎨||Blanc|Mpɛmbɛ|White|White|Nyeupe|||Blanco||Weiß|||||Wit|Blanka|Белый|Mhlophe
+noir|Couleurs|🎨||Noir|Moindo|Black|Black|Nyeusi|||Negro||Schwarz|||||Swart|Nigra|Чёрный|Mnyama
+rouge|Couleurs|🎨||Rouge|Motane|||Nyekundu|||Rojo||Rot|||||Rooi|Ruĝa|Красный|Bomvu
+bleu|Couleurs|🎨||Bleu|Bleu|Blue|Blue|Bluu|||Azul||Blau|||||Blou|Blua|Синий|Luhlaza okwesibhakabhaka
+vert|Couleurs|🎨||Vert|Vert|Green|Green|Kijani|||Verde||Grün|||||Groen|Verda|Зелёный|Luhlaza
+jaune|Couleurs|🎨||Jaune|Jaune|Yellow|Yellow|Njano|||Amarillo||Gelb|||||Geel|Flava|Жёлтый|Phuzi
+de_toutes_les_couleurs|Couleurs|🎨||De toutes les couleurs|||||||Multicolor||||||||||
+internet|Technologie|💻||Internet|||||||Internet||||||||||
+mot_de_passe|Technologie|💻||Mot de passe|||||||Contraseña||||||||||
+wifi|Technologie|💻||Wifi|||||||Wifi||||||||||
+ordinateur|Technologie|💻||Ordinateur|Ordinatɛrɛ|||Kompyuta|||Ordenador / Computadora||Computer|||||Rekenaar||Компьютер|Ikhompyutha
+telephone|Technologie|💻|Mon téléphone n'a plus de batterie.|Téléphone|Telefone|||Simu|||Teléfono||Telefon|||||Telefoon||Телефон|Ucingo
+prise|Technologie|💻||Prise|||||||Enchufe||||||||||
+chargeur|Technologie|💻||Chargeur|||||||Cargador||||||||||
+charger|Verbes|🔤||Charger|||||||Recargar||||||||||
+chambre|Hébergement|🛏️||Chambre|Shambre|Room|Room|Chumba|||Habitación||Zimmer|||||Kamer|Ĉambro|Комната|Igumbi
+cle|Hébergement|🛏️|J'ai perdu la clé de ma maison.|Clé|Fungola|Key|Key|Ufunguo|||Llave||Schlüssel|||||Sleutel||Ключ|Ukhiye
+lit|Hébergement|🛏️|Je vais au lit parce que j'ai sommeil.|Lit|Mbeto|Bed|Bed|Kitanda||Mbeto|Cama||Bett|||||Bed|Lito|Кровать|Umbhede
+douche|Hébergement|🛏️||Douche|||||||Ducha||||||||||
+serviette_de_bain|Hébergement|🛏️||Serviette de bain|||||||Toalla||||||||||
+reservation|Hébergement|🛏️||Réservation|||||||Reserva||||||||||
+direction|Orientation|🧭||Direction|||||||Dirección (sentido)||Richtung||||||||
+entree|Orientation|🧭||Entrée||Entrance|Entrance||||Entrada||Eingang||||||||
+sortie|Orientation|🧭||Sortie||Exit|Exit||||Salida||Ausgang||||||||
+rue|Orientation|🧭||Rue|Balabala|Street|Street|Barabara|||Calle||Straße|||||Straat|Strato|Улица|Umgwaqo
+chemin|Orientation|🧭|Continue dans cette rue jusqu'au bout.|Chemin|Nzela|||Njia / Barabara|Njila|Nzila|Camino / Calle||Weg||||||||
+place|Orientation|🧭||Place|||||||Plaza||Platz||||||||
+a_droite|Orientation|🧭|Tourne à droite.|À droite|Loboko ya mobali||||Ku dia balume|Diboko ya kitata|A la derecha||Rechts||||||||
+a_gauche|Orientation|🧭|Tourne à gauche.|À gauche|Loboko ya mwasi||||Ku dia bakaji|Diboko ya kinkento|A la izquierda||Links||||||||
+tout_droit|Orientation|🧭|Va tout droit pendant deux pâtés de maisons.|Tout droit||||Moja kwa moja|Kumpala|Na ntwala|Todo recto / Derecho||Geradeaus||||||||
+retour|Orientation|🧭||Retour|||||||De vuelta||Zurück||||||||
+ici|Orientation|🧭|Viens ici.|Ici|Awa|Here|Here|Hapa||Awa|Aquí||Hier||||||||
+labas|Orientation|🧭|Sa maison est là-bas.|Là-bas|Kuna|||Pale / Kule||Kuna|Allí||Dort||||||||
+carte|Orientation|🧭||Carte|Mokanda|Map|Map||||Mapa||Karte||||||||
+je_suis_desole|Phrases|💬||Je suis désolé|||||||Lo siento||Es tut mir leid.||||||||
+excusezmoi|Phrases|💬|Excusez-moi, avez-vous l'heure ?|Excusez-moi|Limbisá ngai|||Samahani|||Disculpe / Perdón||Entschuldigen Sie|||||Verskoon my||Извините|Uxolo
+arrete|Phrases|💬||Arrête|||||||Alto||||||||||
+attention|Phrases|💬||Attention||Watch out|Watch out||||Cuidado||||||||||
+au_secours|Phrases|💬||Au secours||Help!|Help!||||Socorro||||||||||
+repas|Nourriture|🍽️||Repas|Bilei|Meal|Meal|Chakula|Biakudia|Madia|Comida||Mahlzeit||||||||
+petitdejeuner|Nourriture|🍽️||Petit-déjeuner|||||||Desayuno||Frühstück||||||||
+restaurant|Nourriture|🍽️||Restaurant|Restora|||Mgahawa|||Restaurante||Restaurant|||||Restaurant||Ресторан|Indawo yokudlela
+bar|Nourriture|🍽️||Bar|||||||Bar||||||||||
+menu|Nourriture|🍽️||Menu|||||||Menú||||||||||
+entree_plat|Nourriture|🍽️||Entrée (plat)|||||||Aperitivo||||||||||
+plat_principal|Nourriture|🍽️||Plat principal|||||||Plato principal||||||||||
+dessert|Nourriture|🍽️||Dessert|||||||Postre||||||||||
+addition|Nourriture|🍽️||Addition|||||||Cuenta||||||||||
+vegetarien|Nourriture|🍽️||Végétarien|||||||Vegetariano||||||||||
+vegan|Nourriture|🍽️||Végan|||||||Vegano||||||||||
+sans_gluten|Nourriture|🍽️||Sans gluten|||||||Sin gluten||||||||||
+epice|Nourriture|🍽️||Épicé||Spicy|Spicy||||Picante||||||||||
+porc|Nourriture|🍽️||Porc||Pork|Pork||||Cerdo||||||||||
+salade|Nourriture|🍽️||Salade|||||||Ensalada||||||||||
+fromage|Nourriture|🍽️||Fromage||||Jibini|||Queso||Käse|||||Kaas||Сыр|Ushizi
+fruits|Nourriture|🍽️||Fruits|||||||Frutas||||||||||
+legumes|Nourriture|🍽️|La soupe contient beaucoup de légumes.|Légumes|||||||Verduras||||||||||
+noix|Nourriture|🍽️||Noix|||||||Frutos secos||||||||||
+cafe_boisson|Nourriture|🍽️||Café (boisson)|||||||Café (bebida)||||||||||
+the|Nourriture|🍽️||Thé|Tii|||Chai|||Té||Tee|||||Tee||Чай|Itiye
+vin|Nourriture|🍽️||Vin|||||||Vino||||||||||
+biere|Nourriture|🍽️|Il boit un peu de bière.|Bière||||Pombe / Bia|||Cerveza||||||||||
+sans_alcool|Nourriture|🍽️||Sans alcool|||||||Sin alcohol||||||||||
+a_ta_sante|Nourriture|🍽️||À ta santé||Cheers|Cheers||||Salud||||||||||
+vieux|Adjectifs|✨||Vieux|||||||Viejo||Alt||||||||
+jeune|Adjectifs|✨||Jeune|Elenge|Young|Young|Changa|||Joven||Jung|||||Jonk|Juna|Молодой|Ncane
+pas_cher|Adjectifs|✨||Pas cher|||||||Barato||||||||||
+cher|Adjectifs|✨|Cette montre est trop chère.|Cher|Ntalo mingi|Expensive|Expensive|Ghali|Mushinga mukole|Ntalu mingi|Caro||Teuer|||||Duur||Дорогой|Biza
+sombre|Adjectifs|✨||Sombre|||||||Oscuro||||||||||
+clair|Adjectifs|✨||Clair|||||||Claro||||||||||
+ouvert|Adjectifs|✨||Ouvert|||||||Abierto||||||||||
+ferme|Adjectifs|✨||Fermé||Closed|Closed||||Cerrado||||||||||
+pres|Adjectifs|✨|L'hôtel est très près d'ici.|Près|Pene|Near|Near|Karibu|Pabuipi|Pene-pene|Cerca||||||||||
+loin|Adjectifs|✨|L'aéroport est loin de la ville.|Loin|Mosika|||Mbali|Kule|Ntama|Lejos||||||||||
+ensemble|Adjectifs|✨||Ensemble|||||||Juntos/as||||||||||
+separe|Adjectifs|✨||Séparé|||||||Separado||||||||||
+important|Adjectifs|✨||Important|Ya ntina|Important|Important|Muhimu|||Importante||Wichtig|||||Belangrik||Важный|Balulekile
+fatigue|Adjectifs|✨||Fatigué|Kolɛmba|||Chovu|||Cansado||Müde|||||Moeg||Уставший|Khathele
+visiter|Verbes|🔤||Visiter|||||||Visitar||||||||||
+rester|Verbes|🔤||Rester|||||||Quedarse||Bleiben||||||||
+avoir_besoin_de|Verbes|🔤||Avoir besoin de|||||||Necesitar||||||||||
+demander|Verbes|🔤||Demander|Kotuna|||Kuuliza|||Preguntar||Fragen|||||Vra|Demandi|Спрашивать|Ukubuza
+avoir|Verbes|🔤|J'ai très envie d'apprendre.|Avoir|Kozala na|||Kuwa na|||Tener / Haber||Haben|||||Hê|Havi|Иметь|Ukuba no-
+pouvoir|Verbes|🔤|Peux-tu m'aider avec ceci ?|Pouvoir|Kokoka|||Kuweza|||Poder||Können|||||Kan|Povi|Мочь|Ukukwazi
+apprendre|Verbes|🔤|Nous étudions en classe.|Apprendre|Koyekola|Learn|Learn|Kujifunza|Kulonga||Aprender||Lernen|||||Leer|Lerni|Учить|Ukufunda
+faire|Verbes|🔤|Que vas-tu faire ce week-end ?|Faire|Kosala|||Kufanya|Kuenza|Kusala|Hacer||Machen / Tun|||||Doen / Maak|Fari|Делать|Ukwenza
+dire|Verbes|🔤|Il/Elle parle bien swahili.|Dire|Koloba|Say|Say|Kusema / Kuongea|Kuakula|Kutuba|Decir||Sagen|||||Sê|Diri|Сказать|Ukusho
+chercher|Verbes|🔤||Chercher|Koluka|Look for|Look for|Kutafuta|||Buscar||Suchen||||||||
+telephoner|Verbes|🔤||Téléphoner|||||||Llamar por teléfono||||||||||
+attendre|Verbes|🔤||Attendre|Kozela|||Kusubiri|||Esperar||Warten|||||Wag|Atendi|Ждать|Ukulinda
+vouloir|Verbes|🔤|Je veux voyager dans le monde entier.|Vouloir|Kolinga|Want|Want|Kutaka|Kusua|Kuzola|Querer||Wollen|||||Wil|Voli|Хотеть|Ukufuna
+payer|Verbes|🔤|Puis-je payer par carte ?|Payer|Futa / Kofuta|||Kulipa|Kufuta|Kufuta|Pagar||Bezahlen|||||Betaal|Pagi|Платить|Ukukhokha
+zero|Nombres|🔢|La température est descendue à zéro degré.|Zéro||Zero|Zero||||Cero||||||||||
+vingt|Nombres|🔢|Il y a vingt étudiants dans la salle de classe.|Vingt|Ntuku mibale|Twenty|Twenty|Ishirini|Makumi abidi|Makumi zole|Veinte||Zwanzig|||||Twintig||Двадцать|Amashumi amabili
+cinquante|Nombres|🔢|Cinquante francs.|Cinquante||Fifty|Fifty|Hamsini|||Cincuenta||||||||||
+train|Transports|🚆||Train|Train|||Treni|||Tren||Zug|||||Trein|Trajno|Поезд|Isitimela
+bus|Transports|🚆|Le bus part toutes les demi-heures.|Bus|Bisi|||Basi|||Autobús||Bus|||||Bus|Buso|Автобус|Ibhasi
+tramway|Transports|🚆||Tramway|||||||Tranvía||||||||||
+taxi|Transports|🚆||Taxi|||||||Taxi||||||||||
+velo|Transports|🚆||Vélo|Veló|||Baiskeli|||Bicicleta||Fahrrad|||||Fiets||Велосипед|Ibhayisikili
+a_pied|Transports|🚆||À pied|||||||A pie||||||||||
+gare|Transports|🚆||Gare|Gare|||Kituo cha treni|Tshitudilu|Gare / Kisika ya kutelama|Estación / Estación de tren||Bahnhof|||||Stasie||Вокзал|Isiteshi sesitimela
+gare_routiere|Transports|🚆||Gare routière|||||||Estación de autobuses||||||||||
+aeroport|Transports|🚆||Aéroport|Libándá ya mpɛ́pɔ|Airport|Airport|Uwanja wa ndege|||Aeropuerto||Flughafen|||||Lughawe||Аэропорт|Isikhumulo sezindiza
+avion|Transports|🚆|Mon avion atterrit à dix heures.|Avion|Mpepo / Mpɛpɔ|Airplane|Airplane|Ndege|Ndèke|Ndeke|Avión||Flugzeug|||||Vliegtuig|Aviadilo|Самолёт|Indiza
+arret|Transports|🚆|Arrête-toi à l'arrêt.|Arrêt|||||Tshitudilu|Gare / Kisika ya kutelama|Parada de autobús||||||||||
+billet|Transports|🚆|J'ai déjà acheté mon billet aller-retour.|Billet|||||||Billete / Boleto||Fahrkarte||||||||
+bagages|Transports|🚆||Bagages||Luggage|Luggage||||Equipaje||||||||||
+questce_que_cest|Phrases|💬||Qu’est-ce que c’est ... ?|||||||||Was ist …?||||||||
+comment|Phrases|💬||Comment …?|Ndenge nini|||Vipi||Ina / Ndenge nini|Cómo||Wie|||||Hoe|Kiel|Как|Kanjani
+ca_coute_combien|Phrases|💬||Ça coûte combien ?|||||||||Wie viel kostet es?||||||||
+ca_prendra_combien_de_temps|Phrases|💬||Ça prendra combien de temps ?|||||||||Wie lange dauert es?||||||||
+quelle_heure_estil|Phrases|💬|Pardon, savez-vous quelle heure il est ?|Quelle heure est-il ?||||Saa ngapi?|||¿Qué hora es?||Wie viel Uhr ist es?||||||||
+parlezvous_anglais|Phrases|💬||Parlez-vous anglais ?|||||||||Sprechen Sie Englisch?||||||||
+il_y_a|Phrases|💬||Il y a ... ?|||||||||Gibt es …?||||||||
+je_voudrais|Phrases|💬||Je voudrais ...|||||||||Ich hätte gerne …||||||||
+jai_besoin_de|Phrases|💬||J’ai besoin de ...|||||||||Ich brauche …||||||||
+pas_de_probleme|Phrases|💬||Pas de problème !|||||Bualu kabuyi||||Kein Problem!||||||||
+merci_beaucoup|Salutations|👋|Merci beaucoup pour ton aide.|Merci beaucoup|Matondi mingi|||Asante sana|Tuasakidila bikole / Tuasakidila wa bungi|Matondo mingi|Muchas gracias||Vielen Dank|||||Baie dankie|Multan dankon|Большое спасибо|Ngiyabonga kakhulu
+je|Pronoms|👤||Je|Ngai|||Mimi||Mono|Yo||Ich|||||Ek|Mi|Я|Mina
+tu|Pronoms|👤||Tu|Yo|||Wewe||Nge|Tú||Du|||||Jy|Vi|Ты|Wena
+il|Pronoms|👤|Il/Elle est à la maison.|Il|Azali / Ye|||Yeye|Udi wenza|Yandi kele / Yandi|Él||Er|||||Hy|Li|Он|Yena
+elle|Pronoms|👤||Elle|Ye|||Yeye||Yandi|Ella||Sie|||||Sy|Ŝi|Она|Yena
+ils|Pronoms|👤|Ils travaillent.|Ils|Bazali / Bango|||Wao|Badi benza|Bau kele / Bawu|Ellos||Sie|||||Hulle|Ili|Они|Bona
+qui|Pronoms|👤||Qui|Nani|||Nani||Nani|Quién||Wer|||||Wie|Kiu|Кто|Ubani
+quoi|Pronoms|👤||Quoi|Nini|||Nini||Nki|Qué||Was|||||Wat|Kio|Что|Ini
+ou|Pronoms|👤|Où vas-tu ?|Où|Wapi ?|||Wapi?||Wapi?|Dónde||Wo|||||Waar|Kie|Где|Kuphi
+bonsoir|Salutations|👋|Bonne nuit, repose-toi bien.|Bonsoir|Mbote na pokwa / Mbote na mpokwa|||Habari za jioni|Muoyo wa dilolo|Mbote ya nkokila|Buenas noches||Guten Abend|||||Goeienaand|Bonan vesperon|Добрый вечер|Sawubona kusihlwa
+a_bientot|Salutations|👋|On se voit demain.|À bientôt|Tokomonana kala te|||Tutaonana hivi karibuni||Beto ke monana|Hasta pronto||Bis bald!|||||Sien jou binnekort|Ĝis baldaŭ|До скорого|
+peutetre|Salutations|👋||Peut-être|Mbala mosusu|||Labda|||Quizás||Vielleicht|||||Miskien|Eble|Может быть|Mhlawumbe
+quand|Pronoms|👤||Quand|Ntango nini|||Lini|||Cuándo||Wann|||||Wanneer|Kiam|Когда|Nini
+pourquoi|Pronoms|👤||Pourquoi|Mpo na nini|||Kwa nini|||Por qué||Warum|||||Waarom|Kial|Почему|Kungani
+combien_2|Pronoms|👤||Combien|Boni|||Ngapi|||Cuánto||Wie viel|||||Hoeveel|Kiom|Сколько|Malini / Kungaki
+repondre|Verbes|🔤||Répondre|Kopesa eyano|||Kujibu|||Responder||Antworten|||||Antwoord|Respondi|Отвечать|Ukuphendula
+connaitre|Verbes|🔤||Connaître|Koyeba|||Kuifahamu|Kumanya|Kuzaba|Conocer||Kennen|||||Ken|Konati|Знать|Ukwazi
+etudier|Verbes|🔤||Étudier|Koyekola|||Kusoma|Kulonga|Kutanga|Estudiar||Studieren / Lernen|||||Studeer|Studi|Учиться|Ukufunda
+ouvrir|Verbes|🔤||Ouvrir|Kofungola|||Kufungua|||Abrir||Öffnen|||||Oopmaak|Malfermi|Открывать|Ukuvula
+fermer|Verbes|🔤||Fermer|Kokanga|||Kufunga|||Cerrar||Schließen|||||Toemaak|Fermi|Закрывать|Ukuvala
+garcon|Famille|👨‍👩‍👧|Le garçon est allé à l'école.|Garçon|Mwana mobali|||Mvulana|||Niño||Junge|||||Seun|Knabo|Мальчик|Umfana
+fille|Famille|👨‍👩‍👧|La fille lit un livre.|Fille|Mwana mwasi|||Msichana|||Niña||Mädchen|||||Meisie / Dogter|Knabino|Девочка|Intombazane
+amie|Famille|👨‍👩‍👧||Amie|Moninga|||Rafiki|||Amiga||Freundin|||||Vriendin|Amikino|Подруга|
+porte|Vie|🏠|Ferme la porte, s'il te plaît.|Porte|Ekuke|||Mlango||Kielo|Puerta||Tür|||||Deur|Pordo|Дверь|Umnyango
+fenetre|Vie|🏠|Ouvre la fenêtre pour faire entrer l'air.|Fenêtre|Lininisa / Fenetre|||Dirisha||Sunga / Nela|Ventana||Fenster|||||Venster|Fenestro|Окно|Iwindi
+table|Vie|🏠|Le repas est sur la table.|Table|Mesa|||Meza||Mesa|Mesa||Tisch|||||Tafel|Tablo|Стол|Itafula
+chaise|Vie|🏠|Assieds-toi sur cette chaise.|Chaise|Kiti|||Kiti||Kiti|Silla||Stuhl|||||Stoel|Seĝo|Стул|Isihlalo
+it|Nourriture|🍽️|Les enfants boivent du lait au petit-déjeuner.|It|Miliki|||Maziwa|||Leche||Milch|||||Melk|Lakto|Молоко|Ubisi
+pomme|Nourriture|🍽️||Pomme||||Tufaha|||Manzana||Apfel|||||Appel|Pomo|Яблоко|Ihhabhula
+cahier|Société|🏛️||Cahier|Kaye|||Daftari|||Cuaderno||Heft|||||Skrif|Kajero|Тетрадь|Incwadi yokubhalela
+stylo|Société|🏛️||Stylo|Kalamu|||Kalamu|||Bolígrafo||Kugelschreiber|||||Pen|Plumo|Ручка|Ipeni
+question|Société|🏛️||Question|Motuna|||Swali|||Pregunta||Frage|||||Vraag|Demando|Вопрос|Umbuzo
+reponse|Société|🏛️||Réponse|Eyano|||Jibu|||Respuesta||Antwort|||||Antwoord|Respondo|Ответ|Impendulo
+ngue|Société|🏛️||Ngue|Lokota|||Lugha|Muakulu||Idioma||Sprache|||||Taal|Lingvo|Язык|Ulimi
+mot|Société|🏛️||Mot|Liloba|||Neno|||Palabra||Wort|||||Woord|Vorto|Слово|Igama
+eglise|Lieux|📍|L'église est au centre du village.|Église|Ndako ya Nzambe / Lingomba|||Kanisa|Nzubu wa Nzambi|Nzo-Nzambi|Iglesia||Kirche|||||Kerk|Preĝejo|Церковь|Isonto
+rapide|Adjectifs|✨||Rapide|Nokí|||Haraka|||Rápido||Schnell|||||Vinnig|Rapida|Быстрый|Shesha
+nt|Adjectifs|✨||Nt|Malɛmbɛ|||Polepole|||Lento||Langsam|||||Stadig|Malrapida|Медленный|Phuza
+heureux|Adjectifs|✨||Heureux|Na esengo|||Furaha|||Feliz||Glücklich|||||Gelukkig|Feliĉa|Счастливый|Jabule
+triste|Adjectifs|✨||Triste|Na mawa|||Huzuni|||Triste||Traurig|||||Hartseer|Malĝoja|Грустный|Dabukile
+monde|Vie|🏠||Monde|Mokili|||Dunia|Buloba||Mundo||Welt|||||Wêreld|Mondo|Мир|Umhlaba
+liberte|Vie|🏠||Liberté|Bonsomi|||Uhuru|||Libertad||Freiheit|||||Vryheid|Libereco|Свобода|Inkululeko
+vivre|Verbes|🔤||Vivre|Kozala na bomoi|||Kuishi|||Vivir||Leben|||||Lewe|Vivi|Жить|Ukuphila
+cuisine|Vie|🏠|Ma mère prépare le dîner dans la cuisine.|Cuisine|Esika ya kolamba|||Jikoni||Kikuku|Cocina||Küche|||||Kombuis||Кухня|Ikhishi
+oeuf|Nourriture|🍽️||Œuf|Likei|||Yai|||Huevo||Ei|||||Eier||Яйцо|Iqanda
+orange|Nourriture|🍽️||Orange|Ɔranzɛ|||Chungwa|||Naranja||Orange|||||Lemoen||Апельсин|Iwolintshi
+tomate|Nourriture|🍽️||Tomate|Tomate|||Nyanya|||Tomate||Tomate|||||Tamatie||Помидор|Utamatisi
+oignon|Nourriture|🍽️||Oignon|Litungulu|||Kitunguu|||Cebolla||Zwiebel|||||Ui||Лук|U-anyanisi
+visage|Corps|🫀||Visage|Elongi|||Uso|||Cara||Gesicht|||||Gesig||Лицо|Ubuso
+oreille|Corps|🫀|Écoute avec tes oreilles.|Oreille|Litoi / Litoyi|||Sikio / Masikio|Ditshi / Matshi|Dikutu / Makutu|Oreja||Ohr|||||Oor||Ухо|Indlebe
+nez|Corps|🫀|Le nez est bouché à cause du rhume.|Nez|Zolo|||Pua|||Nariz||Nase|||||Neus||Нос|Ikhala
+universite|Société|🏛️||Université|Université|||Chuo kikuu|||Universidad||Universität|||||Universiteit||Университет|Inyuvesi
+papier|Société|🏛️||Papier|Papye|||Karatasi|||Papel||Papier|||||Papier||Бумага|Iphepha
+magasin|Lieux|📍|Le magasin ferme à huit heures.|Magasin|Magazini|||Duka|||Tienda||Geschäft|||||Winkel||Магазин|Isitolo
+voyage|Transports|🚆|Bon voyage ! Que tout se passe bien pour toi.|Voyage|Mobembo|||Safari|Luendu||Viaje||Reise|||||Reis||Путешествие|Uhambo
+gratuit|Adjectifs|✨||Gratuit|Ofele|||Bure|||Gratis||Kostenlos|||||Gratis||Бесплатный|Mahhala
+propre|Adjectifs|✨||Propre|Petolɔ|||Safi|||Limpio||Sauber|||||Skoon||Чистый|Hlanzekile
+sale|Adjectifs|✨||Sale|Mbindo|||Chafu|||Sucio||Schmutzig|||||Vuil||Грязный|Ngcolile
+gris|Couleurs|🎨||Gris|Gris|||Kijivu|||Gris||Grau|||||Grys||Серый|Mpunga
+rose|Couleurs|🎨||Rose|Rose|||Waridi|||Rosa||Rosa|||||Pienk||Розовый|Phinki
+probleme|Vie|🏠||Problème|Mokakatano|||Tatizo|||Problema||Problem|||||Probleem||Проблема|Inkinga
+solution|Vie|🏠||Solution|Eyano|||Suluhisho|||Solución||Lösung|||||Oplossing||Решение|Isixazululo
+vent|Vie|🏠||Vent|Mopepe|||Upepo|||Viento||Wind|||||Wind||Ветер|Umoya
+devoir|Verbes|🔤||Devoir|Kosengela|||Kulazimika|||Deber||Müssen / Sollen|||||||Долженствовать|
+trente|Nombres|🔢||Trente|Ntuku misato|||Thelathini|||Treinta||Dreißig|||||||Тридцать|
+elles|Pronoms|👤||Elles|Bango|||Wao|||Ellas||Sie||||||||
+commencer|Verbes|🔤||Commencer|Kobanda|||Kuanza|||Empezar||Beginnen||||||||
+finir|Verbes|🔤||Finir|Kosilisa|||Kumaliza|||Terminar||Beenden||||||||
+trouver|Verbes|🔤||Trouver|Komona|||Kupata|||Encontrar||Finden||||||||
+parents|Famille|👨‍👩‍👧||Parents|Baboti|||Wazazi|||Padres||Eltern||||||||
+mari|Famille|👨‍👩‍👧|Elle est mon épouse.|Mari|Mobali|||Mume|Mulume|Bakala|Esposo / Esposa||Ehemann||||||||
+epouse|Famille|👨‍👩‍👧||Épouse|Mwasi|||Mke|Mukaji|Nkento|Esposa||Ehefrau||||||||
+a_demain|Salutations|👋||À demain|||||||||Bis morgen||||||||
+mon|Pronoms|👤||Mon|||||||||Mein||||||||
+ma|Pronoms|👤||Ma|||||||||Meine||||||||
+mes|Pronoms|👤||Mes|||||||||Meine||||||||
+ton|Pronoms|👤||Ton|||||||||Dein||||||||
+son|Pronoms|👤||Son|||||||||Sein / Ihr||||||||
+notre|Pronoms|👤||Notre|||||||||Unser||||||||
+votre|Pronoms|👤||Votre|||||||||Ihr / Euer||||||||
+regarder|Verbes|🔤||Regarder|||||||Ver / Mirar||Anschauen||||||||
+entendre|Verbes|🔤|As-tu entendu cette affaire ?|Entendre|Koyoka|||Kusikia|Kumvua|Kuwa|||Hören||||||||
+ecouter|Verbes|🔤|J'écoute de la musique pendant que j'étudie.|Écouter|Koyoka|||Kusikia|||Escuchar||Zuhören||||||||
+enseigner|Verbes|🔤||Enseigner|||||||||Unterrichten||||||||
+se_reveiller|Verbes|🔤|Je me suis réveillé à 6h du matin.|Se réveiller||||Kuamka|||||Aufwachen||||||||
+preferer|Verbes|🔤||Préférer|||||||||Bevorzugen||||||||
+partir|Verbes|🔤||Partir|Kokende||||Kuya|Kukwenda|||Weggehen / Abreisen||||||||
+arriver|Verbes|🔤||Arriver|||||Kulua||||Ankommen||||||||
+courir|Verbes|🔤||Courir|||||||||Laufen||||||||
+marcher|Verbes|🔤||Marcher|||||||||Gehen||||||||
+conduire|Verbes|🔤||Conduire|||||||||Fahren||||||||
+professeur|Famille|👨‍👩‍👧||Professeur|||||||||Lehrer / Lehrerin||||||||
+eleve|Famille|👨‍👩‍👧||Élève|||||||||Schüler / Schülerin||||||||
+voisin|Famille|👨‍👩‍👧||Voisin|||||||||Nachbar / Nachbarin||||||||
+salon|Vie|🏠||Salon|||||||||Wohnzimmer||||||||
+salle_de_bains|Vie|🏠||Salle de bains|||||||||Badezimmer||||||||
+armoire|Vie|🏠||Armoire|||||||||Schrank||||||||
+mpe|Vie|🏠||Mpe|Mwinda||||||||Lampe||||||||
+electricite|Vie|🏠||Électricité|Mwinda||||||||Strom||||||||
+beurre|Nourriture|🍽️||Beurre|||||||||Butter||||||||
+fruit|Nourriture|🍽️|Il est bon de manger des fruits tous les jours.|Fruit|Mbuma|||||Mbuma|Fruta||Frucht||||||||
+legume|Nourriture|🍽️||Légume|||||||||Gemüse||||||||
+pomme_de_terre|Nourriture|🍽️||Pomme de terre|||||||||Kartoffel||||||||
+jus|Nourriture|🍽️||Jus|||||||||Saft||||||||
+dejeuner|Nourriture|🍽️||Déjeuner|||||||||Mittagessen||||||||
+diner|Nourriture|🍽️||Dîner|||||||||Abendessen||||||||
+cheveux|Corps|🫀||Cheveux|||||||||Haare||||||||
+ventre|Corps|🫀|J'ai mal au ventre.|Ventre|Libumu|||Tumbo||Kivumu|||Bauch||||||||
+sante|Corps|🫀|La santé est ce qu'il y a de plus important.|Santé||||||Mavimpi|Salud||Gesundheit||||||||
+maladie|Corps|🫀|Cette maladie guérit vite.|Maladie|Bokono|||Ugonjwa|Disama|Mpasi / Maladi|||Krankheit||||||||
+crayon|Société|🏛️||Crayon|||||||||Bleistift||||||||
+phrase|Société|🏛️||Phrase|||||||||Satz||||||||
+examen|Société|🏛️||Examen|||||||||Prüfung||||||||
+cours|Société|🏛️||Cours|||||||||Unterricht||||||||
+connaissance|Société|🏛️||Connaissance|||||||||Wissen||||||||
+bureau|Lieux|📍||Bureau|||||||||Büro||||||||
+pont|Lieux|📍||Pont|||||||||Brücke||||||||
+paysage|Lieux|📍||Paysage|||||||||Landschaft||||||||
+moto|Transports|🚆|Prends une moto pour arriver vite.|Moto||||Pikipiki / Bodaboda||Tuku-tuku|||Motorrad||||||||
+bateau|Transports|🚆|Le bateau est parti pour Kisangani.|Bateau|Masuwa|||Meli / Boti|Mashua|Maswa|||Boot||||||||
+valise|Transports|🚆||Valise|||||||||Koffer||||||||
+depart|Transports|🚆||Départ|||||||||Abfahrt||||||||
+arrivee|Transports|🚆||Arrivée|||||||||Ankunft||||||||
+temps|Temps|⏳||Temps|||||Diba||||Zeit||||||||
+tot|Temps|⏳||Tôt|||||||||Früh||||||||
+tard|Temps|⏳||Tard|||||||||Spät||||||||
+joli|Adjectifs|✨||Joli|||||||||Hübsch||||||||
+possible|Adjectifs|✨||Possible|||||||||Möglich||||||||
+impossible|Adjectifs|✨||Impossible|||||||||Unmöglich||||||||
+marron|Couleurs|🎨||Marron|||||||||Braun||||||||
+emploi|Vie|🏠||Emploi|||||||||Arbeitsplatz||||||||
+guerre|Vie|🏠||Guerre|||||||||Krieg||||||||
+temps_quil_fait|Vie|🏠||Temps qu'il fait|||||||||Wetter||||||||
+droit|Vie|🏠|L'éducation est un droit fondamental.|Droit|||||||Derecho||Recht||||||||
+je_parle_francais|Phrases|💬||Je parle français.|||||||||Ich spreche Französisch.||||||||
+je_parle_allemand|Phrases|💬||Je parle allemand.|||||||||Ich spreche Deutsch.||||||||
+parlezvous_francais|Phrases|💬||Parlez-vous français ?|||||||||Sprechen Sie Französisch?||||||||
+parlezvous_allemand|Phrases|💬||Parlez-vous allemand ?|||||||||Sprechen Sie Deutsch?||||||||
+comment_vous_appelezvous|Phrases|💬||Comment vous appelez-vous ?|||||||||Wie heißen Sie?||||||||
+enchante|Phrases|💬||Enchanté|||||||||Freut mich||||||||
+je_suis_fatigue|Phrases|💬|Je suis fatigué à cause du travail d'aujourd'hui.|Je suis fatigué.|||||Ndi mutshioke||||Ich bin müde.||||||||
+jai_faim|Phrases|💬|J'ai très faim, allons manger.|J'ai faim.|||||Nzala idi inkuata||Tengo hambre / Sed||Ich habe Hunger.||||||||
+jai_soif|Phrases|💬|J'ai soif, donne-moi de l'eau.|J'ai soif.|||||Nyota idi inkuata||Tengo hambre / Sed||Ich habe Durst.||||||||
+jai_besoin_daide|Phrases|💬||J'ai besoin d'aide.|||||||||Ich brauche Hilfe.||||||||
+pouvezvous_maider|Phrases|💬||Pouvez-vous m'aider ?|||||||||Können Sie mir helfen?||||||||
+repetez_sil_vous_plait|Phrases|💬||Répétez, s'il vous plaît.|||||||||Wiederholen Sie bitte.||||||||
+parlez_lentement_sil_vous_plait|Phrases|💬||Parlez lentement, s'il vous plaît.|||||||||Sprechen Sie bitte langsam.||||||||
+que_signifie_ce_mot|Phrases|💬||Que signifie ce mot ?|||||||||Was bedeutet dieses Wort?||||||||
+je_ne_sais_pas|Phrases|💬|Excuse-moi, je ne sais pas.|Je ne sais pas.|||||Tshiena mumanye to||||Ich weiß es nicht.||||||||
+je_suis_daccord|Phrases|💬||Je suis d'accord.|||||||||Ich bin einverstanden.||||||||
+je_ne_suis_pas_daccord|Phrases|💬||Je ne suis pas d'accord.|||||||||Ich bin nicht einverstanden.||||||||
+ce_nest_pas_grave|Phrases|💬||Ce n'est pas grave.|||||||||Das macht nichts.||||||||
+faites_attention|Phrases|💬||Faites attention !|||||||||Passen Sie auf!||||||||
+ou_sont_les_toilettes|Orientation|🧭||Où sont les toilettes ?|||||||||Wo ist die Toilette?||||||||
+ou_se_trouve_la_gare|Orientation|🧭||Où se trouve la gare ?|||||||||Wo ist der Bahnhof?||||||||
+ou_se_trouve_laeroport|Orientation|🧭||Où se trouve l'aéroport ?|||||||||Wo ist der Flughafen?||||||||
+je_cherche_un_hotel|Orientation|🧭||Je cherche un hôtel.|||||||||Ich suche ein Hotel.||||||||
+jai_une_reservation|Orientation|🧭||J'ai une réservation.|||||||||Ich habe eine Reservierung.||||||||
+combien_coute_le_billet|Orientation|🧭||Combien coûte le billet ?|||||||||Wie viel kostet die Fahrkarte?||||||||
+a_quelle_heure_part_le_train|Orientation|🧭||À quelle heure part le train ?|||||||||Wann fährt der Zug ab?||||||||
+je_voudrais_un_billet|Orientation|🧭||Je voudrais un billet.|||||||||Ich möchte eine Fahrkarte.||||||||
+je_voudrais_reserver_une_chambre|Orientation|🧭||Je voudrais réserver une chambre.|||||||||Ich möchte ein Zimmer reservieren.||||||||
+appelez_un_taxi_sil_vous_plait|Orientation|🧭||Appelez un taxi, s'il vous plaît.|||||||||Rufen Sie bitte ein Taxi.||||||||
+je_suis_perdu|Orientation|🧭|Pardon, je me suis perdu en chemin.|Je suis perdu.||||Nimepotea|Ndi mujimine||||Ich habe mich verlaufen.||||||||
+tournez_a_gauche|Orientation|🧭||Tournez à gauche.|||||||||Biegen Sie links ab.||||||||
+tournez_a_droite|Orientation|🧭||Tournez à droite.|||||||||Biegen Sie rechts ab.||||||||
+allez_tout_droit|Orientation|🧭||Allez tout droit.|||||||||Gehen Sie geradeaus.||||||||
+cest_loin|Orientation|🧭||C'est loin ?|||||||||Ist es weit?||||||||
+cest_pres_dici|Orientation|🧭||C'est près d'ici.|||||||||Es ist in der Nähe.||||||||
+je_voudrais_le_menu|Nourriture|🍽️||Je voudrais le menu.|||||||||Ich hätte gern die Speisekarte.||||||||
+laddition_sil_vous_plait|Nourriture|🍽️||L'addition, s'il vous plaît.|||||||||Die Rechnung, bitte.||||||||
+je_voudrais_de_leau|Nourriture|🍽️||Je voudrais de l'eau.|||||||||Ich hätte gern Wasser.||||||||
+je_suis_vegetarien|Nourriture|🍽️||Je suis végétarien.|||||||||Ich bin Vegetarier.||||||||
+cest_delicieux|Nourriture|🍽️||C'est délicieux.|||||||||Das ist köstlich.||||||||
+je_nai_pas_commande_cela|Nourriture|🍽️||Je n'ai pas commandé cela.|||||||||Das habe ich nicht bestellt.||||||||
+avezvous_une_table_libre|Nourriture|🍽️||Avez-vous une table libre ?|||||||||Haben Sie einen freien Tisch?||||||||
+je_voudrais_payer_par_carte|Achats|🛍️||Je voudrais payer par carte.|||||||||Ich möchte mit Karte bezahlen.||||||||
+acceptezvous_les_especes|Achats|🛍️||Acceptez-vous les espèces ?|||||||||Nehmen Sie Bargeld an?||||||||
+cest_trop_cher|Achats|🛍️||C'est trop cher.|||||||||Das ist zu teuer.||||||||
+avezvous_une_autre_taille|Achats|🛍️||Avez-vous une autre taille ?|||||||||Haben Sie eine andere Größe?||||||||
+je_regarde_seulement|Achats|🛍️||Je regarde seulement.|||||||||Ich schaue mich nur um.||||||||
+je_voudrais_acheter_ceci|Achats|🛍️||Je voudrais acheter ceci.|||||||||Ich möchte das kaufen.||||||||
+ou_est_la_pharmacie|Santé|🩺||Où est la pharmacie ?|||||||||Wo ist die Apotheke?||||||||
+jai_besoin_dun_medecin|Santé|🩺||J'ai besoin d'un médecin.|||||||||Ich brauche einen Arzt.||||||||
+appelez_une_ambulance|Santé|🩺||Appelez une ambulance !|||||||||Rufen Sie einen Krankenwagen!||||||||
+aidezmoi_sil_vous_plait|Santé|🩺||Aidez-moi, s'il vous plaît !|||||||||Helfen Sie mir bitte!||||||||
+je_ne_me_sens_pas_bien|Santé|🩺||Je ne me sens pas bien.|||||||||Mir geht es nicht gut.||||||||
+ou_est_lhopital_le_plus_proche|Santé|🩺||Où est l'hôpital le plus proche ?|||||||||Wo ist das nächste Krankenhaus?||||||||
+jai_perdu_mon_passeport|Santé|🩺||J'ai perdu mon passeport.|||||||||Ich habe meinen Reisepass verloren.||||||||
+je_voudrais_prendre_rendezvous|Société|🏛️||Je voudrais prendre rendez-vous.|||||||||Ich möchte einen Termin vereinbaren.||||||||
+je_travaille_aujourdhui|Société|🏛️||Je travaille aujourd'hui.|||||||||Ich arbeite heute.||||||||
+je_suis_etudiant|Société|🏛️||Je suis étudiant.|||||||||Ich bin Student.||||||||
+la_reunion_commence_a_neuf_heures|Société|🏛️||La réunion commence à neuf heures.|||||||||Die Besprechung beginnt um neun Uhr.||||||||
+je_vous_enverrai_un_message|Société|🏛️||Je vous enverrai un message.|||||||||Ich werde Ihnen eine Nachricht schicken.||||||||
+merci_pour_votre_reponse|Société|🏛️||Merci pour votre réponse.|||||||||Vielen Dank für Ihre Antwort.||||||||
+veuillez_patienter_un_instant|Société|🏛️||Veuillez patienter un instant.|||||||||Bitte warten Sie einen Moment.||||||||
+je_vous_remercie_pour_votre_aide|Société|🏛️||Je vous remercie pour votre aide.|||||||||Ich danke Ihnen für Ihre Hilfe.||||||||
+bonne_chance|Phrases|💬||Bonne chance !|||||||||Viel Glück!||||||||
+felicitations|Phrases|💬||Félicitations !|||||||||Herzlichen Glückwunsch!||||||||
+bon_anniversaire|Phrases|💬||Bon anniversaire !|||||||||Alles Gute zum Geburtstag!||||||||
+a_votre_sante|Phrases|💬||À votre santé !|||||||||Prost!||||||||
+tu_me_manques|Phrases|💬||Tu me manques.|||||||||Du fehlst mir.||||||||
+prenez_soin_de_vous|Phrases|💬||Prenez soin de vous.|||||||||Passen Sie auf sich auf.||||||||
+bonjour_a_toi|Salutations|👋||Bonjour à toi|||||Moyo webe||||||||||||
+bonjour_a_vous|Salutations|👋||Bonjour à vous|||||Moyo wenu||||||||||||
+daccord|Vie|🏠||D'accord|||||Biakane||||||||||||
+au_revoir_a_celui_qui_reste|Salutations|👋|Reste bien à la maison.|Au revoir (à celui qui reste)|Tikala malamu||||Shala bimpe|Bikala mbote|||||||||||
+au_revoir_a_celui_qui_part|Salutations|👋|Bon départ, on se voit demain.|Au revoir (à celui qui part)|Kende malamu||||Ndaku bimpe|Kwenda mbote|||||||||||
+enfants|Famille|👨‍👩‍👧|Les enfants sont allés à l'école.|Enfants||||Mtoto / Watoto|Bana|Bana|||||||||||
+personnes|Famille|👨‍👩‍👧|Beaucoup de gens sont au marché.|Personnes|||||Bantu|Bantu|||||||||||
+grandparent|Famille|👨‍👩‍👧|Grand-parent nous raconte des contes.|Grand-parent|Nkoko||||Kaku|Nkaka|||||||||||
+fufu|Nourriture|🍽️|Nous mangeons du fufu avec de la viande.|Fufu|||||Bidia||||||||||||
+poissons|Nourriture|🍽️||Poissons|||||Mishipa||||||||||||
+bonjour_le_matin|Salutations|👋|Bonjour, monsieur.|Bonjour (le matin)|Mbote na ntongo|||Habari za asubuhi|Muoyo wa dinda|Mbote ya mene|Buenos días||||||||||
+bon_apresmidi|Salutations|👋|Bonsoir à tous.|Bon après-midi|||||||Buenas tardes||||||||||
+je_vais_bien_merci|Salutations|👋|Je vais bien, merci, et toi ?|Je vais bien, merci|||||||Estoy bien, gracias||||||||||
+de_rien|Salutations|👋|De rien, c'est un plaisir.|De rien||||Karibu / Karibuni|Bualu kabuyi||De nada||||||||||
+salle_de_bain|Vie|🏠|Où sont les toilettes ?|Salle de bain|||||||Baño||||||||||
+lumiere|Vie|🏠|Allume la lumière, il fait sombre.|Lumière|Mwinda||||||Luz||||||||||
+vetements|Vie|🏠|Je dois laver mes vêtements aujourd'hui.|Vêtements||||||Bilele|Ropa||||||||||
+fils|Famille|👨‍👩‍👧|Ils ont un fils et une fille.|Fils|Mwana mobali||||||Hijo / Hija||||||||||
+grandpere|Famille|👨‍👩‍👧|Mes grands-parents nous rendent visite le dimanche.|Grand-père||||Babu|||Abuelo / Abuela||||||||||
+enfant_garcon_fille|Famille|👨‍👩‍👧|L'enfant joue dans le parc.|Enfant (garçon, fille)|||||||Niño / Niña||||||||||
+corps|Corps|🫀|Il faut prendre soin de son corps.|Corps|Nzoto|||Mwili|Mubidi|Nitu|Cuerpo||||||||||
+estomac|Corps|🫀|J'ai mal au ventre.|Estomac|||||||Estómago||||||||||
+malade|Corps|🫀|Aujourd'hui je ne peux pas venir car je suis malade.|Malade|||||||Enfermo||||||||||
+fievre|Corps|🫀|L'enfant a une forte fièvre.|Fièvre|||||||Fiebre||||||||||
+bon_marche|Achats|🛍️|J'ai trouvé des chaussures très bon marché.|Bon marché||||Rahisi|||Barato||||||||||
+reduction|Achats|🛍️|Pouvez-vous me faire une réduction ?|Réduction|||||||Descuento||||||||||
+client|Achats|🛍️|Le client a toujours raison.|Client||||||Musumbi|Cliente||||||||||
+gauche|Orientation|🧭|Tourne à gauche au coin de la rue.|Gauche||||Kushoto|||Izquierda||||||||||
+droite|Orientation|🧭|La banque est à droite.|Droite||||Kulia|||Derecha||||||||||
+bagage|Orientation|🧭|Ma valise est très lourde.|Bagage|||||||Equipaje / Maleta||||||||||
+je_suis_identite_etat|Conjugaison|🧩|Je suis français et je suis content.|Je suis (identité, état)|||||||Yo soy / Yo estoy||||||||||
+tu_es_identite_etat|Conjugaison|🧩|Tu es très aimable.|Tu es (identité, état)|||||||Tú eres / Tú estás||||||||||
+ilelle_est_identite_etat|Conjugaison|🧩|Elle est au bureau maintenant.|Il/Elle est (identité, état)|||||||Él/Ella es / Está||||||||||
+nous_sommes|Conjugaison|🧩|Nous sommes amis.|Nous sommes|Tozali|||Sisi ni / Sisi tuna...||Beto kele|Nosotros somos / Estamos||||||||||
+ilselles_sont|Conjugaison|🧩|Ils sont prêts à partir.|Ils/Elles sont|||||||Ellos son / Están||||||||||
+jai|Conjugaison|🧩|J'ai une question.|J'ai||||Mimi ni / Mimi nina...|||Yo tengo||||||||||
+tu_as|Conjugaison|🧩|As-tu du temps libre aujourd'hui ?|Tu as||||Wewe ni / Wewe una...||Nge kele|Tú tienes||||||||||
+ilelle_a|Conjugaison|🧩|Il a une nouvelle voiture.|Il/Elle a|||||||Él/Ella tiene||||||||||
+je_vais|Conjugaison|🧩|Je vais au supermarché.|Je vais||||Ninakwenda|Ndi nya||Yo voy||||||||||
+nous_allons|Conjugaison|🧩|Nous allons étudier ensemble.|Nous allons|||||||Nosotros vamos||||||||||
+je_parle|Conjugaison|🧩|Je parle un peu espagnol.|Je parle|||||||Yo hablo||||||||||
+je_fus_passe|Conjugaison|🧩|Hier j'étais au musée.|Je fus (passé)|||||||Yo fui / Yo estuve||||||||||
+jirai_futur|Conjugaison|🧩|Demain je vais aller chez le médecin.|J'irai (futur)|||||Nengye||Yo iré / Voy a ir||||||||||
+gouvernement|Société|🏛️|Le gouvernement a annoncé une nouvelle loi.|Gouvernement||||Serikali||Leta|Gobierno||||||||||
+loi|Société|🏛️|Tout le monde doit respecter la loi.|Loi||||Sheria||Nsiku|Ley||||||||||
+document|Société|🏛️|J'ai besoin de votre pièce d'identité.|Document|Mokanda|||||Mukanda|Documento / Identidad||||||||||
+signature|Société|🏛️|Il manque votre signature au bas du contrat.|Signature|||||||Firma||||||||||
+ambassade|Société|🏛️|Je suis allé à l'ambassade pour renouveler mon visa.|Ambassade|||||||Embajada||||||||||
+reunion|Société|🏛️|La réunion commence à dix heures.|Réunion||||||Lukutakanu|Reunión||||||||||
+priere|Spiritualité|⛪|Nous prions ensemble avant de manger.|Prière|Losambo|||Sala / Maombi|Disambila|Lusambu|Oración / Rezar||||||||||
+foi|Spiritualité|⛪|Avoir la foi donne beaucoup d'espoir.|Foi|Kondima|||Imani|||Fe||||||||||
+benediction|Spiritualité|⛪|Il a demandé la bénédiction de ses parents.|Bénédiction|Lipamboli|||Baraka|Dibenesha|Lusambulu / Lusakumunu|Bendición||||||||||
+ame|Spiritualité|⛪|La musique nourrit l'âme.|Âme||||Roho|Muadi / Nyuma||Alma / Espíritu||||||||||
+esperance|Spiritualité|⛪|L'espoir est la dernière chose que l'on perd.|Espérance|Elikya||||||Esperanza||||||||||
+sacre|Spiritualité|⛪|Ils respectent beaucoup ce lieu sacré.|Sacré|||||||Sagrado||||||||||
+mieux_vaut_tard_que_jamais|Proverbes|📜|Tu as enfin fini le projet ; mieux vaut tard que jamais.|Mieux vaut tard que jamais|||||||Más vale tarde que nunca||||||||||
+lavenir_appartient_a_ceux_qui_se_levent|Proverbes|📜|Commence à travailler tôt ; l'avenir appartient à ceux qui se lèvent tôt.|L'avenir appartient à ceux qui se lèvent tôt|||||||A quien madruga, Dios le ayuda||||||||||
+dans_une_bouche_fermee_nentrent_pas_les|Proverbes|📜|Ne donne pas ton avis dans cette dispute ; il vaut mieux se taire.|Dans une bouche fermée n'entrent pas les mouches (il vaut mieux se taire)|||||||En boca cerrada no entran moscas||||||||||
+dismoi_qui_tu_frequentes_et_je_te_dirai|Proverbes|📜|Choisis bien tes amis : dis-moi qui tu fréquentes et je te dirai qui tu es.|Dis-moi qui tu fréquentes et je te dirai qui tu es|||||||Dime con quién andas y te diré quién eres||||||||||
+a_quelque_chose_malheur_est_bon|Proverbes|📜|J'ai perdu cet emploi mais j'en ai trouvé un meilleur ; à quelque chose malheur est bon.|À quelque chose malheur est bon|||||||No hay mal que por bien no venga||||||||||
+loin_des_yeux_loin_du_coeur|Proverbes|📜|Il n'a pas voulu voir les nouvelles ; loin des yeux, loin du cœur.|Loin des yeux, loin du cœur|||||||Ojos que no ven, corazón que no siente||||||||||
+qui_trop_embrasse_mal_etreint|Proverbes|📜|Concentre-toi sur une seule tâche, car qui trop embrasse mal étreint.|Qui trop embrasse mal étreint|||||||El que mucho abarca, poco aprieta||||||||||
+la_crevette_qui_sendort_est_emportee|Proverbes|📜|Saisis l'opportunité maintenant ; il faut rester vigilant.|La crevette qui s'endort est emportée par le courant (il faut rester vigilant)|||||||Camarón que se duerme se lo lleva la corriente||||||||||
+vouloir_cest_pouvoir|Proverbes|📜|Si tu étudies avec constance tu réussiras ; vouloir, c'est pouvoir.|Vouloir, c'est pouvoir|||||||Querer es poder||||||||||
+a_chacun_sa_marotte|Proverbes|📜|Il adore collectionner les timbres ; à chacun sa marotte.|À chacun sa marotte|||||||Cada loco con su tema||||||||||
+quelles_sont_les_nouvelles|Salutations|👋|Salut, quelles sont les nouvelles ?|Quelles sont les nouvelles ?|Sango nini ?||||||||||||||||
+pas_de_mauvaises_nouvelles|Salutations|👋|Rien de spécial, tout va bien.|Pas de mauvaises nouvelles|Sango te / Malamu||||||||||||||||
+estce_que_tu_vas_bien|Salutations|👋|Est-ce que tu vas bien aujourd'hui ?|Est-ce que tu vas bien ?|Ozali malamu ?||||||||||||||||
+excusemoi|Salutations|👋|Excuse-moi, j'ai fait une erreur.|Excuse-moi|Limbisa ngai||||Undekele|Pardon / Lolula mono|||||||||||
+sil_te_plait|Salutations|👋|Donne-moi de l'eau, s'il te plaît.|S'il te plaît|Nabondeli yo||||||||||||||||
+vetement|Vie|🏠|Porte un vêtement neuf.|Vêtement|Elamba|||Nguo|||||||||||||
+chaussure|Vie|🏠|Enlève les chaussures dehors.|Chaussure|Sapato||||||||||||||||
+s_gens|Famille|👨‍👩‍👧|Il y a beaucoup de gens au marché.|S gens|Bato|||||Bantu|||||||||||
+aine|Famille|👨‍👩‍👧|Mon aîné(e) habite à Matadi.|Aîné|Yaya|||||Nkuluntu|||||||||||
+cadet|Famille|👨‍👩‍👧|Mon cadet a dix ans.|Cadet|Leki|||||Leki|||||||||||
+pate_de_manioc_ou_mais|Nourriture|🍽️|Nous voulons manger du fufu avec du pondu.|Pâte de manioc ou maïs|Fufu||||Bidia||||||||||||
+chikwangue_pain_de_manioc|Nourriture|🍽️|Cette chikwangue est fraîche.|Chikwangue (pain de manioc)|Kwanga||||||||||||||||
+feuilles_de_manioc_cuisinees|Nourriture|🍽️|Le pondu à la pâte d'arachide est délicieux.|Feuilles de manioc cuisinées|Pondu||||||||||||||||
+faim|Nourriture|🍽️|J'ai très faim.|Faim|Nzala|||Njaa||Nzala|||||||||||
+soif|Nourriture|🍽️|J'ai soif.|Soif|Mposa ya mai|||Kiu||Mpwina|||||||||||
+baisse_le_prix|Achats|🛍️|S'il te plaît, baisse un peu le prix.|Baisse le prix|Kita motuya||||||||||||||||
+vendeur|Achats|🛍️|Le vendeur m'a donné un surplus.|Vendeur|Moteki|||||Muteki|||||||||||
+acheteur|Achats|🛍️|Le client a payé tout l'argent.|Acheteur|Mosombi|||||Musumbi|||||||||||
+surplus_gratuit|Achats|🛍️|Donne-moi un petit surplus, maman.|Surplus gratuit|Matabisi||||||||||||||||
+dette|Achats|🛍️|Avoir des dettes n'est pas bon.|Dette|Niongo||||||||||||||||
+devant|Orientation|🧭|Va tout droit / devant.|Devant|Liboso||||Kumpala|Na ntwala|||||||||||
+derriere|Orientation|🧭|Regarde derrière.|Derrière|Nsima||||Panyima|Na nima|||||||||||
+arretetoi|Orientation|🧭|Chauffeur, arrête-toi ici !|Arrête-toi|Telema||||||||||||||||
+etre_kozala_na|Verbes|🔤|Être gentil est une bonne chose.|Être (kozala na)|Kozala||||||||||||||||
+je_suis|Conjugaison|🧩|Je suis enfant du Congo.|Je suis|Nazali|||Mimi ni / Mimi nina...||Mono kele|||||||||||
+tu_es|Conjugaison|🧩|Tu es mon ami.|Tu es|Ozali|||Wewe ni / Wewe una...||Nge kele|||||||||||
+vous_etes|Conjugaison|🧩|Vous êtes de bonnes personnes.|Vous êtes|Bozali|||Ninyi ni / Ninyi mna...||Beno kele|||||||||||
+jai_fait_passe|Conjugaison|🧩|J'ai fait ce travail hier.|J'ai fait (passé)|Nasalaki||||Nakenza||||||||||||
+je_fais_present|Conjugaison|🧩|Je travaille maintenant.|Je fais (présent)|Nazali kosala||||Ndi ngenza||||||||||||
+je_ferai_futur|Conjugaison|🧩|Je le ferai demain.|Je ferai (futur)|Nakosala||||Nengenze||||||||||||
+je_nai_pas_fait_negation|Conjugaison|🧩|Je n'ai pas fait d'erreur.|Je n'ai pas fait (négation)|Nasali te||||||||||||||||
+etat|Société|🏛️|L'État doit aider les citoyens.|État|Leta|||Serikali||Leta|||||||||||
+lois|Société|🏛️|Nous devons respecter les lois du pays.|Lois|Mibeko||||Mikenji||||||||||||
+justice|Société|🏛️|Agir avec droiture est bien.|Justice|Bosembo||||||||||||||||
+esprit|Spiritualité|⛪|Le Saint-Esprit.|Esprit|Molimo|||Roho|Muadi / Nyuma||||||||||||
+peche|Spiritualité|⛪|Demande pardon pour les fautes.|Péché|Lisumu|||Dhambi||Disumu|||||||||||
+bonte|Spiritualité|⛪|C'est une personne bienveillante.|Bonté|Boboto||||||||||||||||
+un_seul_doigt_ne_lave_pas_le_visage|Proverbes|📜|Pour réussir, unissons-nous : un seul doigt ne lave pas le visage.|Un seul doigt ne lave pas le visage. (l'union fait la force.)|Mosapi moko esukolaka elongi te.||||||||||||||||
+doucement_doucement_va_loin_la_patience|Proverbes|📜|N'aie pas peur si ça avance lentement, doucement on va loin.|Doucement doucement va loin. (la patience mène au succès.)|Malembe malembe ekoma mosika.||||||||||||||||
+lenfant_du_pays_ne_perd_jamais_son|Proverbes|📜|Il connaît bien le quartier, l'enfant du pays ne se perd pas.|L'enfant du pays ne perd jamais son chemin.|Mwana ya mboka abungaka nzela te.||||||||||||||||
+la_faim_na_pas_doreilles_ventre_affame|Proverbes|📜|Donne à manger aux enfants avant de discuter, la faim n'a pas d'oreilles.|La faim n'a pas d'oreilles. (ventre affamé n'a point d'oreilles.)|Nzala ezali na matoi te.||||||||||||||||
+lintelligence_dune_seule_personne_est|Proverbes|📜|Consulte les autres avant de décider, l'esprit seul s'égare.|L'intelligence d'une seule personne est une folie. (il faut écouter les conseils des autres.)|Mayele ya moto moko ezali liboma.||||||||||||||||
+si_tu_veux_aller_vite_marche_seul_si_tu|Proverbes|📜|Garde l'entente avec tes camarades : pour aller loin, marche à plusieurs.|Si tu veux aller vite, marche seul ; si tu veux aller loin, marche avec les autres.|Soki olingi kokende mbangu, kende yo moko ; soki olingi kokende mosika, kende na baninga.||||||||||||||||
+chien_qui_aboie_beaucoup_ne_mord_pas|Proverbes|📜|Ne crains pas ses cris, chien qui aboie ne mord pas.|Chien qui aboie beaucoup ne mord pas.|Mbwa oyo agangaka mingi aswaka te.||||||||||||||||
+leau_finit_toujours_par_rester_sur_la|Proverbes|📜|Patiente un peu, les choses vont s'apaiser.|L'eau finit toujours par rester sur la terre. (tout finit par se calmer ou se révéler.)|Mai etikalaka na mabele.||||||||||||||||
+je_vais_bien_reponse_a_hujambo|Salutations|👋|Je vais bien, merci.|Je vais bien (réponse à hujambo)||||Sijambo|||||||||||||
+comment_ca_va|Salutations|👋|Comment ça va ce matin ?|Comment ça va ?||||Habari gani?||Inki mutindu?|||||||||||
+bien|Salutations|👋|Très bien.|Bien||||Mzuri / Salama|Lengele||||||||||||
+bonjour_lapresmidi|Salutations|👋|Bonjour l'ami.|Bonjour (l'après-midi)||||Habari za mchana||Mbote ya mwini|||||||||||
+savon|Vie|🏠|Lave-toi les mains avec du savon.|Savon||||Sabuni|||||||||||||
+frere_aine|Famille|👨‍👩‍👧|Mon grand frère vit à Goma.|Frère aîné||||Kaka|||||||||||||
+soeur_ainee|Famille|👨‍👩‍👧|Ma sœur est médecin.|Sœur aînée||||Dada|||||||||||||
+grandmere|Famille|👨‍👩‍👧|Grand-mère nous aime beaucoup.|Grand-mère||||Bibi / Nyanya|||||||||||||
+invite|Famille|👨‍👩‍👧|Nous avons un invité à la maison aujourd'hui.|Invité||||Mgeni|||||||||||||
+pate_de_mais_ou_manioc_foufou|Nourriture|🍽️|Nous mangeons du foufou avec du poisson.|Pâte de maïs ou manioc (foufou)||||Ugali / Bukari|||||||||||||
+riz_cuit|Nourriture|🍽️|Les enfants aiment le riz aux haricots.|Riz cuit||||Wali / Mchele|||||||||||||
+boutique|Achats|🛍️|Achète du sucre à la boutique.|Boutique||||Duka|||||||||||||
+monnaie_rendu|Achats|🛍️|Donne-moi ma monnaie s'il te plaît.|Monnaie (rendu)||||Chenji|||||||||||||
+supplement|Achats|🛍️|Ajoute-m'en un peu maman.|Supplément||||Nyongeza / Mbasha||Matabisi|||||||||||
+journee|Temps|⏳|Le soleil est très fort à midi.|Journée||||Mchana|Munya||||||||||||
+il_ou_elle_est|Conjugaison|🧩|Il/Elle est mon ami(e).|Il ou Elle est||||Yeye ni / Yeye ana...|||||||||||||
+ils_ou_elles_sont|Conjugaison|🧩|Ils habitent à Bukavu.|Ils ou Elles sont||||Wao ni / Wao wana...|||||||||||||
+je_suis_alle|Conjugaison|🧩|Je suis allé au village hier.|Je suis allé||||Nilikwenda|Nakaya||||||||||||
+jirai|Conjugaison|🧩|J'irai demain matin.|J'irai||||Nitakwenda|Nengye||||||||||||
+je_ne_vais_pas_negation_present|Conjugaison|🧩|Aujourd'hui je ne vais pas au travail.|Je ne vais pas (négation présent)||||Siendi|||||||||||||
+tribunal|Société|🏛️|L'affaire a été portée au tribunal.|Tribunal||||Mahakama|||||||||||||
+carte_didentite|Société|🏛️|Montre ta carte d'identité.|Carte d'identité||||Kitambulisho|Mukanda wa buana||||||||||||
+unite|Société|🏛️|L'union fait la force.|Unité||||Umoja|Bumue||||||||||||
+mosquee|Spiritualité|⛪|Les musulmans prient à la mosquée.|Mosquée||||Msikiti|||||||||||||
+prier|Spiritualité|⛪|Nous prions pour la paix du pays.|Prier||||Kusali / Kuomba|Kusambila|Kusamba|||||||||||
+la_precipitation_napporte_pas_de|Proverbes|📜|Travaille calmement, rien ne sert de se précipiter.|La précipitation n'apporte pas de bénédiction.||||Haraka haraka haina baraka.|||||||||||||
+petit_a_petit_loiseau_fait_son_nid|Proverbes|📜|Épargne petit à petit, les petits ruisseaux font les grandes rivières.|Petit à petit, l'oiseau fait son nid.||||Haba na haba hujaza kibaba.|||||||||||||
+un_seul_doigt_necrase_pas_un_pou_on_a|Proverbes|📜|Coopérons, seul on ne peut rien faire.|Un seul doigt n'écrase pas un pou. (on a toujours besoin des autres)||||Kidole kimoja hakivunji chawa.|||||||||||||
+que_linvite_vienne_afin_que_lhote_soit|Proverbes|📜|Sois le bienvenu à la maison, l'arrivée d'un hôte est une bénédiction.|Que l'invité vienne afin que l'hôte soit béni. (hospitalité)||||Mgeni njoo mwenyeji apone.|||||||||||||
+celui_qui_necoute_pas_les_conseils_des|Proverbes|📜|Écoute tes parents, qui n'écoute pas les sages finit par le regretter.|Celui qui n'écoute pas les conseils des anciens se casse la jambe.||||Asiyesikia la mkuu huvunjika guu.|||||||||||||
+la_ou_il_y_a_une_volonte_il_y_a_un|Proverbes|📜|Ne perds pas espoir, quand on veut on peut.|Là où il y a une volonté, il y a un chemin.||||Penye nia pana njia.|||||||||||||
+celui_qui_est_patient_mange_des_fruits|Proverbes|📜|Attends ton heure, la patience finit toujours par payer.|Celui qui est patient mange des fruits mûrs.||||Mvumilivu hula mbivu.|||||||||||||
+pate_de_maniocmais|Nourriture|🍽️|Nous mangeons du fufu avec du saka-saka.|Pâte de manioc/maïs||||||Luku / Fufu|||||||||||
+bananes|Nourriture|🍽️|Des bananes mûres.|Bananes||||||Makonde|||||||||||
+boisson|Nourriture|🍽️|Vin de palme.|Boisson|||||Maluvu|Malafu|||||||||||
+baisser_le_prix|Achats|🛍️|S'il te plaît, baisse le prix.|Baisser le prix||||||Kulumusa ntalu|||||||||||
+revenir|Orientation|🧭|Il reviendra le soir.|Revenir||||||Kuvutuka|||||||||||
+onze|Nombres|🔢|Onze enfants.|Onze||||||Kumi na mosi|||||||||||
+sasseoir|Verbes|🔤|Assieds-toi bien.|S'asseoir||||||Kuvanda|||||||||||
+se_lever|Verbes|🔤|Lève-toi.|Se lever||||||Kutelama|||||||||||
+je_suis_avec_na|Conjugaison|🧩|Je suis un enfant du Kongo.|Je suis (avec 'na')||||||Mono kele|||||||||||
+je_mange_present|Conjugaison|🧩|Je mange du riz.|Je mange (présent)|||||Ndi ndia|Mono ke dia|||||||||||
+jai_mange_passe|Conjugaison|🧩|J'ai mangé hier.|J'ai mangé (passé)|||||Nakadia|Mono diaka|||||||||||
+je_mangerai_futur|Conjugaison|🧩|Je mangerai ce soir.|Je mangerai (futur)|||||Nendie|Mono ta dia|||||||||||
+je_ne_mange_pas_negation|Conjugaison|🧩|Je ne mange pas aujourd'hui.|Je ne mange pas (négation)||||||Mono ke dia ve|||||||||||
+enseignant|Société|🏛️|L'enseignant instruit les enfants.|Enseignant||||||Longi|||||||||||
+dieu_toutpuissant|Spiritualité|⛪|Dieu Tout-Puissant.|Dieu Tout-Puissant|||||Maweja Nangila|Nzambi Mpungu|||||||||||
+saintesprit|Spiritualité|⛪|Le Saint-Esprit nous guide.|Saint-Esprit||||||Mpeve ya Santu|||||||||||
+une_personne_nest_humaine_que_grace_aux|Proverbes|📜||Une personne n'est humaine que grâce aux autres||||||Muntu kele muntu sambu na bantu|||||||||||
+le_pays_se_construit_par_les_mains_de|Proverbes|📜||Le pays se construit par les mains de ses propres enfants||||||Nsi ke tungwaka na maboko ya bana na yo|||||||||||
+lhistoire_et_la_tradition_sont_les_yeux|Proverbes|📜||L'histoire et la tradition sont les yeux du pays||||||Kinkulu kele meso ya nsi|||||||||||
+doucementdoucement_fait_arriver|Proverbes|📜||Doucement-doucement fait arriver l'antilope à la maison||||||Malembe-malembe ke kumisaka nsiesi na nzo|||||||||||
+la_maison_de_ton_frere_est_ta_propre|Proverbes|📜||La maison de ton frère est ta propre maison||||||Nzo ya mpangi na nge kele nzo na nge|||||||||||
+leau_versee_ne_se_ramasse_pas|Proverbes|📜||L'eau versée ne se ramasse pas||||||Maza me tiamuka ke vutukaka ve|||||||||||
+un_bon_enfant_ecoute_la_voix_de_son|Proverbes|📜||Un bon enfant écoute la voix de son père et de sa mère||||||Mwana ya mbote ke waka ndinga ya tata na mama|||||||||||
+un_seul_doigt_ne_peut_pas_ramasser_un|Proverbes|📜||Un seul doigt ne peut pas ramasser un safou||||||Musapi mosi ke lokotaka ve nsafu|||||||||||
+bonjour_a_vous_pluriel_respect|Salutations|👋|Bonjour à vous papas et mamans.|Bonjour à vous (pluriel, respect)|||||Moyo wenu||||||||||||
+je_vais_tres_bien|Salutations|👋|Je vais très bien, et toi ?|Je vais très bien|||||Ndi bimpe bikole||||||||||||
+au_revoir_litt_bonnes_choses|Salutations|👋|Reste bien, au revoir !|Au revoir (litt. bonnes choses)|||||Maluimpe||||||||||||
+bon_voyage_a_celui_qui_part|Salutations|👋|Bon voyage sur la route.|Bon voyage (à celui qui part)|||||Ndaku bimpe||||||||||||
+comment_tappellestu|Vie|🏠|Bonjour, comment t'appelles-tu ?|Comment t'appelles-tu ?|||||Dina diebe nganyi?||||||||||||
+dou_vienstu|Vie|🏠|Visiteur, d'où viens-tu ?|D'où viens-tu ?|||||Udi ufuma penyi?||||||||||||
+je_viens_de|Vie|🏠|Je viens de Mbujimayi.|Je viens de...|||||Ndi mfuma ku...||||||||||||
+ou_vastu|Vie|🏠|Où vas-tu ce matin ?|Où vas-tu ?|||||Udi uya penyi?||||||||||||
+je_vais_a|Vie|🏠|Je vais au marché.|Je vais à...|||||Ndi nya ku...||||||||||||
+je_sais|Vie|🏠|Oui, je connais cette affaire.|Je sais|||||Ndi mumanye||||||||||||
+parle_doucement|Vie|🏠|Parle lentement pour que je comprenne.|Parle doucement|||||Akula bitekete||||||||||||
+aidemoi|Vie|🏠|Aide-moi à porter cette charge.|Aide-moi|||||Ngambuluishe||||||||||||
+attends_un_peu|Vie|🏠|Attends un peu, j'arrive.|Attends un peu|||||Indila kakese||||||||||||
+viens_ici|Vie|🏠|Mon enfant, viens ici.|Viens ici|||||Luaku kuneku||||||||||||
+ancetre|Famille|👨‍👩‍👧|Nos ancêtres nous ont laissé la sagesse.|Ancêtre|||||Nkambua||||||||||||
+visiteur|Famille|👨‍👩‍👧|Accueillons le visiteur avec joie.|Visiteur|||||Muenyi||||||||||||
+feuilles_de_manioc_pondu|Nourriture|🍽️|Feuilles de manioc cuisinées à l'huile de palme.|Feuilles de manioc (pondu)|||||Matamba||||||||||||
+bananes_plantains|Nourriture|🍽️|Bananes plantains frites.|Bananes plantains|||||Makonde||||||||||||
+diminue_le_prix|Achats|🛍️|Diminue un peu le prix, ami.|Diminue le prix|||||Tepesha mushinga||||||||||||
+ou_est_la_route_vers|Orientation|🧭|Où est la route de l'aéroport ?|Où est la route vers... ?|||||Njila wa ku... udi penyi?||||||||||||
+arretetoi_ici|Orientation|🧭|Chauffeur, arrête-toi ici !|Arrête-toi ici|||||Imanyika kuneku||||||||||||
+demain_selon_contexte|Temps|⏳|On se voit demain.|Demain (selon contexte)|||||Makelela||||||||||||
+janvier|Temps|⏳|Le premier mois de l'année.|Janvier|||||Ngondo wa kumpala||||||||||||
+fevrier|Temps|⏳|En février il pleut.|Février|||||Ngondo muibidi||||||||||||
+mars|Temps|⏳|Le troisième mois.|Mars|||||Ngondo muisatu||||||||||||
+avril|Temps|⏳|Le quatrième mois.|Avril|||||Ngondo muinayi||||||||||||
+mai|Temps|⏳|Le cinquième mois.|Mai|||||Ngondo muitanu||||||||||||
+juin|Temps|⏳|En juin le froid arrive.|Juin|||||Ngondo muisambombo||||||||||||
+juillet|Temps|⏳|Le septième mois.|Juillet|||||Ngondo muanda mutekete||||||||||||
+aout|Temps|⏳|Le huitième mois.|Août|||||Ngondo muanda mukulu||||||||||||
+septembre|Temps|⏳|En septembre l'école commence.|Septembre|||||Ngondo tshitema||||||||||||
+octobre|Temps|⏳|Le dixième mois.|Octobre|||||Ngondo dikumi||||||||||||
+novembre|Temps|⏳|Le onzième mois.|Novembre|||||Ngondo dikumi ne umue||||||||||||
+decembre|Temps|⏳|En décembre nous fêtons.|Décembre|||||Ngondo dikumi ne ibidi||||||||||||
+tu_fais_present|Conjugaison|🧩|Tu fais bien.|Tu fais (présent)|||||Udi wenza||||||||||||
+il_present|Conjugaison|🧩|Maman fait à manger.|Il (présent)|||||Udi wenza||||||||||||
+nous_faisons_present|Conjugaison|🧩|Nous travaillons ensemble.|Nous faisons (présent)|||||Tudi tuenza||||||||||||
+vous_faites_present|Conjugaison|🧩|Que faites-vous ?|Vous faites (présent)|||||Nudi nuenza||||||||||||
+ils_present|Conjugaison|🧩|Les gens font la fête.|Ils (présent)|||||Badi benza||||||||||||
+je_vais_present|Conjugaison|🧩|Je vais à la maison.|Je vais (présent)|||||Ndi nya||||||||||||
+je_suis_alle_passe|Conjugaison|🧩|Je suis allé au marché.|Je suis allé (passé)|||||Nakaya||||||||||||
+proces|Société|🏛️|Ils ont jugé l'affaire.|Procès|||||Tshilumbu||||||||||||
+douceur|Société|🏛️|La douceur surpasse la colère.|Douceur|||||Bupole||||||||||||
+respect|Société|🏛️|Le respect envers les aînés.|Respect|||||Kanemu||||||||||||
+peuple|Société|🏛️|Le peuple Luba.|Peuple|||||Tshisamba||||||||||||
+dieu_toutpuissant_nom_traditionnel_luba|Spiritualité|⛪|Que Dieu Tout-Puissant nous bénisse.|Dieu Tout-Puissant (nom traditionnel luba)|||||Maweja Nangila||||||||||||
+bible|Spiritualité|⛪|Il lit la Bible.|Bible|||||Mukanda wa Nzambi||||||||||||
+grace|Spiritualité|⛪|Dieu est plein de miséricorde.|Grâce|||||Luse||||||||||||
+deux_mains_se_lavent_lune_lautre|Proverbes|📜|Entraidons-nous, car deux mains se lavent mutuellement.|Deux mains se lavent l'une l'autre (l'entraide est essentielle)|||||Bianza bibidi biowa, umue udi uya ku mutu||||||||||||
+un_enfant_qui_pleure_sans_quon_lait|Proverbes|📜|Écoute cet enfant, il n'y a pas de fumée sans feu.|Un enfant qui pleure sans qu'on l'ait frappé a quelque chose qui le pique (il n'y a pas de fumée sans feu)|||||Mwana udi udila kabayi bamukume, udi ne tshidi tshimuluma||||||||||||
+le_sorcier_ne_mange_pas_son_propre|Proverbes|📜|Même mauvais, on protège toujours sa famille.|Le sorcier ne mange pas son propre enfant (on protège toujours les siens)|||||Muena mupongo kena udia muanende||||||||||||
+un_faisceau_de_cordes_attrape_un_boeuf|Proverbes|📜|Unissons-nous, l'union fait la force.|Un faisceau de cordes attrape un bœuf (l'union fait la force)|||||Tshisumbu tshia nshinga tshidi tshikuata ngombe||||||||||||
+linvite_vient_avec_le_soleil_et_repart|Proverbes|📜|Accueillons bien le visiteur.|L'invité vient avec le soleil et repart avec le soleil (l'hospitalité a ses temps)|||||Muenyi udi mulue ne diba, udi uya ne diba||||||||||||
+pour_connaitre_la_route_demande_a_ceux|Proverbes|📜|Écoute les anciens, leur expérience éclaire le chemin.|Pour connaître la route, demande à ceux qui en reviennent (l'expérience des anciens guide)|||||Bua kumanya njila, ebeja badi bafuma kumpala||||||||||||
+une_parole_douce_calme_la_colere|Proverbes|📜|Parle avec douceur, une parole douce apaise la colère.|Une parole douce calme la colère|||||Dîyi dimpe didi dipuekesha tshiji||||||||||||
+a_force_de_manger_sans_compter_on_finit|Proverbes|📜|Méfie-toi de la gourmandise, l'excès mène aux ennuis.|À force de manger sans compter, on finit par avoir des ennuis (l'excès nuit en tout)|||||Kabundi kadia, kabundi kadia, kashala ne tshilumbu||||||||||||

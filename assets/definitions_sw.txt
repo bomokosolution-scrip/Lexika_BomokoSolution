@@ -1,0 +1,102 @@
+# Maana ya Kiswahili (id|maana) — source : kamusi (données extraites de kamusi.appsmata.com), à vérifier
+bonjour|kauli itolewayo kwa muundo wa swali ambayo hutumika kuulizia hali ya mtu mwingine ambaye huulizwa
+merci|fadhila kuwa na hisia za wema kwa watu kuwa na moyo wa asante kwa lile ulifanyiwa ukarimu (1) jamala (1) hisani (1) shukrani(2)
+pardon|ombi la kutaka kuhurumiwa, tamko la kutaka radhi: Tunaomba samahani kwa kuchelewa.
+non|-siokubalika, -siokuwa sawa
+un|neno la kuwakilisha tarakimu ya kwanza ''1'' katika hesabu
+deux|tarakimu iliyo kati ya moja na tatu, idadi kamili ya kitu kimoja kikijumlishwa na kitu kimoja kingine: Moja na moja ni mbili.
+trois|tarakimu au namba ''3'', jumuisho la mbili na moja
+quatre|tarakimu iliyo kati ya tatu na tano
+cinq|tarakimu au namba ''5'', idadi ya vitu iliyo kubwa kuliko nne na ndogo kuliko sita
+six|tarakimu iliyo kati ya tano na saba
+sept|tarakimu iliyoko kati ya sita na nane
+huit|tarakimu kamili iliyoko kati ya saba na tisa
+neuf|tarakimu kamili inayofuata nane (''8'') katika hesabu
+dix|idadi iliyo sawa na vidole vya mikono miwili ya binadamu, namba au tarakimu ''10''
+mere|mwanamke ambaye ni mzazi wa mtu, mzazi wa kike
+pere|mzazi wa kiume : Mume wa mama ni baba. Baba mdogo -> ndugu wa kiume aliye mdogo wa baba. : Baba mkubwa -> ndugu wa kiume aliye mkubwa wa baba
+frere|mtoto wa kiume mliyezaliwa naye: Kaka yake Mariam anafunza katika chuo kikuu.
+soeur|ndugu wa kike wa kuzaliwa nawe
+famille|jamaa ya watu wanaoishi pamoja yenye baba, mama na watoto
+chef|mtu au kiongozi mwenye mamlaka juu ya watu wengine katika jamii au sehemu ya kazi
+tete|sehemu ya mwili wa mnyama au binadamu iliyoshikiliwa na shingo ambayo ina masikio, macho, pua, taya na kufunikwa na nywele kwa upande wa juu na ndani yake mna ubongo
+main|kiungo katika mwili wa kiumbe kinachojitokeza kutoka kwenye bega, hutumiwa kwa shughuli nyingi kwa mfano kushikia vitu
+coeur|kiungo kilicho katika mwili ambacho husukuma damu na kuieneza mwilini kote
+oeil|kiungo anachotumia kiumbe kwa mfano ndege, mnyama, samaki, mdudu au binadamu kuonea: Jicho langu la kushoto halioni vizuri.
+bouche|sehemu ya nje ya kinywa ambayo hufunguliwa ili kuingiza kitu kinywani
+pied|kiungo cha kiumbe kama binadamu, mnyama, mdudu au ndege ambacho humwezesha kusimama au kujongea: Wanyama hutembelea kwa miguu minne.
+sang|majimaji mekundu yanayozunguka kwenye mishipa ya kiumbe
+eau|kiowevu kisicho na rangi wala ladha kinachopatikana kwenye mito, bahari au maziwa na wakati mwingine hutokana na mvua ambacho viumbe hunywa na watu hupikia, huogea au kufulia
+feu|mwako wa kiunguacho
+terre|sehemu ya nchi kavu, udongo unaoifunika nchi
+ciel|kuwa hewani
+arbre|mmea mkubwa wenye shina gumu unaoota mwituni au uliopandwa shambani
+pluie|matone ya maji yanayodondoka kutoka kwenye mawingu
+fleuve|korongo ambalo huwa na maji yanayotiririka karibu wakati wote wa mwaka kutoka kwenye mwinuko kuelekea bondeni
+soleil|fahamu jambo : Heri anajua sana kuongea Kiswahili kwa ufasaha.
+lune|umbo la mviringo au dutu linalozunguka dunia mara moja kila siku 28
+nuit|kipindi cha siku kuanzia jua kutua hadi kunapopambazuka siku inayofuata, kipindi kati ya machweo ya jua hadi macheo
+montagne|sehemu kubwa ya ardhi iliyoinuka juu sana: Mlima Kilimanjaro ni mrefu kuliko Mlima Kenya
+chien|mnyama afugwaye na binadamu ambaye hulinda au kumsaidia kuwinda
+chat|eneza kitu cha majimaji kwa mfano rangi kwenye kitu kingine: Paka rangi ukutani.
+poisson|kiumbe wa majini aliye na mapezi na mkia ambavyo humwezesha kuogelea na mashavu yanayomwezesha kupumua akiwa majini
+oiseau|kiumbe mwenye mabawa na manyoya anayeruka angani: Ndege mjanja hunaswa na tundu bovu.
+elephant|mnyama mkubwa wa rangi ya kijivu mwenye mkonga, pembe mbili kubwa na masikio makubwa
+lion|mnyama wa jamii ya paka, lakini mkubwa na mwenye rangi ya hudhurungi au majani makavu mwili mzima na alaye nyama
+serpent|mnyama mrefu mwembamba mwenye magamba atambaaye, asiye na miguu, anayetaga mayai na aghalabu huwa na sumu, hula ndege, wadudu na vinyama vidogovidogo
+singe|mnyama wa jamii ya nyani, mwenye rangi ya kijivu isiyokoza, baka jekundu matakoni na mkia mrefu
+poule|ndege wa jamii ya kanga lakini mkubwa kama kware anayefugwa, ndege jike anayefugwa
+vache|mnyama afugwaye lakini mdogo anayefanana na nyati ambaye ana faida kadhaa kwa mfano nyama, maziwa na ngozi
+pain|chakula kinachotengenezwa kwa kukandwa unga wa ngano au mchele na kuokwa au kuchomwa
+viande|sehemu laini ya mnyama ambayo hutoa damu inapokatwa au kukwaruzwa
+riz|punje za mchele zilizopikwa, chakula cha mpunga uliokobolewa
+sel|madini meupe yanayotumiwa kwa kutiwa ndani ya chakula ili kukipa chakula hicho ladha ya ukaliukali
+sucre|chembechembe tamu zinazotengenezwa na juisi ya miwa na kutiwa kwenye chai au kahawa : Sukari mawe -> chembechembe za sukari zilizoshikamanishwa
+cafe|tunda au mbegu ya mkahawa au mbuni
+lait|uowevu mweupe unaotoka kwenye titi la mwanamke au kiwele cha mnyama jike
+boire|tia kitu cha majimaji kinywani na kukimeza
+dormir|jinyosha mahali kwa mfano kitandani ili kupata usingizi : Nililala kwa muda mrefu jana.
+voir|tazama kitu kwa kutumia macho
+parler|toa maneno kwa sauti
+aimer|vutiwa na kitu au mtu, kuwa na mapenzi na kitu au mtu kwa sababu ya uzuri wake
+comprendre|fahamu jambo
+donner|jani kavu la mti wa mkoche au mkoma linalosukwa na kutumika kama makuti ya paa la nyumba
+grand|kuu kwa umbile au urefu, siyo ndogo
+chaud|hali ya hewa ya moto : Msimu wa kiangazi kuna joto sana.
+froid|hali ya kupoa, kinyume cha joto
+jour|muda wa saa ishirini na nne kuanzia saa 1 asubuhi
+mois|umbo la mviringo au dutu linalozunguka dunia mara moja kila siku 28
+annee|kipindi kinachofikia miezi kumi na miwili, kipindi cha kuanzia Januari hadi Desemba, mfunguo mosi hadi mwezi wa Ramadhani
+aujourdhui|siku tuliyo nayo, siku hii
+demain|siku ya pili tangu leo, siku inayofuata leo
+hier|siku iliyotangulia leo, siku kati ya leo na juzi: Mgeni alitarajiwa kufika jana sio leo.
+ami|mwanamume au mwanamke anayeaminiana na mwingine na anayeshirikiana naye katika mambo mengi
+maison|jengo la kuishi watu
+ecole|mahali ambapo wanafunzi hupatiwa elimu, mahali wanafunzi wanapofundishwa kusoma na kuandika na maarifa mbalimbali
+travail|shughuli kwa mfano kilimo, ukarani, ualimu na kadhalika ambayo mtu hufanya ili kujipatia mahitaji yake: Ameacha kazi ya ukarani.
+argent|sarafu rasmi ya serikali inayotumiwa katika kufanya malipo au manunuzi
+enfant|kiumbe mchanga anayezaliwa na mnyama au kiumbe yeyote mwenye uhai
+livre|mkusanyiko wa kurasa za karatasi zilizochapwa au kuandikwa kwa mkono na kujalidiwa pamoja
+femme|mtu wa jinsia ya kike
+village|eneo lililo nje ya mji wanamoishi watu wengi ambalo ni kubwa kuliko kitongoji
+ville|mahali penye nyumba nyingi za kuishi watu wengi wenye kufanya shughuli tofauti: Mji mkuu wa nchi mji ambao ndio makao ya serikali ya nchi
+voiture|chombo cha usafiri chenye magurudumu: Gari la ng''ombe
+route|njia kuu iliyotengenezwa kwa madhumuni ya kupitia magari na vyombo vingine vya usafiri wa nchi kavu
+medecin|mtu anayetibu wagonjwa
+hopital|jengo ambamo wagonjwa huenda kupatiwa dawa au matibabu
+marche|mahali pa wazi penye watu wengi ambapo watu huuza na kununua bidhaa
+musique|mdundo unaotokana na mseto wa sauti na ala za muziki kwa mfano ngoma, tarumbeta, kinanda na kadhalika pamoja na uimbaji
+danse|ala ya muziki iliyotengenezwa kwa ngozi iliyowambwa kwenye mduara wa pipa au mzinga
+fete|shamrashamra zinazofanywa kuadhimisha tukio fulani kwa mfano harusi, unyago na kadhalika
+langue|mfumo wa sauti nasibu unaotumiwa na jamii fulani kuwasiliana
+dieu|muumbaji wa mbingu na dunia na vitu vyote ulimwenguni
+vie|muda ambao kiumbe, mmea au mtu huishi, muda wa uhai wa kiumbe, muda ambapo kitu kinaweza kutumika
+mort|hali ya kutokwa na uhai au kukoma kupumua moja kwa moja ambapo kiumbe hai hupoteza maisha
+nom|neno la kumtaja mtu ili kumtofautisha na mtu mwingine: Jina lako nani?
+amour|hali ya kuvutia moyoni na mtu au kitu
+paix|hali ya kutokuwapo vita, hali ya kutokuwapo machafuko yoyote : Watu wa Afrika Mashariki wanataka kuishi kwa amani.
+force|hali ya kuweza kufanya kazi au jambo
+joie|hali ya uchangamfu
+espoir|hali ya matarajio ya kupata kitu
+verite|sifa ya jambo kuwa kweli, uhakika wa jambo
+courage|utendaji wa jambo bila ya kuogopa

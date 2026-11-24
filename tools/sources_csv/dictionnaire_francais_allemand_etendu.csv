@@ -1,0 +1,382 @@
+﻿Français;Allemand;Catégorie;Type
+bonjour;Guten Tag;Salutations;Mot
+salut;Hallo;Salutations;Mot
+bonsoir;Guten Abend;Salutations;Mot
+bonne nuit;Gute Nacht;Salutations;Mot
+au revoir;Auf Wiedersehen;Salutations;Mot
+à bientôt;Bis bald;Salutations;Mot
+à demain;Bis morgen;Salutations;Mot
+merci;Danke;Salutations;Mot
+merci beaucoup;Vielen Dank;Salutations;Mot
+s'il vous plaît;Bitte;Salutations;Mot
+excusez-moi;Entschuldigen Sie;Salutations;Mot
+pardon;Entschuldigung;Salutations;Mot
+oui;Ja;Salutations;Mot
+non;Nein;Salutations;Mot
+peut-être;Vielleicht;Salutations;Mot
+bienvenue;Willkommen;Salutations;Mot
+je;ich;Pronoms;Mot
+tu;du;Pronoms;Mot
+il;er;Pronoms;Mot
+elle;sie;Pronoms;Mot
+nous;wir;Pronoms;Mot
+vous;Sie / ihr;Pronoms;Mot
+ils;sie;Pronoms;Mot
+elles;sie;Pronoms;Mot
+mon;mein;Pronoms;Mot
+ma;meine;Pronoms;Mot
+mes;meine;Pronoms;Mot
+ton;dein;Pronoms;Mot
+son;sein / ihr;Pronoms;Mot
+notre;unser;Pronoms;Mot
+votre;Ihr / euer;Pronoms;Mot
+qui;wer;Pronoms;Mot
+quoi;was;Pronoms;Mot
+où;wo;Pronoms;Mot
+quand;wann;Pronoms;Mot
+pourquoi;warum;Pronoms;Mot
+comment;wie;Pronoms;Mot
+combien;wie viel;Pronoms;Mot
+être;sein;Verbes;Mot
+avoir;haben;Verbes;Mot
+faire;machen / tun;Verbes;Mot
+aller;gehen / fahren;Verbes;Mot
+venir;kommen;Verbes;Mot
+voir;sehen;Verbes;Mot
+regarder;anschauen;Verbes;Mot
+entendre;hören;Verbes;Mot
+écouter;zuhören;Verbes;Mot
+parler;sprechen;Verbes;Mot
+dire;sagen;Verbes;Mot
+demander;fragen;Verbes;Mot
+répondre;antworten;Verbes;Mot
+savoir;wissen;Verbes;Mot
+connaître;kennen;Verbes;Mot
+comprendre;verstehen;Verbes;Mot
+apprendre;lernen;Verbes;Mot
+enseigner;unterrichten;Verbes;Mot
+lire;lesen;Verbes;Mot
+écrire;schreiben;Verbes;Mot
+travailler;arbeiten;Verbes;Mot
+étudier;studieren / lernen;Verbes;Mot
+manger;essen;Verbes;Mot
+boire;trinken;Verbes;Mot
+dormir;schlafen;Verbes;Mot
+se réveiller;aufwachen;Verbes;Mot
+vivre;leben;Verbes;Mot
+aimer;lieben / mögen;Verbes;Mot
+préférer;bevorzugen;Verbes;Mot
+vouloir;wollen;Verbes;Mot
+pouvoir;können;Verbes;Mot
+devoir;müssen / sollen;Verbes;Mot
+prendre;nehmen;Verbes;Mot
+donner;geben;Verbes;Mot
+acheter;kaufen;Verbes;Mot
+vendre;verkaufen;Verbes;Mot
+payer;bezahlen;Verbes;Mot
+ouvrir;öffnen;Verbes;Mot
+fermer;schließen;Verbes;Mot
+commencer;beginnen;Verbes;Mot
+finir;beenden;Verbes;Mot
+attendre;warten;Verbes;Mot
+aider;helfen;Verbes;Mot
+chercher;suchen;Verbes;Mot
+trouver;finden;Verbes;Mot
+partir;weggehen / abreisen;Verbes;Mot
+arriver;ankommen;Verbes;Mot
+rester;bleiben;Verbes;Mot
+courir;laufen;Verbes;Mot
+marcher;gehen;Verbes;Mot
+conduire;fahren;Verbes;Mot
+homme;der Mann;Personnes;Mot
+femme;die Frau;Personnes;Mot
+enfant;das Kind;Personnes;Mot
+garçon;der Junge;Personnes;Mot
+fille;das Mädchen;Personnes;Mot
+père;der Vater;Personnes;Mot
+mère;die Mutter;Personnes;Mot
+parents;die Eltern;Personnes;Mot
+frère;der Bruder;Personnes;Mot
+sœur;die Schwester;Personnes;Mot
+mari;der Ehemann;Personnes;Mot
+épouse;die Ehefrau;Personnes;Mot
+ami;der Freund;Personnes;Mot
+amie;die Freundin;Personnes;Mot
+famille;die Familie;Personnes;Mot
+personne;die Person;Personnes;Mot
+professeur;der Lehrer / die Lehrerin;Personnes;Mot
+élève;der Schüler / die Schülerin;Personnes;Mot
+médecin;der Arzt / die Ärztin;Personnes;Mot
+voisin;der Nachbar / die Nachbarin;Personnes;Mot
+maison;das Haus;Maison;Mot
+appartement;die Wohnung;Maison;Mot
+chambre;das Zimmer;Maison;Mot
+salon;das Wohnzimmer;Maison;Mot
+cuisine;die Küche;Maison;Mot
+salle de bains;das Badezimmer;Maison;Mot
+porte;die Tür;Maison;Mot
+fenêtre;das Fenster;Maison;Mot
+table;der Tisch;Maison;Mot
+chaise;der Stuhl;Maison;Mot
+lit;das Bett;Maison;Mot
+armoire;der Schrank;Maison;Mot
+clé;der Schlüssel;Maison;Mot
+lampe;die Lampe;Maison;Mot
+eau;das Wasser;Maison;Mot
+électricité;der Strom;Maison;Mot
+téléphone;das Telefon;Maison;Mot
+ordinateur;der Computer;Maison;Mot
+pain;das Brot;Alimentation;Mot
+riz;der Reis;Alimentation;Mot
+viande;das Fleisch;Alimentation;Mot
+poisson;der Fisch;Alimentation;Mot
+poulet;das Hähnchen;Alimentation;Mot
+œuf;das Ei;Alimentation;Mot
+lait;die Milch;Alimentation;Mot
+fromage;der Käse;Alimentation;Mot
+beurre;die Butter;Alimentation;Mot
+sucre;der Zucker;Alimentation;Mot
+sel;das Salz;Alimentation;Mot
+huile;das Öl;Alimentation;Mot
+fruit;die Frucht;Alimentation;Mot
+pomme;der Apfel;Alimentation;Mot
+banane;die Banane;Alimentation;Mot
+orange;die Orange;Alimentation;Mot
+légume;das Gemüse;Alimentation;Mot
+tomate;die Tomate;Alimentation;Mot
+pomme de terre;die Kartoffel;Alimentation;Mot
+oignon;die Zwiebel;Alimentation;Mot
+café;der Kaffee;Alimentation;Mot
+thé;der Tee;Alimentation;Mot
+jus;der Saft;Alimentation;Mot
+repas;die Mahlzeit;Alimentation;Mot
+petit-déjeuner;das Frühstück;Alimentation;Mot
+déjeuner;das Mittagessen;Alimentation;Mot
+dîner;das Abendessen;Alimentation;Mot
+tête;der Kopf;Corps;Mot
+visage;das Gesicht;Corps;Mot
+œil;das Auge;Corps;Mot
+oreille;das Ohr;Corps;Mot
+nez;die Nase;Corps;Mot
+bouche;der Mund;Corps;Mot
+dent;der Zahn;Corps;Mot
+cheveux;die Haare;Corps;Mot
+main;die Hand;Corps;Mot
+bras;der Arm;Corps;Mot
+jambe;das Bein;Corps;Mot
+pied;der Fuß;Corps;Mot
+cœur;das Herz;Corps;Mot
+dos;der Rücken;Corps;Mot
+ventre;der Bauch;Corps;Mot
+santé;die Gesundheit;Corps;Mot
+maladie;die Krankheit;Corps;Mot
+douleur;der Schmerz;Corps;Mot
+école;die Schule;Éducation;Mot
+université;die Universität;Éducation;Mot
+livre;das Buch;Éducation;Mot
+cahier;das Heft;Éducation;Mot
+stylo;der Kugelschreiber;Éducation;Mot
+crayon;der Bleistift;Éducation;Mot
+papier;das Papier;Éducation;Mot
+question;die Frage;Éducation;Mot
+réponse;die Antwort;Éducation;Mot
+langue;die Sprache;Éducation;Mot
+mot;das Wort;Éducation;Mot
+phrase;der Satz;Éducation;Mot
+examen;die Prüfung;Éducation;Mot
+cours;der Unterricht;Éducation;Mot
+connaissance;das Wissen;Éducation;Mot
+ville;die Stadt;Lieux;Mot
+village;das Dorf;Lieux;Mot
+pays;das Land;Lieux;Mot
+rue;die Straße;Lieux;Mot
+route;die Straße;Lieux;Mot
+marché;der Markt;Lieux;Mot
+magasin;das Geschäft;Lieux;Mot
+hôpital;das Krankenhaus;Lieux;Mot
+pharmacie;die Apotheke;Lieux;Mot
+banque;die Bank;Lieux;Mot
+église;die Kirche;Lieux;Mot
+gare;der Bahnhof;Lieux;Mot
+aéroport;der Flughafen;Lieux;Mot
+hôtel;das Hotel;Lieux;Mot
+restaurant;das Restaurant;Lieux;Mot
+bureau;das Büro;Lieux;Mot
+pont;die Brücke;Lieux;Mot
+paysage;die Landschaft;Lieux;Mot
+voiture;das Auto;Transport;Mot
+bus;der Bus;Transport;Mot
+train;der Zug;Transport;Mot
+avion;das Flugzeug;Transport;Mot
+vélo;das Fahrrad;Transport;Mot
+moto;das Motorrad;Transport;Mot
+bateau;das Boot;Transport;Mot
+billet;die Fahrkarte;Transport;Mot
+voyage;die Reise;Transport;Mot
+valise;der Koffer;Transport;Mot
+départ;die Abfahrt;Transport;Mot
+arrivée;die Ankunft;Transport;Mot
+temps;die Zeit;Temps;Mot
+jour;der Tag;Temps;Mot
+nuit;die Nacht;Temps;Mot
+matin;der Morgen;Temps;Mot
+après-midi;der Nachmittag;Temps;Mot
+soir;der Abend;Temps;Mot
+semaine;die Woche;Temps;Mot
+mois;der Monat;Temps;Mot
+année;das Jahr;Temps;Mot
+aujourd'hui;heute;Temps;Mot
+demain;morgen;Temps;Mot
+hier;gestern;Temps;Mot
+maintenant;jetzt;Temps;Mot
+tôt;früh;Temps;Mot
+tard;spät;Temps;Mot
+un;eins;Nombres;Mot
+deux;zwei;Nombres;Mot
+trois;drei;Nombres;Mot
+quatre;vier;Nombres;Mot
+cinq;fünf;Nombres;Mot
+six;sechs;Nombres;Mot
+sept;sieben;Nombres;Mot
+huit;acht;Nombres;Mot
+neuf;neun;Nombres;Mot
+dix;zehn;Nombres;Mot
+vingt;zwanzig;Nombres;Mot
+trente;dreißig;Nombres;Mot
+cent;hundert;Nombres;Mot
+mille;tausend;Nombres;Mot
+grand;groß;Adjectifs;Mot
+petit;klein;Adjectifs;Mot
+bon;gut;Adjectifs;Mot
+mauvais;schlecht;Adjectifs;Mot
+beau;schön;Adjectifs;Mot
+joli;hübsch;Adjectifs;Mot
+nouveau;neu;Adjectifs;Mot
+ancien;alt;Adjectifs;Mot
+jeune;jung;Adjectifs;Mot
+vieux;alt;Adjectifs;Mot
+chaud;warm / heiß;Adjectifs;Mot
+froid;kalt;Adjectifs;Mot
+facile;einfach;Adjectifs;Mot
+difficile;schwierig;Adjectifs;Mot
+rapide;schnell;Adjectifs;Mot
+lent;langsam;Adjectifs;Mot
+cher;teuer;Adjectifs;Mot
+gratuit;kostenlos;Adjectifs;Mot
+propre;sauber;Adjectifs;Mot
+sale;schmutzig;Adjectifs;Mot
+heureux;glücklich;Adjectifs;Mot
+triste;traurig;Adjectifs;Mot
+fatigué;müde;Adjectifs;Mot
+important;wichtig;Adjectifs;Mot
+possible;möglich;Adjectifs;Mot
+impossible;unmöglich;Adjectifs;Mot
+rouge;rot;Couleurs;Mot
+bleu;blau;Couleurs;Mot
+vert;grün;Couleurs;Mot
+jaune;gelb;Couleurs;Mot
+noir;schwarz;Couleurs;Mot
+blanc;weiß;Couleurs;Mot
+gris;grau;Couleurs;Mot
+marron;braun;Couleurs;Mot
+rose;rosa;Couleurs;Mot
+orange;orange;Couleurs;Mot
+argent;Geld;Divers;Mot
+prix;der Preis;Divers;Mot
+travail;die Arbeit;Divers;Mot
+emploi;der Arbeitsplatz;Divers;Mot
+problème;das Problem;Divers;Mot
+solution;die Lösung;Divers;Mot
+amour;die Liebe;Divers;Mot
+paix;der Frieden;Divers;Mot
+guerre;der Krieg;Divers;Mot
+temps qu'il fait;das Wetter;Divers;Mot
+soleil;die Sonne;Divers;Mot
+pluie;der Regen;Divers;Mot
+vent;der Wind;Divers;Mot
+feu;das Feuer;Divers;Mot
+terre;die Erde;Divers;Mot
+monde;die Welt;Divers;Mot
+vie;das Leben;Divers;Mot
+mort;der Tod;Divers;Mot
+droit;das Recht;Divers;Mot
+liberté;die Freiheit;Divers;Mot
+Je ne comprends pas.;Ich verstehe nicht.;Communication;Expression
+Je comprends.;Ich verstehe.;Communication;Expression
+Je parle français.;Ich spreche Französisch.;Communication;Expression
+Je parle allemand.;Ich spreche Deutsch.;Communication;Expression
+Parlez-vous français ?;Sprechen Sie Französisch?;Communication;Expression
+Parlez-vous allemand ?;Sprechen Sie Deutsch?;Communication;Expression
+Comment vous appelez-vous ?;Wie heißen Sie?;Communication;Expression
+Je m'appelle…;Ich heiße…;Communication;Expression
+Enchanté(e).;Freut mich.;Communication;Expression
+Comment allez-vous ?;Wie geht es Ihnen?;Communication;Expression
+Je vais bien.;Mir geht es gut.;Communication;Expression
+Je suis fatigué(e).;Ich bin müde.;Communication;Expression
+J'ai faim.;Ich habe Hunger.;Communication;Expression
+J'ai soif.;Ich habe Durst.;Communication;Expression
+J'ai besoin d'aide.;Ich brauche Hilfe.;Communication;Expression
+Pouvez-vous m'aider ?;Können Sie mir helfen?;Communication;Expression
+Répétez, s'il vous plaît.;Wiederholen Sie bitte.;Communication;Expression
+Parlez lentement, s'il vous plaît.;Sprechen Sie bitte langsam.;Communication;Expression
+Que signifie ce mot ?;Was bedeutet dieses Wort?;Communication;Expression
+Je ne sais pas.;Ich weiß es nicht.;Communication;Expression
+Je suis d'accord.;Ich bin einverstanden.;Communication;Expression
+Je ne suis pas d'accord.;Ich bin nicht einverstanden.;Communication;Expression
+Ce n'est pas grave.;Das macht nichts.;Communication;Expression
+Je suis désolé(e).;Es tut mir leid.;Communication;Expression
+Faites attention !;Passen Sie auf!;Communication;Expression
+Où sont les toilettes ?;Wo ist die Toilette?;Voyage;Expression
+Où se trouve la gare ?;Wo ist der Bahnhof?;Voyage;Expression
+Où se trouve l'aéroport ?;Wo ist der Flughafen?;Voyage;Expression
+Je cherche un hôtel.;Ich suche ein Hotel.;Voyage;Expression
+J'ai une réservation.;Ich habe eine Reservierung.;Voyage;Expression
+Combien coûte le billet ?;Wie viel kostet die Fahrkarte?;Voyage;Expression
+À quelle heure part le train ?;Wann fährt der Zug ab?;Voyage;Expression
+Je voudrais un billet.;Ich möchte eine Fahrkarte.;Voyage;Expression
+Je voudrais réserver une chambre.;Ich möchte ein Zimmer reservieren.;Voyage;Expression
+Appelez un taxi, s'il vous plaît.;Rufen Sie bitte ein Taxi.;Voyage;Expression
+Je suis perdu(e).;Ich habe mich verlaufen.;Voyage;Expression
+Tournez à gauche.;Biegen Sie links ab.;Voyage;Expression
+Tournez à droite.;Biegen Sie rechts ab.;Voyage;Expression
+Allez tout droit.;Gehen Sie geradeaus.;Voyage;Expression
+C'est loin ?;Ist es weit?;Voyage;Expression
+C'est près d'ici.;Es ist in der Nähe.;Voyage;Expression
+Je voudrais le menu.;Ich hätte gern die Speisekarte.;Restaurant;Expression
+L'addition, s'il vous plaît.;Die Rechnung, bitte.;Restaurant;Expression
+Je voudrais de l'eau.;Ich hätte gern Wasser.;Restaurant;Expression
+Je suis végétarien(ne).;Ich bin Vegetarier(in).;Restaurant;Expression
+C'est délicieux.;Das ist köstlich.;Restaurant;Expression
+Je n'ai pas commandé cela.;Das habe ich nicht bestellt.;Restaurant;Expression
+Avez-vous une table libre ?;Haben Sie einen freien Tisch?;Restaurant;Expression
+Je voudrais payer par carte.;Ich möchte mit Karte bezahlen.;Achats;Expression
+Acceptez-vous les espèces ?;Nehmen Sie Bargeld an?;Achats;Expression
+C'est trop cher.;Das ist zu teuer.;Achats;Expression
+Avez-vous une autre taille ?;Haben Sie eine andere Größe?;Achats;Expression
+Je regarde seulement.;Ich schaue mich nur um.;Achats;Expression
+Je voudrais acheter ceci.;Ich möchte das kaufen.;Achats;Expression
+Où est la pharmacie ?;Wo ist die Apotheke?;Urgences;Expression
+J'ai besoin d'un médecin.;Ich brauche einen Arzt.;Urgences;Expression
+Appelez une ambulance !;Rufen Sie einen Krankenwagen!;Urgences;Expression
+Aidez-moi, s'il vous plaît !;Helfen Sie mir bitte!;Urgences;Expression
+Je ne me sens pas bien.;Mir geht es nicht gut.;Urgences;Expression
+Où est l'hôpital le plus proche ?;Wo ist das nächste Krankenhaus?;Urgences;Expression
+J'ai perdu mon passeport.;Ich habe meinen Reisepass verloren.;Urgences;Expression
+Je voudrais prendre rendez-vous.;Ich möchte einen Termin vereinbaren.;Travail;Expression
+Je travaille aujourd'hui.;Ich arbeite heute.;Travail;Expression
+Je suis étudiant(e).;Ich bin Student(in).;Travail;Expression
+La réunion commence à neuf heures.;Die Besprechung beginnt um neun Uhr.;Travail;Expression
+Je vous enverrai un message.;Ich werde Ihnen eine Nachricht schicken.;Travail;Expression
+Merci pour votre réponse.;Vielen Dank für Ihre Antwort.;Travail;Expression
+Veuillez patienter un instant.;Bitte warten Sie einen Moment.;Travail;Expression
+Je vous remercie pour votre aide.;Ich danke Ihnen für Ihre Hilfe.;Travail;Expression
+Bonne chance !;Viel Glück!;Expressions;Expression
+Félicitations !;Herzlichen Glückwunsch!;Expressions;Expression
+Bon anniversaire !;Alles Gute zum Geburtstag!;Expressions;Expression
+Bon appétit !;Guten Appetit!;Expressions;Expression
+Bon voyage !;Gute Reise!;Expressions;Expression
+À votre santé !;Prost!;Expressions;Expression
+Je t'aime.;Ich liebe dich.;Expressions;Expression
+Tu me manques.;Du fehlst mir.;Expressions;Expression
+Prenez soin de vous.;Passen Sie auf sich auf.;Expressions;Expression
+À bientôt !;Bis bald!;Expressions;Expression

@@ -1,0 +1,932 @@
+# Lexika — prononciations et phrases d'exemple par langue · Bomoko Solution
+# Format : id|langue|prononciation|phrase d'exemple|traduction française de la phrase
+a_bientot|kg|Bé-to ké mo-na-na|Beto ke monana mbazi.|On se voit demain.
+a_chacun_sa_marotte|es|ka-da lo-ko kon sou té-ma|A él le encanta coleccionar sellos; cada loco con su tema.|Il adore collectionner les timbres ; à chacun sa marotte.
+a_droite|kg|Di-bo-ko ya ki-ta-ta|Baluka na diboko ya kitata.|Tourne à droite.
+a_droite|ln|lo-bo-ko ya mo-ba-li|Baluka na loboko ya mobali.|Tourne à droite.
+a_droite|lua|kou dia ba-lou-mé|Kudimuka ku dia balume.|Tourne à droite.
+a_force_de_manger_sans_compter_on_finit|lua|ka-bou-ndi ka-dia, ka-bou-ndi ka-dia, ka-cha-la né tchi-lou-mbou|Dimuka ne lukuka, kabundi kadia kashala ne tshilumbu.|Méfie-toi de la gourmandise, l'excès mène aux ennuis.
+a_gauche|kg|Di-bo-ko ya kin-kén-to|Baluka na diboko ya kinkento.|Tourne à gauche.
+a_gauche|ln|lo-bo-ko ya mwa-si|Baluka na loboko ya mwasi.|Tourne à gauche.
+a_gauche|lua|kou dia ba-ka-ji|Njila udi ku dia bakaji.|Le chemin est à gauche.
+a_quelque_chose_malheur_est_bon|es|no ay mal ké por byén no bén-ga|Perdí ese empleo pero encontré uno mejor; no hay mal que por bien no venga.|J'ai perdu cet emploi mais j'en ai trouvé un meilleur ; à quelque chose malheur est bon.
+acheter|es|kom-prar|Quiero comprar un regalo para mi madre.|Je veux acheter un cadeau pour ma mère.
+acheter|kg|Kou-soum-ba|Mono zola kusumba matiti.|Je veux acheter des légumes.
+acheter|ln|ko-som-ba|Nakei kosomba limpa.|Je vais acheter du pain.
+acheter|lua|kou-sou-mba|Ndi musue kusumba bilamba.|Je veux acheter des vêtements.
+acheter|sw|kou-nou-nou-a|Nataka kununua matunda.|Je veux acheter des fruits.
+acheteur|kg|Mou-soum-bi|Musumbi me kwisa.|Le client est arrivé.
+acheteur|ln|mo-som-bi|Mosombi afuti mbongo nyonso.|Le client a payé tout l'argent.
+aide|es|a-you-da|Muchas gracias por su ayuda.|Merci beaucoup pour votre aide.
+aidemoi|lua|nga-mbou-lou-i-ché|Ngambuluishe kuambula bujitu ebu.|Aide-moi à porter cette charge.
+aider|kg|Kou-sa-di-sa|Sadisa mpangi na nge.|Aide ton frère.
+aider|sw|kou-sa-i-di-a|Asante kwa kunisaidia.|Merci de m'avoir aidé.
+aimer|kg|Kou-zo-la|Mono ke zola nge.|Je t'aime.
+aimer|ln|ko-lin-ga|Nalingi yo mingi.|Je t'aime beaucoup.
+aimer|lua|kou-sou-a|Ndi musue kulonga Tshiluba.|Je veux apprendre le tshiluba.
+aimer|sw|kou-pén-da|Nakupenda sana.|Je t'aime beaucoup.
+aine|kg|Nkou-loun-tou|Nkuluntu na mono ke zingaka na Matadi.|Mon aîné habite à Matadi.
+aine|ln|ya-ya|Yaya na ngai afandaka na Matadi.|Mon aîné(e) habite à Matadi.
+aller|es|ir|Vamos juntos a la biblioteca.|Nous allons ensemble à la bibliothèque.
+aller|kg|Kou-kwén-da|Nge ke kwenda na wapi?|Où vas-tu ?
+aller|ln|ko-ken-dé|Nalingi kokende na mboka.|Je veux aller au village.
+aller|lua|kou-ya|Tudi tuya ku musoko.|Nous allons au village.
+aller|sw|kwén-da|Tunaenda shuleni.|Nous allons à l'école.
+ambassade|es|ém-ba-ha-da|Fui a la embajada para renovar mi visa.|Je suis allé à l'ambassade pour renouveler mon visa.
+ame|es|al-ma / és-pi-ri-tou|La música alimenta el alma.|La musique nourrit l'âme.
+ami|es|a-mi-go / a-mi-ga|Es mi mejor amigo desde la infancia.|C'est mon meilleur ami depuis l'enfance.
+ami|kg|Ndou-kou|Nge kele nduku na mono ya kieleka.|Tu es mon vrai ami.
+ami|ln|mo-nin-ga|Moninga na ngai aye kotala ngai.|Mon ami est venu me rendre visite.
+ami|lua|mou-lou-nda|Mulunda wanyi udi ungambuluisha.|Mon ami m'aide.
+ami|sw|ra-fi-ki|Yeye ni rafiki yangu wa karibu.|C'est mon ami proche.
+amour|es|a-mor|El amor al prójimo es esencial.|L'amour du prochain est essentiel.
+amour|ln|bo-lin-go|Bolingo eleki nyonso.|L'amour surpasse tout.
+amour|lua|di-na-nga|Dinanga didi dipita bintu bionso.|L'amour surpasse toutes choses.
+amour|sw|ou-pén-do|Upendo huleta amani.|L'amour apporte la paix.
+ancetre|lua|nka-mbou-a|Ba nkambua betu bakatulekela meji.|Nos ancêtres nous ont laissé la sagesse.
+annee|es|a-nyo|¡Feliz Año Nuevo!|Bonne Année !
+annee|ln|mbou-la|Mbula ya sika ya esengo !|Bonne année !
+annee|lua|tchi-di-mou|Tshidimu tshipiatshipia tshilengele!|Bonne nouvelle année !
+annee|sw|mwa-ka|Heri ya mwaka mpya!|Bonne année !
+aout|lua|ngo-ndo mou-a-nda mou-kou-lou|Ngondo muanda mukulu.|Le huitième mois.
+apprendre|lua|kou-lo-nga|Tudi tulonga mu kalasa.|Nous étudions en classe.
+argent|es|di-né-ro|No tengo suficiente dinero en efectivo.|Je n'ai pas assez d'argent liquide.
+argent|kg|Mbon-go|Mono kele na mbongo ve.|Je n'ai pas d'argent.
+argent|ln|mbon-go|Nazali na mbongo te.|Je n'ai pas d'argent.
+argent|lua|ma-kou-ta / mfra-nga|Tshiena ne makuta a bungi to.|Je n'ai pas beaucoup d'argent.
+argent|sw|pé-sa / fa-ran-ga|Sina pesa leo.|Je n'ai pas d'argent aujourd'hui.
+arret|kg|Ga-ré / Ki-si-ka ya kou-té-la-ma|Telama na kisika ya kutelama.|Arrête-toi à l'arrêt.
+arret|lua|tchi-tou-di-lou|Ndi ngindila ku tshitudilu tshia mashinyi.|J'attends à l'arrêt de bus.
+arretetoi|ln|té-lé-ma|Sofele, telema awa !|Chauffeur, arrête-toi ici !
+arretetoi_ici|lua|i-ma-nyi-ka kou-né-kou|Muendeshi, imanyika kuneku!|Chauffeur, arrête-toi ici !
+attends_un_peu|lua|i-ndi-la ka-ké-sé|Indila kakese, ndi ndua.|Attends un peu, j'arrive.
+au_revoir_a_celui_qui_part|kg|Kwén-da mbo-té|Kwenda mbote na nzila.|Bon voyage / Au revoir.
+au_revoir_a_celui_qui_part|ln|ken-dé ma-la-mou|Kende malamu, tokutana lobi.|Bon départ, on se voit demain.
+au_revoir_a_celui_qui_reste|kg|Bi-ka-la mbo-té|Bikala mbote na nzo.|Reste bien à la maison.
+au_revoir_a_celui_qui_reste|ln|ti-ka-la ma-la-mou|Tikala malamu na ndako.|Reste bien à la maison.
+au_revoir_a_celui_qui_reste|lua|cha-la bi-mpé|Shala bimpe ku nzubu.|Reste bien à la maison.
+au_revoir_litt_bonnes_choses|lua|ma-lou-i-mpé|Shala bimpe, maluimpe!|Reste bien, au revoir !
+aujourdhui|es|oy|Hoy hace muy buen tiempo.|Aujourd'hui il fait très beau.
+aujourdhui|kg|Bou-bou|Bubu mono ke sala.|Aujourd'hui je travaille.
+aujourdhui|ln|lé-lo|Lelo ezali mokolo ya esengo.|Aujourd'hui est un jour de joie.
+aujourdhui|lua|lé-lou|Lelu kudi munya mukole.|Aujourd'hui il y a un grand soleil.
+aujourdhui|sw|lé-o|Leo ni siku ya kazi.|Aujourd'hui est un jour de travail.
+aurevoir|es|a-dyos / as-ta loué-go|Adiós, nos vemos mañana.|Au revoir, on se voit demain.
+aurevoir|sw|kwa-hé-ri|Kwaheri, tutaonana kesho.|Au revoir, on se voit demain.
+avion|es|a-vyon|Mi avión aterriza a las diez.|Mon avion atterrit à dix heures.
+avion|kg|Ndé-ké|Ndeke me pumbuka.|L'avion a décollé.
+avion|ln|mpé-po|Mpepo ekiti na libanda ya ndeke.|L'avion a atterri à l'aéroport.
+avion|lua|ndè-ké|Ndèke udi ubanda mu diulu.|L'avion monte dans le ciel.
+avion|sw|n-dé-gué|Ndege imetua uwanjani.|L'avion a atterri à l'aéroport.
+avoir|es|té-nér|Tengo muchas ganas de aprender.|J'ai très envie d'apprendre.
+avoir|sw|kou-wa na|Nina watoto wawili.|J'ai deux enfants.
+avril|lua|ngo-ndo mou-i-na-yi|Ngondo muinayi.|Le quatrième mois.
+bagage|es|é-ki-pa-hé / ma-lé-ta|Mi maleta es muy pesada.|Ma valise est très lourde.
+baisse_le_prix|ln|ki-ta mo-tou-ya|Nabondeli yo, kita mwa motuya.|S'il te plaît, baisse un peu le prix.
+baisser_le_prix|kg|Kou-lou-mou-sa nta-lou|Pardon, kulumusa ntalu.|S'il te plaît, baisse le prix.
+banane|ln|é-ta-bé|Etabe oyo eteli malamu.|Cette banane est bien mûre.
+banane|sw|n-di-zi|Ndizi mbivu ni tamu.|La banane mûre est sucrée.
+bananes|kg|Ma-kon-dé|Makonde ya kuyela.|Des bananes mûres.
+bananes_plantains|lua|ma-ko-ndé|Makonde makanga.|Bananes plantains frites.
+bateau|kg|Ma-swa|Maswa ke sabuka nzadi.|Le bateau traverse le fleuve.
+bateau|ln|ma-sou-wa|Masuwa ekei na Kisangani.|Le bateau est parti pour Kisangani.
+bateau|lua|ma-chou-a|Tudi tusabuka musulu ne mashua.|Nous traversons la rivière en bateau.
+bateau|sw|mé-li / bo-ti|Tunasafiri kwa meli ziwani.|Nous voyageons en bateau sur le lac.
+benediction|es|bén-di-syon|Pidió la bendición de sus padres.|Il a demandé la bénédiction de ses parents.
+benediction|kg|Lou-sam-bou-lou / Lou-sa-kou-mou-nou|Nzambi kupesa nge lusakumunu.|Que Dieu te bénisse.
+benediction|ln|li-pam-bo-li|Nzambe apesa yo lipamboli.|Que Dieu te bénisse.
+benediction|lua|di-bé-né-cha|Dibenesha dia Nzambi dikale nenu.|Que la bénédiction de Dieu soit avec vous.
+benediction|sw|ba-ra-ka|Baraka za Mungu ziwe nawe.|Que les bénédictions de Dieu soient avec toi.
+bible|lua|mou-ka-nda wa nza-mbi|Udi ubala Mukanda wa Nzambi.|Il lit la Bible.
+bien|lua|lé-ngé-lé|Mudimu eu udi mulengele.|Ce travail est bien.
+bien|sw|mzou-ri / sa-la-ma|Habari nzuri sana.|Très bien.
+bienvenue|es|bién-vé-ni-do|Bienvenido a nuestra casa.|Bienvenue dans notre maison.
+bienvenue|ln|bo-yé-ï bo-la-mou|Boyei bolamu na Kinshasa !|Bienvenue à Kinshasa !
+bienvenue|sw|ka-ri-bou / ka-ri-bou-ni|Karibu nyumbani kwetu.|Bienvenue chez nous.
+biere|sw|pom-bé / bi-a|Anakunywa pombe kidogo.|Il boit un peu de bière.
+billet|es|bi-yé-té / bo-lé-to|Ya compré mi billete de ida y vuelta.|J'ai déjà acheté mon billet aller-retour.
+boire|es|bé-bér / to-mar|Me gusta beber té caliente.|J'aime boire du thé chaud.
+boire|kg|Kou-nwa|Nwa maza.|Bois de l'eau.
+boire|ln|ko-mé-la|Komela mai mingi ezali malamu mpo na nzoto.|Boire beaucoup d'eau est bon pour le corps.
+boire|lua|kou-nou-a|Ndi nnua mayi.|Je bois de l'eau.
+boire|sw|kou-nywa|Kunywa maji mengi.|Bois beaucoup d'eau.
+boisson|kg|Ma-la-fou|Malafu ya nsamba.|Vin de palme.
+boisson|lua|ma-lou-vou|Maluvu a dibue.|Vin de palme.
+bon_apresmidi|es|boué-nas tar-dés|Buenas tardes a todos.|Bonsoir à tous.
+bon_marche|es|ba-ra-to|Encontré zapatos muy baratos.|J'ai trouvé des chaussures très bon marché.
+bon_marche|sw|ra-hi-si|Leo nyanya ni rahisi sokoni.|Aujourd'hui les tomates sont bon marché au marché.
+bon_voyage_a_celui_qui_part|lua|nda-kou bi-mpé|Ndaku bimpe mu njila.|Bon voyage sur la route.
+bonjour|es|o-la|Hola, ¿cómo estás?|Bonjour, comment vas-tu ?
+bonjour|kg|Mbo-té|Mbote na nge.|Bonjour à toi.
+bonjour|ln|mbo-té|Mbote na yo, ndeko.|Bonjour à toi, frère/sœur.
+bonjour|lua|mo-yo|Moyo wenu!|Bonjour à vous !
+bonjour|sw|djam-bo / hou-djam-bo|Hujambo mama?|Bonjour maman ?
+bonjour_a_vous_pluriel_respect|lua|mo-yo wé-nou|Moyo wenu batatu ne bamamu.|Bonjour à vous papas et mamans.
+bonjour_lapresmidi|kg|Mbo-té ya mwi-ni|Mbote ya mwini, mama.|Bonjour maman.
+bonjour_lapresmidi|sw|ha-ba-ri za m-tcha-na|Habari za mchana rafiki.|Bonjour l'ami.
+bonjour_le_matin|es|boué-nos di-as|Buenos días, señor.|Bonjour, monsieur.
+bonjour_le_matin|kg|Mbo-té ya mé-né|Mbote ya mene, tata.|Bonjour papa.
+bonjour_le_matin|ln|mbo-té na nton-go|Mbote na ntongo, papa.|Bonjour ce matin, papa.
+bonjour_le_matin|lua|mou-o-yo wa di-nda|Muoyo wa dinda, mwana wanyi.|Bonjour, mon enfant.
+bonjour_le_matin|sw|ha-ba-ri za a-sou-bou-hi|Habari za asubuhi baba.|Bonjour papa.
+bonne_nuit|kg|Kan-si / La-la mbo-té|Lala mbote, mbazi.|Bonne nuit, à demain.
+bonne_nuit|lua|la-la bi-mpé|Lala bimpe, tuamonangana makelela.|Dors bien, on se voit demain.
+bonne_nuit|sw|ou-si-kou mwé-ma|Lala salama, usiku mwema.|Dors bien, bonne nuit.
+bonsoir|es|boué-nas no-tchés|Buenas noches, que descanses.|Bonne nuit, repose-toi bien.
+bonsoir|kg|Mbo-té ya nko-ki-la|Mbote ya nkokila na beno.|Bonsoir à vous.
+bonsoir|ln|mbo-té na po-kwa|Mbote na pokwa, mama.|Bonsoir, maman.
+bonsoir|lua|mou-o-yo wa di-lo-lo|Muoyo wa dilolo, udi bimpe?|Bonsoir, vas-tu bien ?
+bonsoir|sw|ha-ba-ri za dji-o-ni|Habari za jioni nyote.|Bonsoir à vous tous.
+bonte|ln|bo-bo-to|Azali moto ya boboto.|C'est une personne bienveillante.
+bouche|es|bo-ka|Abre la boca, por favor.|Ouvre la bouche, s'il te plaît.
+bouche|kg|Mou-no-ko|Kanga munoko.|Ferme la bouche.
+bouche|ln|mo-no-ko|Fungola monoko.|Ouvre la bouche.
+bouche|lua|mou-ka-na|Kanga mukana.|Ferme la bouche.
+bouche|sw|m-do-mo / ki-nywa|Funga mdomo unapokula.|Ferme la bouche quand tu manges.
+boutique|sw|dou-ka|Nunua sukari dukani.|Achète du sucre à la boutique.
+bras|kg|Di-bo-ko / Ma-bo-ko|Sukula maboko na nge.|Lave tes mains.
+bras|ln|lo-bo-ko|Sukola maboko liboso ya kolia.|Lave-toi les mains avant de manger.
+bras|lua|di-bo-ko / ma-bo-ko|Owa maboko kumpala kua kudia.|Lave-toi les mains avant de manger.
+bus|es|aou-to-bous|El autobús sale cada media hora.|Le bus part toutes les demi-heures.
+bus|ln|bi-si|Tokomata bisi na arrêt.|Nous allons monter dans le bus à l'arrêt.
+bus|sw|ba-si|Tunapanda basi kwenda Bukavu.|Nous prenons le bus pour aller à Bukavu.
+ca_va_bien|kg|Mo-no ké-lé mbo-té|Mono kele mbote, matondo.|Je vais bien, merci.
+ca_va_bien|ln|na-za-li ma-la-mou|Nazali malamu, matondo.|Je vais bien, merci.
+ca_va_bien|lua|ndi bi-mpé|Ndi bimpe, tuasakidila.|Je vais bien, merci.
+cadet|kg|Lé-ki|Leki na mono ke tanga.|Mon petit frère/ma petite sœur étudie.
+cadet|ln|lé-ki|Leki na ngai azali na mbula zomi.|Mon cadet a dix ans.
+cafe|es|ka-fé|¿Quieres una taza de café?|Veux-tu une tasse de café ?
+carte_didentite|lua|mou-ka-nda wa bou-a-na|Leja mukanda webe wa buana.|Montre ta pièce d'identité.
+carte_didentite|sw|ki-tam-bou-li-cho|Onyesha kitambulisho chako.|Montre ta carte d'identité.
+celui_qui_est_patient_mange_des_fruits|sw|m-vou-mi-li-vou hou-la m-bi-vou|Subiri wakati wako, mvumilivu hula mbivu.|Attends ton heure, la patience finit toujours par payer.
+celui_qui_necoute_pas_les_conseils_des|sw|a-si-yé-si-ki-a la m-kou-ou hou-voun-dji-ka gou-ou|Sikiliza wazazi wako, asiyesikia la mkuu huvunjika guu.|Écoute tes parents, qui n'écoute pas les sages finit par le regretter.
+cent|es|syén|Este libro tiene cien páginas.|Ce livre a cent pages.
+cent|kg|Nka-ma|Bantu nkama.|Cent personnes.
+cent|ln|nka-ma|Nkama moko ya ba-francs.|Cent francs.
+cent|lua|lou-ka-ma|Mfranga lukama.|Cent francs.
+cent|sw|mi-a mo-dja|Mia moja kwa mia moja.|Cent pour cent.
+chaise|es|si-ya|Siéntate en esta silla.|Assieds-toi sur cette chaise.
+chaise|kg|Ki-ti|Vanda na kiti.|Assieds-toi sur la chaise.
+chaise|ln|ki-ti|Fanda na kiti oyo.|Assieds-toi sur cette chaise.
+chaise|sw|ki-ti|Kaa kwenye kiti.|Assieds-toi sur la chaise.
+chaussure|ln|sa-pa-to|Longola sapato na libanda.|Enlève les chaussures dehors.
+chef|kg|Mfou-mou|Mfumu ya bwala me tuba.|Le chef du village a parlé.
+chef|ln|mo-kon-zi|Mokonzi ya mboka alobi na bato.|Le chef du pays a parlé au peuple.
+chef|lua|mfou-mou|Mfumu wa ditunga.|Le chef de l'État / Président.
+chef|sw|ki-on-go-zi / tchi-fou|Kiongozi wa kijiji.|Le chef du village.
+chemin|es|ka-mi-no / ka-yé|Sigue por esta calle hasta el final.|Continue dans cette rue jusqu'au bout.
+cher|es|ka-ro|Este reloj es demasiado caro.|Cette montre est trop chère.
+cher|kg|Nta-lou min-gi|Ntalu kele mingi, kulumusa fioti.|C'est cher, diminue un peu.
+cher|ln|nta-lo min-gi|Elamba oyo ezali ntalo mingi.|Ce vêtement est trop cher.
+cher|lua|mou-chi-nga mou-ko-lé|Bintu bidi mushinga mukole lelu.|Les choses sont chères aujourd'hui.
+cher|sw|gha-li|Ni ghali sana, punguza bei.|C'est très cher, diminue le prix.
+chien_qui_aboie_beaucoup_ne_mord_pas|ln|mbwa o-yo a-gan-ga-ka min-gi a-swa-ka té|Koganga na ye ebangisa yo te, mbwa oyo agangaka mingi aswaka te.|Ne crains pas ses cris, chien qui aboie ne mord pas.
+chikwangue_pain_de_manioc|ln|kwan-ga|Kwanga oyo ezali ya sika.|Cette chikwangue est fraîche.
+cinq|es|sin-ko|Trabajo cinco días a la semana.|Je travaille cinq jours par semaine.
+cinq|kg|Ta-nou|Misapi tanu.|Cinq doigts.
+cinq|ln|mi-ta-no|Misapi mitano ya loboko.|Cinq doigts de la main.
+cinq|lua|i-ta-nou|Minu itanu.|Cinq doigts.
+cinq|sw|ta-no|Vidole vitano.|Cinq doigts.
+cinquante|sw|ham-si-ni|Faranga hamsini.|Cinquante francs.
+cle|es|ya-vé|He perdido la llave de mi casa.|J'ai perdu la clé de ma maison.
+client|es|klyén-té|El cliente siempre tiene la razón.|Le client a toujours raison.
+coeur|es|ko-ra-son|Mi corazón late rápido.|Mon cœur bat vite.
+coeur|kg|Nti-ma|Ntima na mono kele na kiese.|Mon cœur est dans la joie.
+coeur|ln|mo-té-ma|Motema na ngai ezali kobeta mbangu.|Mon cœur bat vite.
+coeur|lua|mou-o-yo|Muoyo wanyi udi ututa.|Mon cœur bat.
+coeur|sw|mo-yo|Ana moyo mzuri.|Il/Elle a bon cœur.
+combien|es|kouan-to koués-ta|Disculpe, ¿cuánto cuesta esta camisa?|Excusez-moi, combien coûte cette chemise ?
+combien|ln|é-za-li bo-ni|Limpa oyo ezali boni ?|Combien coûte ce pain ?
+comment_ca_va|kg|In-ki mou-tin-dou|Mbote, inki mutindu nge kele?|Bonjour, comment vas-tu ?
+comment_ca_va|sw|ha-ba-ri ga-ni|Habari za asubuhi?|Comment ça va ce matin ?
+comment_tappellestu|lua|di-na dié-bé nga-nyi|Moyo, dina diebe nganyi?|Bonjour, comment t'appelles-tu ?
+comment_vastu|es|ko-mo és-tas|Hola amigo, ¿cómo estás?|Salut l'ami, comment vas-tu ?
+comment_vastu|lua|ou-di bi-mpé|Moyo! Udi bimpe lelu?|Bonjour ! Vas-tu bien aujourd'hui ?
+corps|es|kouér-po|Hay que cuidar el cuerpo.|Il faut prendre soin de son corps.
+corps|kg|Ni-tou|Nitu na mono kele ngolo.|Mon corps est fort.
+corps|ln|nzo-to|Nzoto na ngai ezali kolengela.|Mon corps est fatigué.
+corps|lua|mou-bi-di|Mubidi wanyi udi ukola.|Mon corps guérit / prend des forces.
+corps|sw|mwi-li|Mwili wangu umechoka.|Mon corps est fatigué.
+cuisine|es|ko-si-na|Mi madre prepara la cena en la cocina.|Ma mère prépare le dîner dans la cuisine.
+cuisine|kg|Ki-kou-kou|Mama ke lamba na kikuku.|Maman prépare dans la cuisine.
+dans_une_bouche_fermee_nentrent_pas_les|es|én bo-ka sé-ra-da no én-tran mos-kas|No opines en esa discusión; en boca cerrada no entran moscas.|Ne donne pas ton avis dans cette dispute ; il vaut mieux se taire.
+de_rien|es|dé na-da|De nada, es un placer.|De rien, c'est un plaisir.
+de_rien|lua|bou-a-lou ka-bou-yi|Tuasakidila. - Bualu kabuyi.|Merci. - De rien.
+decembre|lua|ngo-ndo di-kou-mi né i-bi-di|Mu ngondo dikumi ne ibidi tudi tusekelela.|En décembre nous fêtons.
+demain|es|ma-nya-na|Mañana tenemos una reunión importante.|Demain nous avons une réunion importante.
+demain|kg|Mba-zi|Mbazi beto ke kwenda.|Demain nous partirons.
+demain|ln|lo-bi|Tokosala yango lobi.|Nous le ferons demain.
+demain|sw|ké-cho|Tutaonana kesho asubuhi.|On se verra demain matin.
+demain_selon_contexte|lua|ma-ké-lé-la|Tuamonangana makelela.|On se voit demain.
+dent|ln|li-no|Sukola mino na yo tongo nyonso.|Brosse tes dents chaque matin.
+derriere|kg|Na ni-ma|Nzo kele na nima ya zandu.|La maison est derrière le marché.
+derriere|ln|nsi-ma|Tala na nsima.|Regarde derrière.
+derriere|lua|pa-nyi-ma|Nzubu udi panyima pa tshisalu.|La maison est derrière le marché.
+dette|ln|nion-go|Kofanda na niongo ezali malamu te.|Avoir des dettes n'est pas bon.
+deux|es|dos|Tengo dos hermanos.|J'ai deux frères.
+deux|kg|Zo-lé|Bana zole.|Deux enfants.
+deux|ln|mi-ba-lé|Nazali na bana mibale.|J'ai deux enfants.
+deux|lua|i-bi-di|Bantu babidi.|Deux personnes.
+deux|sw|m-bi-li|Siku mbili.|Deux jours.
+deux_mains_se_lavent_lune_lautre|lua|bia-nza bi-bi-di bio-wa, ou-mou-é ou-di ou-ya kou mou-tou|Tuambuluishangane, bualu bianza bibidi biowa.|Entraidons-nous, car deux mains se lavent mutuellement.
+devant|ln|li-bo-so|Kende liboso.|Va tout droit / devant.
+devant|lua|kou-mpa-la|Ndaku anu kumpala.|Va tout droit.
+dieu|es|dyos|Si Dios quiere, nos veremos pronto.|Si Dieu le veut, nous nous verrons bientôt.
+dieu|kg|Nzam-bi|Nzambi kele zola.|Dieu est amour.
+dieu|ln|nzam-bé|Nzambe azali bolingo.|Dieu est amour.
+dieu|lua|nza-mbi|Nzambi udi munene.|Dieu est grand.
+dieu|sw|moun-gou|Mungu akubariki!|Que Dieu te bénisse !
+dieu_toutpuissant|kg|Nzam-bi Mpoun-gou|Nzambi Mpungu tulendo.|Dieu Tout-Puissant.
+dieu_toutpuissant_nom_traditionnel_luba|lua|ma-wé-ja na-ngi-la|Maweja Nangila atubeneshe.|Que Dieu Tout-Puissant nous bénisse.
+dimanche|es|do-min-go|El domingo es día de descanso.|Le dimanche est un jour de repos.
+dimanche|kg|Lou-min-gou|Lumingu kele kilumbu ya kupema.|Dimanche est un jour de repos.
+dimanche|ln|mo-ko-lo ya é-yen-ga|Bato bakendaka na ndako ya Nzambe mokolo ya eyenga.|Les gens vont à l'église le dimanche.
+dimanche|sw|djou-ma-pi-li|Jumapili tunaenda kanisani.|Dimanche nous allons à l'église.
+diminue_le_prix|lua|té-pé-cha mou-chi-nga|Tepesha mushinga kakese, mulunda.|Diminue un peu le prix, ami.
+dire|sw|kou-sé-ma / kou-on-gué-a|Anaongea Kiswahili vizuri.|Il/Elle parle bien swahili.
+dismoi_qui_tu_frequentes_et_je_te_dirai|es|di-mé kon kyén an-das i té di-ré kyén é-rés|Elige bien tus amistades: dime con quién andas y te diré quién eres.|Choisis bien tes amis : dis-moi qui tu fréquentes et je te dirai qui tu es.
+dix|es|dyés|Faltan diez minutos para las cinco.|Il est cinq heures moins dix.
+dix|kg|Kou-mi|Makumi ya mbongo.|Dix billets d'argent.
+dix|ln|zo-mi|Mbula zomi.|Dix ans.
+dix|lua|di-kou-mi|Bantu dikumi.|Dix personnes.
+dix|sw|kou-mi|Watu kumi.|Dix personnes.
+document|es|do-kou-mén-to / i-dén-ti-dad|Necesito su documento de identidad.|J'ai besoin de votre pièce d'identité.
+document|ln|mo-kan-da|Lakisa mokanda na yo ya kobotama.|Montre ton acte de naissance.
+donner|kg|Kou-pé-sa|Pesa yandi mukanda.|Donne-lui le livre.
+donner|ln|ko-pé-sa|Pesa ngai buku yango.|Donne-moi ce livre.
+donner|lua|kou-pa|Mpesha mukanda au.|Donne-moi ce livre.
+donner|sw|kou-to-a / kou-pa|Nipe maji tafadhali.|Donne-moi de l'eau s'il te plaît.
+dormir|es|dor-mir|Necesito dormir ocho horas.|J'ai besoin de dormir huit heures.
+dormir|kg|Kou-la-la|Mwana ke lala.|L'enfant dort.
+dormir|ln|ko-la-la|Mwana alingi kolala.|L'enfant veut dormir.
+dormir|lua|kou-la-la|Bana badi balala.|Les enfants dorment.
+dormir|sw|kou-la-la|Mtoto amelala.|L'enfant dort.
+dou_vienstu|lua|ou-di ou-fou-ma pé-nyi|Muenyi, udi ufuma penyi?|Visiteur, d'où viens-tu ?
+doucement_doucement_va_loin_la_patience|ln|ma-lem-bé ma-lem-bé é-ko-ma mo-si-ka|Kobanga te soki ezali kokende malembe, malembe malembe ekoma mosika.|N'aie pas peur si ça avance lentement, doucement on va loin.
+doucementdoucement_fait_arriver|kg|Ma-lém-bé-ma-lém-bé ké kou-mi-sa-ka nsié-si na nzo|Équivalent de 'Petit à petit, l'oiseau fait son nid'.|
+douceur|lua|bou-po-lé|Bupole budi bupita tshiji.|La douceur surpasse la colère.
+douleur|kg|Mpa-si / Ma-la-di|Yandi kele na maladi.|Il est malade.
+droit|es|dé-ré-tcho|La educación es un derecho fundamental.|L'éducation est un droit fondamental.
+droite|es|dé-ré-tcha|El banco está a la derecha.|La banque est à droite.
+droite|sw|kou-li-a|Nyumba iko upande wa kulia.|La maison est du côté droit.
+eau|es|a-goua|Necesito beber un poco de agua.|J'ai besoin de boire un peu d'eau.
+eau|kg|Ma-za|Pesa mono maza ya kunwa.|Donne-moi de l'eau à boire.
+eau|ln|ma-ï|Pesa ngai kopo ya mai ya malili.|Donne-moi un verre d'eau fraîche.
+eau|lua|ma-yi|Mayi a kunua adi matalale.|L'eau à boire est fraîche.
+eau|sw|ma-dji|Nataka kunywa maji baridi.|Je veux boire de l'eau fraîche.
+ecole|es|és-koué-la|Los niños van a la escuela.|Les enfants vont à l'école.
+ecole|kg|Nzo-nkan-da|Bana ke kwenda na nzo-nkanda.|Les enfants vont à l'école.
+ecole|ln|ké-la-si|Bana bakei na kelasi.|Les enfants sont allés à l'école.
+ecole|lua|ka-la-sa|Bana badi baya ku kalasa.|Les enfants vont à l'école.
+ecole|sw|chou-lé|Watoto wanasoma shuleni.|Les enfants étudient à l'école.
+ecouter|es|és-kou-tchar|Escucho música mientras estudio.|J'écoute de la musique pendant que j'étudie.
+ecrire|kg|Kou-so-ni-ka|Sonika zina na nge.|Écris ton nom.
+ecrire|lua|kou-fou-nda|Funda dina diebe.|Écris ton nom.
+eglise|es|i-glé-sya|La iglesia está en el centro del pueblo.|L'église est au centre du village.
+eglise|kg|Nzo-Nzam-bi|Bantu ke kwenda na Nzo-Nzambi.|Les gens vont à l'église.
+eglise|ln|nda-ko ya nzam-bé|Tokokende na ndako ya Nzambe.|Nous irons à l'église.
+eglise|lua|nzou-bou wa nza-mbi|Tudi tuya ku nzubu wa Nzambi.|Nous allons à l'église.
+eglise|sw|ka-ni-sa|Tunaenda kanisani Jumapili.|Nous allons à l'église dimanche.
+enfant|kg|Mwa-na|Mwana ke sakana.|L'enfant joue.
+enfant|ln|mwa-na|Mwana azali kosakana.|L'enfant est en train de jouer.
+enfant|lua|mou-a-na|Mwana udi unaya mu lubanza.|L'enfant joue dans la cour.
+enfant|sw|m-to-to / wa-to-to|Watoto wanacheza nje.|Les enfants jouent dehors.
+enfant_garcon_fille|es|ni-nyo / ni-nya|El niño juega en el parque.|L'enfant joue dans le parc.
+enfants|kg|Ba-na|Bana me kwenda na nzo-nkanda.|Les enfants sont allés à l'école.
+enfants|lua|ba-na|Bana badi basanka.|Les enfants sont contents.
+enseignant|kg|Lon-gi|Longi ke longa bana.|L'enseignant instruit les enfants.
+entendre|kg|Kou-wa|Mono ke wa nge.|Je t'entends / Je te comprends.
+entendre|ln|ko-yo-ka|Oyoki likambo yango ?|As-tu entendu cette affaire ?
+entendre|lua|kou-mvou-a|Ndi ngumvua dîyi diebe.|J'entends ta voix.
+entendre|sw|kou-si-ki-a|Unanisikia?|Tu m'entends ?
+esperance|es|és-pé-ran-sa|La esperanza es lo último que se pierde.|L'espoir est la dernière chose que l'on perd.
+esperance|ln|é-li-kya|Kobungisa elikya te.|Ne perds pas espoir.
+esprit|ln|mo-li-mo|Molimo Mosantu.|Le Saint-Esprit.
+esprit|lua|mou-a-di / nyou-ma|Nyuma Muimpe.|Le Saint-Esprit.
+esprit|sw|ro-ho|Roho Mtakatifu.|Le Saint-Esprit.
+estce_que_tu_vas_bien|ln|o-za-li ma-la-mou|Ozali malamu lelo ?|Est-ce que tu vas bien aujourd'hui ?
+estomac|es|és-to-ma-go|Tengo dolor de estómago.|J'ai mal au ventre.
+etat|kg|Lé-ta|Kisalu ya leta.|Travail de l'État.
+etat|ln|lé-ta|Leta esengeli kosalisa bana-mboka.|L'État doit aider les citoyens.
+etat|sw|sé-ri-ka-li|Serikali inajenga barabara.|Le gouvernement construit des routes.
+etre|es|sér / és-tar|Soy estudiante y estoy en Madrid.|Je suis étudiant et je suis à Madrid.
+etre|sw|kou-wa|Nataka kuwa mwalimu.|Je veux être enseignant.
+etre_kozala_na|ln|ko-za-la|Kozala na boboto ezali malamu.|Être gentil est une bonne chose.
+excusemoi|ln|lim-bi-sa nga-ï|Limbisa ngai, nasali libunga.|Excuse-moi, j'ai fait une erreur.
+excusemoi|lua|ou-ndé-ké-lé|Undekele, tshiena mumanye to.|Excuse-moi, je ne sais pas.
+excusezmoi|es|dis-koul-pé / pér-don|Disculpe, ¿tiene la hora?|Excusez-moi, avez-vous l'heure ?
+faim|kg|Nza-la|Mono ke wa nzala.|J'ai faim.
+faim|ln|nza-la|Nazali na nzala makasi.|J'ai très faim.
+faim|sw|n-dja-a|Nina njaa sana.|J'ai très faim.
+faire|es|a-sér|¿Qué vas a hacer este fin de semana?|Que vas-tu faire ce week-end ?
+faire|kg|Kou-sa-la|Sala kisalu na nge.|Fais ton travail.
+faire|ln|ko-sa-la|Ozali kosala nini ?|Que fais-tu ?
+faire|lua|kou-é-nza|Udi wenza tshinyi?|Que fais-tu ?
+faire|sw|kou-fa-nya|Unafanya nini?|Que fais-tu ?
+famille|es|fa-mi-lya|Toda mi familia vive aquí.|Toute ma famille vit ici.
+famille|kg|Kan-da|Kanda na beto kele ya kuvukana.|Notre famille est unie.
+famille|ln|li-bo-ta|Libota na ngai ezali na esengo.|Ma famille est heureuse.
+famille|sw|fa-mi-li-a|Familia yangu inaishi Lubumbashi.|Ma famille vit à Lubumbashi.
+femme|es|mou-hér|La mujer lee un libro.|La femme lit un livre.
+femme|kg|Nkén-to|Nkento na yandi kele munganga.|Sa femme est médecin.
+femme|ln|mwa-si|Mwasi oyo azali molakisi.|Cette femme est enseignante.
+femme|lua|mou-ka-ji|Mukaji muimpe udi dibenesha.|Une bonne épouse est une bénédiction.
+femme|sw|mwa-nam-ké|Mwanamke huyu anafanya biashara.|Cette femme fait du commerce.
+fenetre|es|vén-ta-na|Abre la ventana para que entre aire.|Ouvre la fenêtre pour faire entrer l'air.
+fenetre|kg|Soun-ga / Né-la|Kangula nela sambu na mupepe.|Ouvre la fenêtre pour l'air.
+fenetre|ln|li-ni-ni-sa|Fungola lininisa mpo mopepe ekota.|Ouvre la fenêtre pour que l'air entre.
+fenetre|sw|di-ri-cha|Fungua dirisha tupate hewa.|Ouvre la fenêtre qu'on ait de l'air.
+feu|kg|Ti-ya|Tula tiya na kikuku.|Allume le feu à la cuisine.
+feu|ln|mo-to|Pelisa moto mpo na kolamba.|Allume le feu pour cuisiner.
+feu|sw|mo-to|Washa moto wa kupikia.|Allume le feu pour cuisiner.
+feuilles_de_manioc|kg|Sa-ka-sa-ka|Saka-saka kele madia ya Kongo.|Le saka-saka est un plat du Kongo.
+feuilles_de_manioc|sw|som-bé / ki-sam-vou|Sombe ya nazi ni tamu sana.|Les feuilles de manioc à la noix de coco sont très bonnes.
+feuilles_de_manioc_cuisinees|ln|pon-dou|Pondu ya mwamba ezali kitoko.|Le pondu à la pâte d'arachide est délicieux.
+feuilles_de_manioc_pondu|lua|ma-ta-mba|Matamba malamba ne mafuta a ngaji.|Feuilles de manioc cuisinées à l'huile de palme.
+fevrier|lua|ngo-ndo mou-i-bi-di|Mu ngondo muibidi mvula udi uloka.|En février il pleut.
+fievre|es|fyé-bré|El niño tiene fiebre alta.|L'enfant a une forte fièvre.
+fille|ln|mwa-na mwa-si|Mwana mwasi azali kotanga buku.|La fille lit un livre.
+fils|es|i-ho / i-ha|Tienen un hijo y una hija.|Ils ont un fils et une fille.
+foi|es|fé|Tener fe da mucha esperanza.|Avoir la foi donne beaucoup d'espoir.
+foi|ln|kon-di-ma|Kondima na ye ezali makasi.|Sa foi est forte.
+foi|sw|i-ma-ni|Ana imani kubwa kwa Mungu.|Il/Elle a une grande foi en Dieu.
+frere|es|ér-ma-no / ér-ma-na|Mi hermano mayor vive en Madrid.|Mon grand frère vit à Madrid.
+frere|kg|Mpan-gi|Yandi kele mpangi na mono.|Il/Elle est mon frère/ma sœur.
+frere|ln|ndé-ko|Ye azali ndeko na ngai.|C'est mon frère / ma sœur.
+frere|lua|mou-a-né-tou|Muanetu wa balume udi mu Kinshasa.|Mon frère est à Kinshasa.
+frere|sw|n-dou-gou|Sisi sote ni ndugu.|Nous sommes tous frères et sœurs.
+frere_aine|sw|ka-ka|Kaka yangu anaishi Goma.|Mon grand frère vit à Goma.
+fruit|es|frou-ta|Es bueno comer fruta todos los días.|Il est bon de manger des fruits tous les jours.
+fruit|kg|Mbou-ma|Dia mbuma konso kilumbu.|Mange un fruit chaque jour.
+fruit|ln|mbou-ma|Lia mbuma mikolo nyonso.|Mange des fruits tous les jours.
+fufu|lua|bi-dia|Tudi tudia bidia ne munyinyi.|Nous mangeons du fufu avec de la viande.
+garcon|ln|mwa-na mo-ba-li|Mwana mobali akei na kelasi.|Le garçon est allé à l'école.
+gauche|es|is-kyér-da|Gira a la izquierda en la esquina.|Tourne à gauche au coin de la rue.
+gauche|sw|kou-cho-to|Geuka kushoto kwenye kona.|Tourne à gauche au coin.
+gouvernement|es|go-byér-no|El gobierno anunció una nueva ley.|Le gouvernement a annoncé une nouvelle loi.
+grace|lua|lou-sé|Nzambi udi ne luse lua bungi.|Dieu est plein de miséricorde.
+grandmere|sw|bi-bi / nya-nya|Nyanya anatupenda sana.|Grand-mère nous aime beaucoup.
+grandparent|kg|Nka-ka|Nkaka ke ta masapo.|Grand-parent raconte des histoires.
+grandparent|ln|nko-ko|Nkoko abetelaka biso masapo.|Grand-parent nous raconte des contes.
+grandpere|es|a-boué-lo / a-boué-la|Mis abuelos nos visitan los domingos.|Mes grands-parents nous rendent visite le dimanche.
+grandpere|sw|ba-bou|Babu anasimulia hadithi.|Grand-père raconte une histoire.
+haricots|kg|Ma-dé-sou|Madesu ke pesa ngolo.|Les haricots donnent de la force.
+haricots|ln|ma-dé-sou|Madesu ezali na proteine mingi.|Les haricots contiennent beaucoup de protéines.
+heure|ln|ngon-ga|Ezali ngonga boni ?|Quelle heure est-il ?
+hier|es|a-yér|Ayer llovió toda la tarde.|Hier il a plu tout l'après-midi.
+hier|kg|Ma-zo-no|Mazono mvula nokaka.|Hier il a plu.
+hier|ln|lo-bi|Lobi mvula enokaki mingi.|Hier il a beaucoup plu.
+hier|sw|dja-na|Jana kulinyesha mvua kubwa.|Hier il a beaucoup plu.
+homme|es|om-bré|Ese hombre es nuestro vecino.|Cet homme est notre voisin.
+homme|kg|Ba-ka-la|Bakala yina kele ngolo.|Cet homme est fort.
+homme|ln|mo-ba-li|Mobali na ye azali monganga.|Son mari est médecin.
+homme|lua|mou-lou-mé|Mulume wanyi udi mulue.|Mon mari est arrivé.
+homme|sw|mwa-na-ou-mé|Mwanaume huyu ni mrefu.|Cet homme est grand.
+hopital|es|os-pi-tal|Lo llevaron al hospital.|On l'a emmené à l'hôpital.
+hopital|kg|Lou-pi-ta-lou|Beto ke kwenda na lupitalu.|Nous allons à l'hôpital.
+hopital|ln|lo-pi-ta-lo|Azali na lopitalo lelo.|Il est à l'hôpital aujourd'hui.
+hopital|lua|lou-pi-ta-di|Mubedi udi ku lupitadi.|Le malade est à l'hôpital.
+hopital|sw|hos-pi-ta-li|Mgonjwa ameenda hospitalini.|Le malade est allé à l'hôpital.
+huile|kg|Ma-fou-ta|Mafuta ya ngazi.|Huile de palme.
+huile|lua|ma-fou-ta|Mafuta a ngaji.|Huile de palme.
+huile|sw|ma-fou-ta|Mafuta ya mawese.|Huile de palme.
+huit|es|o-tcho|La clase empieza a las ocho.|Le cours commence à huit heures.
+huit|kg|Na-na|Banzo nana.|Huit maisons.
+huit|ln|mwam-bé|Bato mwambe bayei.|Huit personnes sont venues.
+huit|lua|mou-a-nda mou-kou-lou|Bintu muanda mukulu.|Huit objets.
+huit|sw|na-né|Vitabu vinane.|Huit livres.
+ici|kg|A-wa|Telama awa.|Arrête-toi ici.
+ici|ln|a-wa|Yaka awa.|Viens ici.
+ici|sw|ha-pa|Simama hapa tafadhali.|Arrête-toi ici s'il te plaît.
+il|kg|Yan-di ké-lé|Yandi kele na nzo.|Il/Elle est à la maison.
+il|ln|a-za-li|Azali na ndako.|Il/Elle est à la maison.
+il_ou_elle_est|sw|yé-yé ni / yé-yé a-na|Yeye ni rafiki yangu.|Il/Elle est mon ami(e).
+il_present|lua|ou-di wé-nza|Mamu udi wenza biakudia.|Maman fait à manger.
+ilelle_a|es|él/é-ya tyé-né|Él tiene un coche nuevo.|Il a une nouvelle voiture.
+ilelle_est_identite_etat|es|él/é-ya és / és-ta|Ella está en la oficina ahora.|Elle est au bureau maintenant.
+ils|kg|Ba-ou ké-lé|Bau kele na zandu.|Ils/Elles sont au marché.
+ils|ln|ba-za-li|Bazali kosala mosala.|Ils travaillent.
+ils_ou_elles_sont|sw|wa-o ni / wa-o wa-na|Wao wanaishi Bukavu.|Ils habitent à Bukavu.
+ils_present|lua|ba-di bé-nza|Bantu badi benza disanka.|Les gens font la fête.
+ilselles_sont|es|é-yos son / és-tan|Ellos están listos para salir.|Ils sont prêts à partir.
+invite|sw|m-gué-ni|Tuna mgeni nyumbani leo.|Nous avons un invité à la maison aujourd'hui.
+it|es|lé-tché|Los niños beben leche en el desayuno.|Les enfants boivent du lait au petit-déjeuner.
+jai|es|yo tén-go|Yo tengo una pregunta.|J'ai une question.
+jai_faim|es|tén-go am-bré / séd|Tengo mucha hambre, vamos a comer.|J'ai très faim, allons manger.
+jai_faim|lua|nza-la i-di i-nkou-a-ta|Nzala idi inkuata, tudie biakudia.|J'ai faim, mangeons.
+jai_fait_passe|ln|na-sa-la-ki|Nasalaki mosala yango lobi.|J'ai fait ce travail hier.
+jai_fait_passe|lua|na-ké-nza|Nakenza mudimu eu makelela.|J'ai fait ce travail hier.
+jai_mange_passe|kg|Mo-no di-a-ka|Mono diaka mazono.|J'ai mangé hier.
+jai_mange_passe|lua|na-ka-dia|Nakadia mishipa.|J'ai mangé du poisson.
+jai_soif|lua|nyo-ta i-di i-nkou-a-ta|Nyota idi inkuata, mpesha mayi.|J'ai soif, donne-moi de l'eau.
+jambe|kg|Kou-lou / Ma-kou-lou|Yandi ke tambula na makulu.|Il marche à pied.
+jambe|ln|li-ko-lo|Makolo ezali kosala ngai mpasi.|J'ai mal aux jambes.
+jambe|lua|di-kou-lou / ma-kou-lou|Makulu andi adi ne lubilu.|Ses jambes sont rapides.
+janvier|lua|ngo-ndo wa kou-mpa-la|Ngondo wa kumpala wa tshidimu.|Le premier mois de l'année.
+je_fais_present|ln|na-za-li ko-sa-la|Nazali kosala sikoyo.|Je travaille maintenant.
+je_fais_present|lua|ndi ngé-nza|Ndi ngenza mudimu wanyi.|Je fais mon travail.
+je_ferai_futur|ln|na-ko-sa-la|Nakosala yango lobi.|Je le ferai demain.
+je_ferai_futur|lua|né-ngé-nzé|Nengenze mudimu eu makelela.|Je ferai ce travail demain.
+je_fus_passe|es|yo foui / yo és-tou-vé|Ayer estuve en el museo.|Hier j'étais au musée.
+je_mange_present|kg|Mo-no ké di-a|Mono ke dia loso.|Je mange du riz.
+je_mange_present|lua|ndi ndia|Ndi ndia bidia.|Je mange du fufu.
+je_mangerai_futur|kg|Mo-no ta di-a|Mono ta dia na nkokila.|Je mangerai ce soir.
+je_mangerai_futur|lua|né-ndié|Nendie mu dilolo.|Je mangerai ce soir.
+je_mappelle|lua|di-na dia-nyi ndi|Dina dianyi ndi Kabongo.|Je m'appelle Kabongo.
+je_nai_pas_fait_negation|ln|na-sa-li té|Nasali libunga te.|Je n'ai pas fait d'erreur.
+je_ne_comprends|lua|tchié-na ngou-mvou-a to|Akula bitekete, tshiena ngumvua to.|Parle doucement, je ne comprends pas.
+je_ne_mange_pas_negation|kg|Mo-no ké di-a vé|Mono ke dia ve bubu.|Je ne mange pas aujourd'hui.
+je_ne_sais_pas|lua|tchié-na mou-ma-nyé to|Undekele, tshiena mumanye to.|Excuse-moi, je ne sais pas.
+je_ne_vais_pas_negation_present|sw|si-én-di|Leo siendi kazini.|Aujourd'hui je ne vais pas au travail.
+je_parle|es|yo a-blo|Yo hablo un poco de español.|Je parle un peu espagnol.
+je_sais|lua|ndi mou-ma-nyé|Eyowa, ndi mumanye bualu abu.|Oui, je connais cette affaire.
+je_suis|ln|na-za-li|Nazali mwana ya Congo.|Je suis enfant du Congo.
+je_suis|sw|mi-mi ni / mi-mi ni-na|Mimi ni Mkongomani.|Je suis Congolais.
+je_suis_alle|sw|ni-li-kwén-da|Nilikwenda kijijini jana.|Je suis allé au village hier.
+je_suis_alle_passe|lua|na-ka-ya|Nakaya ku tshisalu.|Je suis allé au marché.
+je_suis_avec_na|kg|Mo-no ké-lé|Mono kele mwana ya Kongo.|Je suis un enfant du Kongo.
+je_suis_fatigue|lua|ndi mou-tchio-ké|Ndi mutshioke bua mudimu wa lelu.|Je suis fatigué à cause du travail d'aujourd'hui.
+je_suis_identite_etat|es|yo soy / yo és-toy|Yo soy francés y estoy contento.|Je suis français et je suis content.
+je_suis_perdu|lua|ndi mou-ji-mi-né|Ngambuluishe, ndi mujimine.|Aide-moi, je suis perdu.
+je_suis_perdu|sw|ni-mé-po-té-a|Samahani, nimepotea njia.|Pardon, je me suis perdu en chemin.
+je_taime|lua|ndi mou-kou-sou-é|Ndi mukusue ne muoyo wanyi wonso.|Je t'aime de tout mon cœur.
+je_vais|es|yo voy|Yo voy al supermercado.|Je vais au supermarché.
+je_vais|sw|ni-na-kwén-da|Ninakwenda sokoni sasa.|Je vais au marché maintenant.
+je_vais_a|lua|ndi nya kou|Ndi nya ku tshisalu.|Je vais au marché.
+je_vais_bien_merci|es|és-toy bién gra-syas|Estoy bien, gracias, ¿y tú?|Je vais bien, merci, et toi ?
+je_vais_bien_reponse_a_hujambo|sw|si-djam-bo|Sijambo, asante.|Je vais bien, merci.
+je_vais_present|lua|ndi nya|Ndi nya ku nzubu.|Je vais à la maison.
+je_vais_tres_bien|lua|ndi bi-mpé bi-ko-lé|Ndi bimpe bikole, wewe penyi?|Je vais très bien, et toi ?
+je_viens_de|lua|ndi mfou-ma kou|Ndi mfuma ku Mbujimayi.|Je viens de Mbujimayi.
+jeudi|es|houé-vés|El jueves tengo cita con el dentista.|Jeudi j'ai rendez-vous chez le dentiste.
+jeudi|kg|Ki-loum-bou ya i-ya|Yandi ta kwisa na kilumbu ya iya.|Il viendra jeudi.
+jeudi|ln|mo-ko-lo ya mo-sa-la mi-né-ï|Akoya mokolo ya mosala minei.|Il viendra jeudi.
+jeudi|lua|di-na-yi|Dinayi didi dituku dinayi.|Jeudi est le quatrième jour.
+jeudi|sw|al-ha-mi-si|Soko kubwa ni Alhamisi.|Le grand marché est jeudi.
+jirai|sw|ni-ta-kwén-da|Nitakwenda kesho asubuhi.|J'irai demain matin.
+jirai_futur|es|yo i-ré / voy a ir|Mañana voy a ir al médico.|Demain je vais aller chez le médecin.
+jirai_futur|lua|né-ngyé|Nengye ku Kananga.|J'irai à Kananga.
+joie|kg|Kié-sé|Kiese ya Nzambi.|La joie de Dieu.
+jour|es|di-a|La semana tiene siete días.|La semaine compte sept jours.
+jour|kg|Ki-loum-bou|Bubu kele kilumbu ya kiese.|Aujourd'hui est un jour de joie.
+jour|ln|mo-ko-lo|Mokolo nyonso ezali na makambo na yango.|Chaque jour a ses propres affaires.
+jour|sw|si-kou|Siku njema!|Bonne journée !
+journee|lua|mou-nya|Mu munya diba didi dioshia.|À midi le soleil brûle.
+journee|sw|m-tcha-na|Jua ni kali sana mchana.|Le soleil est très fort à midi.
+juillet|lua|ngo-ndo mou-a-nda mou-té-ké-té|Ngondo muanda mutekete.|Le septième mois.
+juin|lua|ngo-ndo mou-i-sa-mbo-mbo|Mu ngondo muisambombo m mashika adi alua.|En juin le froid arrive.
+justice|ln|bo-sem-bo|Kosala na bosembo ezali malamu.|Agir avec droiture est bien.
+la_crevette_qui_sendort_est_emportee|es|ka-ma-ron ké sé douér-mé sé lo yé-va la ko-ryén-té|Aprovecha la oportunidad ahora; camarón que se duerme se lo lleva la corriente.|Saisis l'opportunité maintenant ; il faut rester vigilant.
+la_faim_na_pas_doreilles_ventre_affame|ln|nza-la é-za-li na ma-to-ï té|Pesa bana biloko liboso ya kosolola, nzala ezali na matoi te.|Donne à manger aux enfants avant de discuter, la faim n'a pas d'oreilles.
+la_maison_de_ton_frere_est_ta_propre|kg|Nzo ya mpan-gi na ngé ké-lé nzo na ngé|Rappelle l'hospitalité et l'entraide familiale.|
+la_ou_il_y_a_une_volonte_il_y_a_un|sw|pé-nyé ni-a pa-na n-dji-a|Usikate tamaa, penye nia pana njia.|Ne perds pas espoir, quand on veut on peut.
+la_precipitation_napporte_pas_de|sw|ha-ra-ka ha-ra-ka ha-i-na ba-ra-ka|Fanya kazi taratibu, haraka haraka haina baraka.|Travaille calmement, rien ne sert de se précipiter.
+labas|kg|Kou-na|Tala kuna.|Regarde là-bas.
+labas|ln|kou-na|Ndako na ye ezali kuna.|Sa maison est là-bas.
+labas|sw|pa-lé / kou-lé|Ofisi iko kule mbele.|Le bureau est là-bas devant.
+lavenir_appartient_a_ceux_qui_se_levent|es|a kyén ma-drou-ga dyos lé a-you-da|Empieza a trabajar temprano; a quien madruga, Dios le ayuda.|Commence à travailler tôt ; l'avenir appartient à ceux qui se lèvent tôt.
+le_pays_se_construit_par_les_mains_de|kg|Nsi ké toun-gwa-ka na ma-bo-ko ya ba-na na yo|Invite à la responsabilité et au travail collectif.|
+le_sorcier_ne_mange_pas_son_propre|lua|mou-é-na mou-po-ngo ké-na ou-dia mou-a-né-ndé|Nansha muikale mubi, muena mupongo kena udia muanende.|Même mauvais, on protège toujours sa famille.
+leau_finit_toujours_par_rester_sur_la|ln|ma-ï é-ti-ka-la-ka na ma-bé-lé|Zela mwa moke, makambo ekokita, mai etikalaka na mabele.|Patiente un peu, les choses vont s'apaiser.
+leau_versee_ne_se_ramasse_pas|kg|Ma-za mé ti-a-mou-ka ké vou-tou-ka-ka vé|Ce qui est fait ou dit ne peut être effacé.|
+legumes|es|vér-dou-ras|La sopa tiene muchas verduras.|La soupe contient beaucoup de légumes.
+lenfant_du_pays_ne_perd_jamais_son|ln|mwa-na ya mbo-ka a-boun-ga-ka nzé-la té|Ayebi quartier malamu, mwana ya mboka abungaka nzela te.|Il connaît bien le quartier, l'enfant du pays ne se perd pas.
+lhistoire_et_la_tradition_sont_les_yeux|kg|Kin-kou-lou ké-lé mé-so ya nsi|Souligne l'importance de connaître ses racines.|
+lintelligence_dune_seule_personne_est|ln|ma-yé-lé ya mo-to mo-ko é-za-li li-bo-ma|Tuna bamosusu liboso ya kokata likambo, mayele ya moto moko ezali liboma.|Consulte les autres avant de décider, l'esprit seul s'égare.
+linvite_vient_avec_le_soleil_et_repart|lua|mou-é-nyi ou-di mou-lou-é né di-ba, ou-di ou-ya né di-ba|Tuakidile muenyi bimpe, muenyi udi mulue ne diba.|Accueillons bien le visiteur.
+lire|kg|Kou-tan-ga|Tanga mukanda.|Lis le livre.
+lire|lua|kou-ba-la|Bala mukanda eu.|Lis ce livre.
+lit|es|ka-ma|Voy a la cama porque tengo sueño.|Je vais au lit parce que j'ai sommeil.
+lit|kg|Mbé-to|Yandi ke lala na mbeto.|Il dort sur le lit.
+lit|ln|mbé-to|Alali na mbeto.|Il dort sur le lit.
+lit|sw|ki-tan-da|Mtoto analala kitandani.|L'enfant dort sur le lit.
+livre|kg|Mou-kan-da|Mukanda ya kuzaba muntu.|Carte d'identité / Document.
+loi|es|léy|Todos deben respetar la ley.|Tout le monde doit respecter la loi.
+loi|kg|Nsi-kou|Zitisa bansiku ya nsi.|Respecte les lois du pays.
+loi|sw|ché-ri-a|Kila mtu lazima aheshimu sheria.|Chacun doit respecter la loi.
+loin|es|lé-hos|El aeropuerto está lejos de la ciudad.|L'aéroport est loin de la ville.
+loin|kg|Nta-ma|Bwala kele ntama mingi.|Le village est très loin.
+loin|ln|mo-si-ka|Mboka na biso ezali mosika.|Notre village est loin.
+loin|lua|kou-lé|Musoko wetu udi kule.|Notre village est loin.
+loin|sw|m-ba-li|Uwanja wa ndege uko mbali sana.|L'aéroport est très loin.
+loin_des_yeux_loin_du_coeur|es|o-hos ké no vén ko-ra-son ké no syén-té|No quiso ver las noticias; ojos que no ven, corazón que no siente.|Il n'a pas voulu voir les nouvelles ; loin des yeux, loin du cœur.
+lois|ln|mi-bé-ko|Tosengeli kotosa mibeko ya ekolo.|Nous devons respecter les lois du pays.
+lois|lua|mi-ké-nji|Tuikale ne kanemu ku mikenji.|Respectons les lois.
+lumiere|es|lous|Enciende la luz, está oscuro.|Allume la lumière, il fait sombre.
+lumiere|ln|mwin-da|Mwinda ekufi na quartier.|Il y a une coupure d'électricité dans le quartier.
+lundi|es|lou-nés|El lunes empiezo un nuevo curso.|Lundi je commence un nouveau cours.
+lundi|kg|Ki-loum-bou ya nté-té|Kisalu ke yantika na kilumbu ya ntete.|Le travail commence lundi.
+lundi|ln|mo-ko-lo ya mo-sa-la mo-ko|Kelasi ebandaka mokolo ya mosala moko.|L'école commence le lundi.
+lundi|lua|di-mou-a|Dimua didi dituku dia kumpala dia mudimu.|Lundi est le premier jour de travail.
+lundi|sw|djou-ma-ta-tou|Shule inaanza Jumatatu.|L'école commence lundi.
+magasin|es|tyén-da|La tienda cierra a las ocho.|Le magasin ferme à huit heures.
+mai|lua|ngo-ndo mou-i-ta-nou|Ngondo muitanu.|Le cinquième mois.
+main|es|ma-no|Lávate las manos antes de comer.|Lave-toi les mains avant de manger.
+main|sw|m-ko-no / mi-ko-no|Nawa mikono kabla ya kula.|Lave-toi les mains avant de manger.
+maintenant|es|a-o-ra|Tengo que salir ahora mismo.|Je dois partir tout de suite.
+maintenant|sw|sa-sa|Fanya kazi sasa hivi.|Fais le travail tout de suite.
+maison|es|ka-sa|Mi casa está cerca del centro.|Ma maison est près du centre.
+maison|kg|Nzo|Nzo na beto kele ya nene.|Notre maison est grande.
+maison|ln|nda-ko|Ndako na biso ezali monene.|Notre maison est grande.
+maison|lua|nzou-bou|Nzubu wetu udi munene.|Notre maison est grande.
+maison|sw|nyoum-ba|Nyumba yetu ni kubwa.|Notre maison est grande.
+malade|es|én-fér-mo|Hoy no puedo ir porque estoy enfermo.|Aujourd'hui je ne peux pas venir car je suis malade.
+maladie|ln|bo-ko-no|Bokono oyo esilaka noki.|Cette maladie guérit vite.
+maladie|lua|di-sa-ma|Disama edi didi dikole.|Cette maladie est grave.
+maladie|sw|ou-gon-djwa|Ugonjwa huu unatibika.|Cette maladie se soigne.
+manger|es|ko-mér|Comemos a las dos de la tarde.|Nous mangeons à quatorze heures.
+manger|kg|Kou-di-a|Beto ke dia madia.|Nous mangeons.
+manger|ln|ko-li-a|Tolingi kolia sikoyo.|Nous voulons manger maintenant.
+manger|lua|kou-dia|Tuayi tudie!|Venez manger !
+manger|sw|kou-la|Tunakula chakula cha mchana.|Nous mangeons le repas de midi.
+marche|es|mér-ka-do|Vamos al mercado a comprar frutas.|Nous allons au marché acheter des fruits.
+marche|kg|Zan-dou|Mama me kwenda na zandu.|Maman est allée au marché.
+marche|ln|zan-do|Mama akei na zando.|Maman est partie au marché.
+marche|lua|tchi-sa-lou|Ku tshisalu kudi bintu bia bungi.|Au marché il y a beaucoup de choses.
+marche|sw|so-ko|Mama ameenda sokoni.|Maman est allée au marché.
+mardi|es|mar-tés|El martes vamos al cine.|Mardi nous allons au cinéma.
+mardi|kg|Ki-loum-bou ya zo-lé|Beto ke kutana na kilumbu ya zole.|Nous nous rencontrons mardi.
+mardi|ln|mo-ko-lo ya mo-sa-la mi-ba-lé|Tokokutana mokolo ya mosala mibale.|Nous nous rencontrerons mardi.
+mardi|lua|di-bi-di|Tuamonangana mu dibidi.|On se voit mardi.
+mardi|sw|djou-man-né|Tutakutana Jumanne.|Nous nous rencontrerons mardi.
+mari|es|és-po-so / és-po-sa|Ella es mi esposa.|Elle est mon épouse.
+mars|lua|ngo-ndo mou-i-sa-tou|Ngondo muisatu.|Le troisième mois.
+matin|kg|Sou-ka|Mono ke telama na suka.|Je me lève le matin.
+matin|ln|ton-go|Alamukaka na tongo makasi.|Il se réveille très tôt le matin.
+matin|lua|di-nda|Mu dinda tuaya ku mudimu.|Le matin nous allons au travail.
+matin|sw|a-sou-bou-hi|Naamka mapema asubuhi.|Je me réveille tôt le matin.
+medecin|es|mé-di-ko / dok-tor|El médico me recetó un jarabe.|Le médecin m'a prescrit un sirop.
+medecin|kg|Moun-gan-ga|Munganga me pesa yandi nkisi.|Le médecin lui a donné un médicament.
+medecin|ln|mon-gan-ga|Kende komona monganga.|Va voir le médecin.
+medecin|lua|mou-nga-nga|Munganga udi wondapa babedi.|Le médecin soigne les malades.
+medecin|sw|dak-ta-ri / m-gan-ga|Daktari amempa dawa.|Le médecin lui a donné des médicaments.
+medicament|es|mé-di-si-na / mé-di-ka-mén-to|Toma esta medicina tres veces al día.|Prends ce médicament trois fois par jour.
+medicament|kg|Nki-si|Nwa nkisi yai mbala zole.|Prends ce médicament deux fois.
+medicament|ln|nki-si|Mela nkisi na yo na ngonga.|Prends ton médicament à l'heure.
+medicament|lua|mou-pa-ngou / bou-a-nga|Nua buanga bua ukole.|Prends le médicament pour guérir.
+medicament|sw|da-wa|Meza dawa mara tatu kwa siku.|Prends le médicament trois fois par jour.
+merci|kg|Ma-ton-do|Matondo mingi sambu na lusadisu.|Merci beaucoup pour l'aide.
+merci|ln|ma-ton-do / mé-lé-si|Matondo mingi mpo na lisalisi.|Merci beaucoup pour l'aide.
+merci|lua|tou-a-sa-ki-di-la|Tuasakidila bua diambuluisha diebe.|Merci pour ton aide.
+merci|sw|a-san-té / a-san-té sa-na|Asante sana kwa msaada wako.|Merci beaucoup pour ton aide.
+merci_beaucoup|es|mou-tchas gra-syas|Muchas gracias por tu ayuda.|Merci beaucoup pour ton aide.
+merci_beaucoup|lua|tou-a-sa-ki-di-la bi-ko-lé|Tuasakidila bikole Nzambi.|Merci beaucoup Dieu.
+mercredi|es|myér-ko-lés|Hoy es miércoles.|Aujourd'hui c'est mercredi.
+mercredi|kg|Ki-loum-bou ya ta-tou|Kilumbu ya tatu kele katikati ya mposo.|Mercredi est le milieu de la semaine.
+mercredi|ln|mo-ko-lo ya mo-sa-la mi-sa-to|Mokolo ya mosala misato ezali katikati ya poso.|Mercredi est le milieu de la semaine.
+mercredi|lua|di-sa-tou|Mu disatu kudi tshisalu tshinene.|Mercredi il y a un grand marché.
+mercredi|sw|djou-ma-ta-no|Leo ni Jumatano.|Aujourd'hui c'est mercredi.
+mere|es|ma-dré / ma-ma|Mi madre cocina muy bien.|Ma mère cuisine très bien.
+mere|kg|Ma-ma|Mama ke tunga bilele.|Maman coud des habits.
+mere|ln|ma-ma|Mama alambi bilei kitoko.|Maman a préparé un bon repas.
+mere|lua|ma-mou|Mamu udi ulamba biakudia.|Maman prépare la nourriture.
+mere|sw|ma-ma|Mama anapika chakula.|Maman prépare le repas.
+mieux_vaut_tard_que_jamais|es|mas ba-lé tar-dé ké noun-ka|Por fin terminaste el proyecto; más vale tarde que nunca.|Tu as enfin fini le projet ; mieux vaut tard que jamais.
+mille|es|mil|La ciudad está a mil kilómetros.|La ville est à mille kilomètres.
+mille|kg|Foun-da|Bafranka funda mosi.|Mille francs.
+mille|ln|nko-to|Nkoto moko.|Mille.
+mille|lua|tchi-nou-nou|Bantu tshinunu.|Mille personnes.
+mille|sw|él-fou mo-dja|Elfu moja za faranga.|Mille francs.
+mois|es|més|Enero es el primer mes del año.|Janvier est le premier mois de l'année.
+mois|kg|Ngon-da|Ngonda ya mpa.|Nouveau mois / Nouvelle lune.
+mois|ln|san-za|Sanza oyo ezali na mikolo ntuku misato.|Ce mois a trente jours.
+mois|lua|ngo-ndo|Ngondo udi ukenka.|La lune brille.
+mois|sw|mwé-zi|Mwezi huu una siku thelathini.|Ce mois a trente jours.
+monnaie_rendu|sw|tchén-dji|Nipe chenji yangu tafadhali.|Donne-moi ma monnaie s'il te plaît.
+mosquee|sw|m-si-ki-ti|Waislamu wanasali msikitini.|Les musulmans prient à la mosquée.
+moto|kg|Tou-kou-tou-kou|Kwenda na tuku-tuku.|Aller à moto.
+moto|sw|pi-ki-pi-ki / bo-da-bo-da|Chukua pikipiki ufike haraka.|Prends une moto pour arriver vite.
+neuf|es|noué-vé|Mi hijo tiene nueve años.|Mon fils a neuf ans.
+neuf|kg|Ou-vwa|Bantu uvwa.|Neuf personnes.
+neuf|ln|li-bwa|Sanza ya libwa.|Le neuvième mois.
+neuf|lua|tchi-té-ma|Bangondo tshitema.|Neuf mois.
+neuf|sw|ti-sa|Miezi tisa.|Neuf mois.
+nez|ln|zo-lo|Zolo ezali kokanga mpo na miyoyo.|Le nez est bouché à cause du rhume.
+nez|sw|pou-a|Anatokwa na damu puani.|Il saigne du nez.
+non|es|no|No, todavía no he llegado.|Non, je ne suis pas encore arrivé.
+non|kg|Vé|Ve, mono me zaba ve.|Non, je ne sais pas.
+non|lua|tô / na-ncha|Nansha, tshiena musue to.|Non, je ne veux pas.
+non|sw|ha-pa-na|Hapana, sina pesa.|Non, je n'ai pas d'argent.
+nourriture|es|ko-mi-da|La comida está deliciosa.|La nourriture est délicieuse.
+nourriture|kg|Ma-di-a|Madia me yela.|Le repas est prêt.
+nourriture|ln|bi-lé-ï|Bilei esili kolamba.|Le repas est prêt.
+nourriture|lua|bia-kou-dia|Biakudia bidi bishia.|La nourriture est prête.
+nourriture|sw|tcha-kou-la|Chakula kiko tayari.|Le repas est prêt.
+nous_allons|es|no-so-tros va-mos|Nosotros vamos a estudiar juntos.|Nous allons étudier ensemble.
+nous_faisons_present|lua|tou-di tou-é-nza|Tudi tuenza mudimu pamue.|Nous travaillons ensemble.
+nous_sommes|es|no-so-tros so-mos / és-ta-mos|Nosotros somos amigos.|Nous sommes amis.
+nous_sommes|kg|Bé-to ké-lé|Beto kele na kiese.|Nous sommes heureux.
+nous_sommes|ln|to-za-li|Tozali na esengo.|Nous sommes contents.
+nous_sommes|sw|si-si ni / si-si tou-na|Sisi tuna furaha.|Nous sommes contents.
+novembre|lua|ngo-ndo di-kou-mi né ou-mou-é|Ngondo dikumi ne umue.|Le onzième mois.
+nuit|kg|Mpim-pa|Mpimpa me bwa.|La nuit est tombée.
+nuit|ln|bou-tou|Butu ekoti, lala malamu.|La nuit est tombée, dors bien.
+nuit|lua|bou-tou-kou|Butuku bua lelu budi talala.|Cette nuit est calme.
+nuit|sw|ou-si-kou|Usiku kuna baridi.|La nuit il fait froid.
+octobre|lua|ngo-ndo di-kou-mi|Ngondo dikumi.|Le dixième mois.
+oeil|es|o-ho / o-hos|Tiene los ojos marrones.|Il/Elle a les yeux marron.
+oeil|kg|Di-sou / Mé-so|Meso na yandi ke mona mbote.|Ses yeux voient bien.
+oeil|ln|li-so|Miso na ye ezali komona malamu.|Ses yeux voient bien.
+oeil|lua|di-sou / mé-sou|Mesu andi adi amona bimpe.|Ses yeux voient bien.
+oeil|sw|dji-tcho / ma-tcho|Ana macho mazuri.|Il/Elle a de beaux yeux.
+onze|kg|Kou-mi na mo-si|Bana kumi na mosi.|Onze enfants.
+oreille|kg|Di-kou-tou / Ma-kou-tou|Wa na makutu na nge.|Écoute avec tes oreilles.
+oreille|ln|li-to-ï|Yoka na matoi na yo.|Écoute avec tes oreilles.
+oreille|lua|di-tchi / ma-tchi|Teleja ne matshi ebe abidi.|Écoute avec tes deux oreilles.
+oreille|sw|si-ki-o / ma-si-ki-o|Sikia kwa masikio yako.|Écoute avec tes oreilles.
+ou|kg|Wa-pi|Nzila ya Boma kele wapi?|Où est la route de Boma ?
+ou|ln|wa-pi|Ozali kokende wapi ?|Où vas-tu ?
+ou|sw|wa-pi|Unaenda wapi sasa?|Où vas-tu maintenant ?
+ou_est|es|don-dé és-ta|¿Dónde está la estación de tren?|Où est la gare ?
+ou_est_la_route_vers|lua|nji-la wa kou ou-di pé-nyi|Njila wa ku tshitudilu tshia ndèke udi penyi?|Où est la route de l'aéroport ?
+ou_vastu|lua|ou-di ou-ya pé-nyi|Udi uya penyi mu dinda edi?|Où vas-tu ce matin ?
+oui|es|si|Sí, entiendo perfectamente.|Oui, je comprends parfaitement.
+oui|kg|É-é|Ee, mono me wa.|Oui, j'ai compris.
+oui|lua|é-yo-wa|Eyowa, ndi muitabe.|Oui, j'accepte.
+oui|sw|n-di-yo|Ndiyo, nimeelewa.|Oui, j'ai compris.
+pain|es|pan|Compro pan fresco cada mañana.|J'achète du pain frais chaque matin.
+pain|kg|Mam-pa|Sumba mampa na suka.|Achète du pain le matin.
+pain|sw|m-ka-té|Tunakula mkate na chai asubuhi.|Nous mangeons du pain avec du thé le matin.
+paix|es|pas|Todos deseamos vivir en paz.|Nous souhaitons tous vivre en paix.
+paix|kg|Ngém-ba|Ngemba kuvanda na beno.|Que la paix soit avec vous.
+paix|ln|ki-mi-a|Tolingi kimia na ekolo mobimba.|Nous voulons la paix dans tout le pays.
+paix|lua|di-ta-la-la|Tudi tulomba ditalala mu ditunga.|Nous demandons la paix dans le pays.
+paix|sw|a-ma-ni|Tunataka amani nchini mwetu.|Nous voulons la paix dans notre pays.
+pardon|es|pér-don|Pedir perdón es un acto de humildad.|Demander pardon est un acte d'humilité.
+pardon|kg|Par-don / Lo-lou-la mo-no|Lolula mono, mono salaka yo na luzolo ve.|Excuse-moi, je ne l'ai pas fait exprès.
+pardon|sw|sa-ma-ha-ni / po-lé|Samahani kwa kuchelewa.|Pardon pour le retard.
+parle_doucement|lua|a-kou-la bi-té-ké-té|Akula bitekete bua ngumvue.|Parle lentement pour que je comprenne.
+parler|es|a-blar|Ella habla español e inglés.|Elle parle espagnol et anglais.
+parler|kg|Kou-tou-ba|Tuba Kikongo.|Parle kikongo.
+parler|ln|ko-lo-ba|Loba malembe.|Parle doucement.
+parler|lua|kou-a-kou-la|Udi wakula Tshiluba bimpe.|Tu parles bien tshiluba.
+pas_de_mauvaises_nouvelles|ln|san-go té / ma-la-mou|Sango te, nyonso ezali malamu.|Rien de spécial, tout va bien.
+passeport|es|pa-sa-por-té|Muestre su pasaporte en la frontera.|Montrez votre passeport à la frontière.
+pate_de_mais_ou_manioc_foufou|sw|ou-ga-li / bou-ka-ri|Tunakula ugali na samaki.|Nous mangeons du foufou avec du poisson.
+pate_de_manioc_ou_mais|ln|fou-fou|Tolingi kolia fufu na pondu.|Nous voulons manger du fufu avec du pondu.
+pate_de_maniocmais|kg|Lou-kou / Fou-fou|Beto ke dia luku na saka-saka.|Nous mangeons du fufu avec du saka-saka.
+payer|es|pa-gar|¿Puedo pagar con tarjeta?|Puis-je payer par carte ?
+payer|kg|Kou-fou-ta|Mono me futa mbongo.|J'ai payé l'argent.
+payer|ln|fou-ta|Nalingi kofuta sikoyo.|Je veux payer maintenant.
+payer|lua|kou-fou-ta|Ndi mfuta makuta onso.|Je paie tout l'argent.
+payer|sw|kou-li-pa|Nitalipa kwa pesa taslimu.|Je vais payer en espèces.
+pays|es|pa-is|España es un país muy diverso.|L'Espagne est un pays très diversifié.
+pays|kg|Nsi|Nsi ya Kongo.|Le pays du Kongo.
+pays|ln|é-ko-lo|Ekolo na biso ezali monene.|Notre pays est grand.
+pays|lua|di-tou-nga|Ditunga dietu dia Congo.|Notre pays le Congo.
+peche|kg|Di-sou-mou|Lolula masumu na beto.|Pardonne nos péchés.
+peche|ln|li-sou-mou|Senga bolimbisi mpo na masumu.|Demande pardon pour les fautes.
+peche|sw|dham-bi|Kuomba msamaha wa dhambi.|Demander pardon pour ses fautes.
+pere|es|pa-dré / pa-pa|Mi padre trabaja en el hospital.|Mon père travaille à l'hôpital.
+pere|kg|Ta-ta|Tata na mono kele na kisalu.|Mon père est au travail.
+pere|ln|ta-ta|Tata azali kosala na bilanga.|Papa travaille aux champs.
+pere|lua|ta-tou|Tatu wanyi udi ku mudimu.|Mon père est au travail.
+pere|sw|ba-ba|Baba yangu ni mwalimu.|Mon père est enseignant.
+personne|es|pér-so-na / hén-té|Hay mucha gente en la plaza.|Il y a beaucoup de monde sur la place.
+personne|kg|Moun-tou|Muntu yai kele mbote.|Cette personne est bonne.
+personne|ln|mo-to|Moto nyonso azali na valere.|Toute personne a de la valeur.
+personne|lua|mou-ntou|Muntu yonso udi ne mushinga.|Chaque personne a de la valeur.
+personne|sw|m-tou / wa-tou|Watu wengi wamefika.|Beaucoup de gens sont arrivés.
+personnes|lua|ba-ntou|Bantu ba bungi badi mu tshisalu.|Beaucoup de gens sont au marché.
+petit_a_petit_loiseau_fait_son_nid|sw|ha-ba na ha-ba hou-dja-za ki-ba-ba|Weka akiba kidogo kidogo, haba na haba hujaza kibaba.|Épargne petit à petit, les petits ruisseaux font les grandes rivières.
+peuple|lua|tchi-sa-mba|Tshisamba tshia Baluba.|Le peuple Luba.
+pied|es|pyé|Camino mucho y me duelen los pies.|Je marche beaucoup et j'ai mal aux pieds.
+pied|sw|m-gou-ou / mi-gou-ou|Mguu wangu unauma.|Ma jambe me fait mal.
+pluie|kg|Mvou-la|Mvula ke noka.|Il pleut.
+pluie|lua|mvou-la|Mvula udi uloka bikole.|La pluie tombe fort.
+poisson|es|pés-ka-do|Me gusta el pescado a la plancha.|J'aime le poisson grillé.
+poisson|kg|Mbi-si|Mbisi ya maza kele kitoko.|Le poisson d'eau douce est délicieux.
+poisson|ln|mbi-si|Mbisi ya ebale ezali elengi.|Le poisson du fleuve est savoureux.
+poisson|lua|mi-chi-pa|Mishipa ya mu musulu.|Les poissons de la rivière.
+poisson|sw|sa-ma-ki|Samaki wa ziwa Tanganyika.|Du poisson du lac Tanganyika.
+police|es|po-li-si-a|Llamaron a la policía tras el accidente.|Ils ont appelé la police après l'accident.
+police|ln|po-li-si|Polisi azali kobatela kimia.|La police maintient l'ordre.
+police|sw|po-li-si|Polisi wanalinda usalama.|La police veille à la sécurité.
+porte|es|pouér-ta|Cierra la puerta, por favor.|Ferme la porte, s'il te plaît.
+porte|kg|Kié-lo|Kanga kielo.|Ferme la porte.
+porte|ln|é-kou-ké|Funga ekuke ya ndako.|Ferme la porte de la maison.
+porte|sw|m-lan-go|Funga mlango tafadhali.|Ferme la porte s'il te plaît.
+poulet|es|po-yo|Cocinamos pollo con verduras.|Nous cuisinons du poulet avec des légumes.
+poulet|kg|Nsou-sou|Nsusu ya kukanga.|Du poulet braisé.
+poulet|ln|nso-so|Nsoso ya kotumba ezali malamu.|Le poulet braisé est bon.
+poulet|lua|nzo-lo|Tuakulambila muenyi nzolo.|Nous avons cuisiné un poulet pour l'invité.
+poulet|sw|kou-kou|Tumepika kuku kwa ajili ya wageni.|Nous avons cuisiné du poulet pour les invités.
+pour_connaitre_la_route_demande_a_ceux|lua|bou-a kou-ma-nya nji-la, é-bé-ja ba-di ba-fou-ma kou-mpa-la|Teleja bakulu, bua kumanya njila ebeja badi bafuma kumpala.|Écoute les anciens, leur expérience éclaire le chemin.
+pouvoir|es|po-dér|¿Me puedes ayudar con esto?|Peux-tu m'aider avec ceci ?
+prendre|kg|Kou-ba-ka|Baka kiti yai.|Prends cette chaise.
+prendre|ln|ko-zwa|Azwi mosala ya sika.|Il a trouvé un nouveau travail.
+prendre|lua|kou-a-nga-ta|Angata tshintu etshi.|Prends cet objet.
+prendre|sw|kou-tchou-kou-a|Chukua mzigo wako.|Prends ton bagage.
+pres|es|sér-ka|El hotel está muy cerca de aquí.|L'hôtel est très près d'ici.
+pres|kg|Pé-né-pé-né|Nzila kele pene-pene.|La route est tout près.
+pres|ln|pé-né|Lopitalo ezali pene na awa.|L'hôpital est près d'ici.
+pres|lua|pa-bou-i-pi|Lupitadi ludi pabuipi ne kuneku.|L'hôpital est près d'ici.
+pres|sw|ka-ri-bou|Soko liko karibu na hapa.|Le marché est près d'ici.
+prier|kg|Kou-sam-ba|Beto samba Nzambi.|Prions Dieu.
+prier|lua|kou-sa-mbi-la|Tudi tusambila Nzambi.|Nous prions Dieu.
+prier|sw|kou-sa-li / kou-om-ba|Tunaomba amani kwa ajili ya nchi.|Nous prions pour la paix du pays.
+priere|es|o-ra-syon / ré-sar|Rezamos juntos antes de comer.|Nous prions ensemble avant de manger.
+priere|kg|Lou-sam-bou|Lusambu ya suka.|La prière du matin.
+priere|ln|lo-sam-bo|Losambo epesaka makasi na motema.|La prière donne de la force au cœur.
+priere|lua|di-sa-mbi-la|Disambila didi ne bukole.|La prière a de la puissance.
+priere|sw|sa-la / ma-om-bi|Tunaanza mkutano kwa sala.|Nous commençons la réunion par une prière.
+prix|es|pré-syo|El precio de este artículo es justo.|Le prix de cet article est juste.
+prix|kg|Nta-lou|Ntalu kele ikwa?|Combien ça coûte ?
+prix|ln|mo-tou-ya|Motuya na yango ezali boni ?|Quel est son prix ?
+prix|lua|mou-chi-nga|Mushinga wa tshintu etshi nganyi?|Quel est le prix de cet objet ?
+prix|sw|bé-i|Bei yake ni ngapi?|Quel est son prix ?
+proces|lua|tchi-lou-mbou|Bakalumbuluisha tshilumbu.|Ils ont jugé l'affaire.
+quatre|es|koua-tro|La mesa tiene cuatro patas.|La table a quatre pieds.
+quatre|kg|I-ya|Bakiti iya.|Quatre chaises.
+quatre|ln|mi-né-ï|Mesa ezali na makolo minei.|La table a quatre pieds.
+quatre|lua|i-na-yi|Nzubu inayi.|Quatre maisons.
+quatre|sw|n-né|Meza nne.|Quatre tables.
+que_linvite_vienne_afin_que_lhote_soit|sw|m-gué-ni n-djo-o mwé-nyé-dji a-po-né|Karibu sana nyumbani, mgeni njoo mwenyeji apone.|Sois le bienvenu à la maison, l'arrivée d'un hôte est une bénédiction.
+quelle_heure_estil|es|ké o-ra és|Perdón, ¿sabe qué hora es?|Pardon, savez-vous quelle heure il est ?
+quelle_heure_estil|sw|sa-a n-ga-pi|Ni saa tatu asubuhi.|Il est neuf heures du matin (heure swahili : 3e heure du jour).
+quelles_sont_les_nouvelles|ln|san-go ni-ni|Mbote, sango nini ?|Salut, quelles sont les nouvelles ?
+qui_trop_embrasse_mal_etreint|es|él ké mou-tcho a-bar-ka po-ko a-pryé-ta|Concéntrate en una sola tarea, porque el que mucho abarca, poco aprieta.|Concentre-toi sur une seule tâche, car qui trop embrasse mal étreint.
+reduction|es|dés-kouén-to|¿Me puede hacer un descuento?|Pouvez-vous me faire une réduction ?
+respect|lua|ka-né-mou|Kanemu kudi bakulu.|Le respect envers les aînés.
+reunion|es|ré-ou-nyon|La reunión comienza a las diez.|La réunion commence à dix heures.
+reunion|kg|Lou-kou-ta-ka-nou|Lukutakanu ta salama mbazi.|La réunion aura lieu demain.
+revenir|kg|Kou-vou-tou-ka|Yandi ta vutuka na nkokila.|Il reviendra le soir.
+riz|es|a-ros|El arroz con pollo es un plato típico.|Le riz au poulet est un plat typique.
+riz|kg|Lo-so|Lamba loso sambu na bana.|Prépare du riz pour les enfants.
+riz|ln|lo-so|Lamba loso na madesu.|Cuisine du riz avec des haricots.
+riz_cuit|sw|wa-li / m-tché-lé|Watoto wanapenda wali na maharagwe.|Les enfants aiment le riz aux haricots.
+route|kg|Nzi-la|Nzila ya Kimpese kele mbote.|La route de Kimpese est bonne.
+route|ln|nzé-la|Nzela ya kokende na zando ezali wapi ?|Où est le chemin pour aller au marché ?
+route|lua|nji-la|Njila wa ku Mbujimayi udi kule.|La route vers Mbujimayi est longue.
+route|sw|n-dji-a / ba-ra-ba-ra|Barabara hii inaelekea wapi?|Où mène cette route ?
+s_gens|kg|Ban-tou|Bantu mingi me kwisa.|Beaucoup de gens sont venus.
+s_gens|ln|ba-to|Bato bazali mingi na zando.|Il y a beaucoup de gens au marché.
+sacre|es|sa-gra-do|Respetan mucho este lugar sagrado.|Ils respectent beaucoup ce lieu sacré.
+saintesprit|kg|Mpé-vé ya San-tou|Mpeve ya Santu ke twadisa beto.|Le Saint-Esprit nous guide.
+salle_de_bain|es|ba-nyo|¿Dónde está el baño?|Où sont les toilettes ?
+samedi|es|sa-ba-do|El sábado descanso en casa.|Samedi je me repose à la maison.
+samedi|kg|Sa-ba-la / Mpo-so|Na sabala bantu ke kwendaka na zandu.|Le samedi les gens vont au marché.
+samedi|ln|mo-ko-lo ya po-so|Mokolo ya poso tosalaka salongo.|Le samedi nous faisons les travaux communautaires.
+samedi|lua|di-sa-mbo-mbo|Disambombo didi dituku dia dikisha.|Samedi est un jour de repos.
+samedi|sw|djou-ma-mo-si|Jumamosi tunapumzika.|Samedi nous nous reposons.
+sante|es|sa-loud|La salud es lo más importante.|La santé est ce qu'il y a de plus important.
+sante|kg|Ma-vim-pi|Mavimpi ya mbote!|Bonne santé !
+sasseoir|kg|Kou-van-da|Vanda mbote.|Assieds-toi bien.
+savoir|es|sa-bér / ko-no-sér|No sé la respuesta correcta.|Je ne sais pas la bonne réponse.
+savoir|kg|Kou-za-ba|Mono me zaba nzila.|Je connais la route.
+savoir|ln|ko-yé-ba|Nayebi te.|Je ne sais pas.
+savoir|sw|kou-djou-a|Sijui jina lake.|Je ne connais pas son nom.
+savon|sw|sa-bou-ni|Nawa mikono na sabuni.|Lave-toi les mains avec du savon.
+se_lever|kg|Kou-té-la-ma|Telama na zulu.|Lève-toi.
+se_reveiller|sw|kou-am-ka|Nimeamka saa kumi na mbili.|Je me suis réveillé à 6h du matin.
+sel|es|sal|Pásame la sal, por favor.|Passe-moi le sel, s'il te plaît.
+sel|kg|Moun-gwa|Tula mungwa fioti.|Mets un peu de sel.
+sel|ln|moun-gwa|Tia mwa mungwa na supu.|Mets un peu de sel dans la soupe.
+sel|lua|lou-é-sa|Ela luesa mu tshilamba.|Mets du sel dans la sauce.
+sel|sw|tchoum-vi|Weka chumvi kidogo kwenye mboga.|Mets un peu de sel dans les légumes.
+semaine|es|sé-ma-na|Nos vemos la próxima semana.|On se voit la semaine prochaine.
+semaine|kg|Mpo-so|Mposo mosi kele na bilumbu nsambwadi.|Une semaine a sept jours.
+semaine|ln|po-so|Poso ekoya nakokende mobembo.|La semaine prochaine je voyagerai.
+semaine|lua|lou-mi-ngou|Mu lumingu tudi tuya ku nzambi.|Le dimanche nous allons à l'église.
+semaine|sw|wi-ki / djou-ma|Wiki ijayo nitasafiri.|La semaine prochaine je voyagerai.
+sept|es|syé-té|Hay siete colores en el arcoíris.|Il y a sept couleurs dans l'arc-en-ciel.
+sept|kg|Nsam-bwa-di|Bilumbu nsambwadi.|Sept jours.
+sept|ln|sam-bo|Mikolo sambo ya poso.|Les sept jours de la semaine.
+sept|lua|mou-a-nda mou-té-ké-té|Matuku muanda mutekete.|Sept jours.
+sept|sw|sa-ba|Siku saba za wiki.|Les sept jours de la semaine.
+septembre|lua|ngo-ndo tchi-té-ma|Mu ngondo tshitema kalasa kadi katuadija.|En septembre l'école commence.
+si_tu_veux_aller_vite_marche_seul_si_tu|ln|so-ki o-lin-gi ko-ken-dé mban-gou...|Bomba boyokani na baninga : soki olingi kokende mosika, kende na baninga.|Garde l'entente avec tes camarades : pour aller loin, marche à plusieurs.
+signature|es|fir-ma|Falta su firma al final del contrato.|Il manque votre signature au bas du contrat.
+sil_te_plait|ln|na-bon-dé-li yo|Pesa ngai mai, nabondeli yo.|Donne-moi de l'eau, s'il te plaît.
+silvousplait|es|por fa-vor|Un vaso de agua, por favor.|Un verre d'eau, s'il vous plaît.
+silvousplait|sw|ta-fa-dha-li|Nisaidie tafadhali.|Aide-moi s'il te plaît.
+six|es|séys|Me levanto a las seis de la mañana.|Je me lève à six heures du matin.
+six|kg|Sam-ba-nou|Bangonda sambanu.|Six mois.
+six|ln|mo-to-ba|Ngonga ya motoba ya tongo.|Six heures du matin.
+six|lua|i-sa-mbo-mbo|Bana basambombo.|Six enfants.
+six|sw|si-ta|Saa sita mchana.|Midi (12h).
+soeur_ainee|sw|da-da|Dada yangu ni daktari.|Ma sœur est médecin.
+soif|kg|Mpwi-na|Mono ke wa mpwina ya maza.|J'ai soif d'eau.
+soif|ln|mpo-sa ya ma-ï|Nazali na mposa ya mai.|J'ai soif.
+soif|sw|ki-ou|Nina kiu ya maji.|J'ai soif d'eau.
+soir|ln|po-kwa|Tokozonga na pokwa.|Nous rentrerons le soir.
+soir|lua|di-lo-lo|Mu dilolo tudi tupingana ku nzubu.|Le soir nous rentrons à la maison.
+soir|sw|dji-o-ni|Tutarudi nyumbani jioni.|Nous rentrerons à la maison le soir.
+soleil|kg|Mwi-ni|Mwini kele ngolo bubu.|Le soleil est fort aujourd'hui.
+soleil|lua|di-ba|Diba didi dibanda.|Le soleil se lève.
+sucre|es|a-sou-kar|Tomo el café sin azúcar.|Je prends le café sans sucre.
+sucre|ln|sou-ka-li|Tiya sukali na ti.|Mets du sucre dans le thé.
+supplement|kg|Ma-ta-bi-si|Pesa mono matabisi.|Donne-moi un petit supplément.
+supplement|sw|nyon-gué-za / m-ba-cha|Niongezee kidogo mama.|Ajoute-m'en un peu maman.
+surplus_gratuit|ln|ma-ta-bi-si|Pesa ngai mwa matabisi, mama.|Donne-moi un petit surplus, maman.
+table|es|mé-sa|La comida está en la mesa.|Le repas est sur la table.
+table|kg|Mé-sa|Tula madia na mesa.|Mets la nourriture sur la table.
+table|ln|mé-sa|Tia biloko na mesa.|Mets les affaires sur la table.
+table|sw|mé-za|Weka chakula mezani.|Mets la nourriture sur la table.
+telephone|es|té-lé-fo-no|Mi teléfono no tiene batería.|Mon téléphone n'a plus de batterie.
+terre|lua|bou-lo-ba|Buloba bua ba nkambua.|La terre des ancêtres.
+tete|es|ka-bé-sa|Me duele mucho la cabeza.|J'ai très mal à la tête.
+tete|kg|Ntou|Mono ke na mpasi na ntu.|J'ai mal à la tête.
+tete|ln|mo-to|Moto ezali kosala ngai mpasi.|J'ai mal à la tête.
+tete|lua|mou-tou|Mutu udi unsama.|J'ai mal à la tête.
+tete|sw|ki-tchwa|Kichwa kinaniuma.|J'ai mal à la tête.
+tout_droit|es|to-do rék-to / dé-ré-tcho|Ve todo recto durante dos cuadras.|Va tout droit pendant deux pâtés de maisons.
+tout_droit|kg|Na ntwa-la|Kwenda kaka na ntwala.|Va tout droit.
+tout_droit|sw|mo-dja kwa mo-dja|Nenda moja kwa moja mbele.|Va tout droit devant.
+travail|es|tra-ba-ho|Salgo para el trabajo a las ocho.|Je pars au travail à huit heures.
+travail|kg|Ki-sa-lou|Mono ke kwenda na kisalu.|Je vais au travail.
+travail|ln|mo-sa-la|Nakei na mosala.|Je vais au travail.
+travail|lua|mou-di-mou|Mudimu udi ufila lupetu.|Le travail donne de la richesse.
+travail|sw|ka-zi|Ninaenda kazini asubuhi.|Je vais au travail le matin.
+tribunal|sw|ma-ha-ka-ma|Kesi imepelekwa mahakamani.|L'affaire a été portée au tribunal.
+trois|es|trés|Son las tres de la tarde.|Il est trois heures de l'après-midi.
+trois|kg|Ta-tou|Bilumbu tatu.|Trois jours.
+trois|ln|mi-sa-to|Mikolo misato eleki.|Trois jours ont passé.
+trois|lua|i-sa-tou|Matuku asatu.|Trois jours.
+trois|sw|ta-tou|Watoto watatu.|Trois enfants.
+tu_as|es|tou tyé-nés|¿Tú tienes tiempo libre hoy?|As-tu du temps libre aujourd'hui ?
+tu_es|kg|Ngé ké-lé|Nge kele nduku.|Tu es un ami.
+tu_es|ln|o-za-li|Ozali moninga na ngai.|Tu es mon ami.
+tu_es|sw|wé-wé ni / wé-wé ou-na|Wewe una akili nyingi.|Tu es très intelligent.
+tu_es_identite_etat|es|tou é-rés / tou és-tas|Tú eres muy amable.|Tu es très aimable.
+tu_fais_present|lua|ou-di wé-nza|Udi wenza bimpe.|Tu fais bien.
+un|es|ou-no|Solo queda uno en la caja.|Il n'en reste qu'un dans la boîte.
+un|kg|Mo-si|Muntu mosi.|Une personne.
+un|ln|mo-ko|Pesa ngai moko kaka.|Donne-m'en un seul.
+un|lua|ou-mou-é|Muntu umue.|Une personne.
+un|sw|mo-dja|Mtu mmoja.|Une personne.
+un_bon_enfant_ecoute_la_voix_de_son|kg|Mwa-na ya mbo-té ké wa-ka ndin-ga ya ta-ta na ma-ma|Valorise le respect des aînés et des conseils.|
+un_enfant_qui_pleure_sans_quon_lait|lua|mou-a-na ou-di ou-di-la ka-ba-yi ba-mou-kou-mé, ou-di né tchi-di tchi-mou-lou-ma|Tebeleja mwana au, mwana udi udila kabayi bamukume udi ne tshidi tshimuluma.|Écoute cet enfant, il n'y a pas de fumée sans feu.
+un_faisceau_de_cordes_attrape_un_boeuf|lua|tchi-sou-mbou tchi-a nchi-nga tchi-di tchi-kou-a-ta ngo-mbé|Tudisangishe pamue, tshisumbu tshia nshinga tshidi tshikuata ngombe.|Unissons-nous, l'union fait la force.
+un_seul_doigt_ne_lave_pas_le_visage|ln|mo-sa-pi mo-ko é-sou-ko-la-ka é-lon-gi té|Mpo na kolonga, tosengeli kosangana : mosapi moko esukolaka elongi te.|Pour réussir, unissons-nous : un seul doigt ne lave pas le visage.
+un_seul_doigt_ne_peut_pas_ramasser_un|kg|Mou-sa-pi mo-si ké lo-ko-ta-ka vé nsa-fou|L'union fait la force.|
+un_seul_doigt_necrase_pas_un_pou_on_a|sw|ki-do-lé ki-mo-dja ha-ki-voun-dji tcha-wa|Tushirikiane, kidole kimoja hakivunji chawa.|Coopérons, seul on ne peut rien faire.
+une_parole_douce_calme_la_colere|lua|dî-yi di-mpé di-di di-pou-é-ké-cha tchi-ji|Akula ne bupole, dîyi dimpe didi dipuekesha tshiji.|Parle avec douceur, une parole douce apaise la colère.
+une_personne_nest_humaine_que_grace_aux|kg|Moun-tou ké-lé moun-tou sam-bou na ban-tou|Exprime la solidarité communautaire (Ubuntu / Kimuntu).|
+unite|lua|bou-mou-é|Bumue budi bukole.|L'union fait la force.
+unite|sw|ou-mo-dja|Umoja ni nguvu.|L'union fait la force.
+vendeur|kg|Mou-té-ki|Muteki ke binga bantu.|Le vendeur appelle les gens.
+vendeur|ln|mo-té-ki|Moteki apesaki ngai matabisi.|Le vendeur m'a donné un surplus.
+vendre|es|vén-dér|Ellos venden productos locales.|Ils vendent des produits locaux.
+vendre|kg|Kou-té-ka|Yandi ke teka mbuma.|Elle vend des fruits.
+vendre|ln|ko-té-ka|Azali koteka mbuma.|Elle vend des fruits.
+vendre|lua|kou-pa-na|Udi upana bimuma ku tshisalu.|Elle vend des fruits au marché.
+vendre|sw|kou-ou-za|Anauza nguo sokoni.|Il/Elle vend des vêtements au marché.
+vendredi|es|byér-nés|El viernes por la noche salimos a cenar.|Vendredi soir nous sortons dîner.
+vendredi|kg|Ki-loum-bou ya ta-nou|Kilumbu ya tanu kele nsuka ya kisalu.|Vendredi est la fin du travail.
+vendredi|ln|mo-ko-lo ya mo-sa-la mi-ta-no|Mokolo ya mosala mitano ezali mokolo ya nsuka ya mosala.|Vendredi est le dernier jour de travail.
+vendredi|lua|di-ta-nou|Mu ditanu tudi tujikija mudimu.|Vendredi nous terminons le travail.
+vendredi|sw|i-djou-ma-a|Ijumaa ni siku ya sala.|Vendredi est un jour de prière.
+venir|es|vé-nir|¿Puedes venir a mi fiesta?|Peux-tu venir à ma fête ?
+venir|kg|Kou-kwi-sa|Kwisa awa.|Viens ici.
+venir|ln|ko-ya|Koya na yo esepelisi biso.|Ta venue nous réjouit.
+venir|lua|kou-lou-a|Mulunda wanyi udi ulua.|Mon ami arrive.
+venir|sw|kou-dja|Njoo hapa haraka.|Viens ici vite.
+ventre|kg|Ki-vou-mou|Kivumu ke sala mpasi.|Le ventre fait mal.
+ventre|ln|li-bou-mou|Libumu ezali kosala ngai mpasi.|J'ai mal au ventre.
+ventre|sw|toum-bo|Anaumwa na tumbo.|Il/Elle a mal au ventre.
+vetement|ln|é-lam-ba|Lata elamba ya sika.|Porte un vêtement neuf.
+vetement|sw|n-gou-o|Anafua nguo zake.|Il/Elle lave ses vêtements.
+vetements|es|ro-pa|Tengo que lavar mi ropa hoy.|Je dois laver mes vêtements aujourd'hui.
+vetements|kg|Bi-lé-lé|Sukula bilele ya mvindu.|Lave les habits sales.
+viande|es|kar-né|No como carne, soy vegetariano.|Je ne mange pas de viande, je suis végétarien.
+viande|ln|nya-ma|Somba nyama ya ngombe.|Achète de la viande de bœuf.
+viande|lua|mou-nyi-nyi|Munyinyi wa ngombe udi munana.|La viande de bœuf est savoureuse.
+viande|sw|nya-ma|Nyama ya ng'ombe.|De la viande de bœuf.
+vie|kg|Lou-zin-gou|Luzingu ya mvula na mvula.|La vie éternelle.
+viens_ici|lua|lou-a-kou kou-né-kou|Mwana wanyi, luaku kuneku.|Mon enfant, viens ici.
+village|kg|Bwa-la|Bwala na beto kele na ngemba.|Notre village est en paix.
+village|ln|mbo-ka|Mboka-mokonzi ezali Kinshasa.|La capitale est Kinshasa.
+village|lua|mou-so-ko|Tudi tuya ku musoko wa ba nkambua.|Nous allons au village des ancêtres.
+village|sw|ki-dji-dji|Wazazi wangu wanaishi kijijini.|Mes parents vivent au village.
+ville|es|syou-dad|Vivo en una ciudad grande.|Je vis dans une grande ville.
+ville|lua|tchi-mé-nga|Kananga tshidi tshimenga tshinene.|Kananga est une grande ville.
+ville|sw|m-dji|Mji wa Goma uko kando ya ziwa.|La ville de Goma est au bord du lac.
+vingt|es|véyn-té|Hay veinte estudiantes en el aula.|Il y a vingt étudiants dans la salle de classe.
+vingt|kg|Ma-kou-mi zo-lé|Bamvula makumi zole.|Vingt ans.
+vingt|ln|ntou-kou mi-ba-lé|Ntuku mibale na mitano.|Vingt-cinq.
+vingt|lua|ma-kou-mi a-bi-di|Bidimu makumi abidi.|Vingt ans.
+vingt|sw|i-chi-ri-ni|Miaka ishirini.|Vingt ans.
+visiteur|lua|mou-é-nyi|Tuakidile muenyi ne disanka.|Accueillons le visiteur avec joie.
+voir|es|vér / mi-rar|Vemos una película esta noche.|Nous regardons un film ce soir.
+voir|kg|Kou-mo-na|Mono ke mona yandi.|Je le vois.
+voir|ln|ko-mo-na|Namoni ye na nzela.|Je l'ai vu sur la route.
+voir|lua|kou-mo-na|Ndi mmona mukanda.|Je vois le livre.
+voir|sw|kou-o-na|Nimeona gari lake.|J'ai vu sa voiture.
+voiture|es|ko-tché / ka-ro|Viajamos en coche por el país.|Nous voyageons en voiture à travers le pays.
+voiture|kg|Ka-mi-na / Mo-tou-ka|Beto ke nata motuka.|Nous prenons la voiture.
+voiture|ln|mo-tou-ka|Motuka ezali koya.|La voiture arrive.
+voiture|lua|ma-chi-nyi / mou-tou-ka|Mashinyi adi alua.|La voiture arrive.
+voiture|sw|ga-ri|Gari limeharibika njiani.|La voiture est tombée en panne en route.
+vouloir|es|ké-rér|Quiero viajar por todo el mundo.|Je veux voyager dans le monde entier.
+vouloir|sw|kou-ta-ka|Unataka nini?|Que veux-tu ?
+vouloir_cest_pouvoir|es|ké-rér és po-dér|Si estudias con constancia aprobarás; querer es poder.|Si tu étudies avec constance tu réussiras ; vouloir, c'est pouvoir.
+vous_etes|kg|Bé-no ké-lé|Beno kele bantu ya mbote.|Vous êtes de bonnes personnes.
+vous_etes|ln|bo-za-li|Bozali bato malamu.|Vous êtes de bonnes personnes.
+vous_etes|sw|ni-nyi ni / ni-nyi m-na|Ninyi mnaenda wapi?|Où allez-vous ?
+vous_faites_present|lua|nou-di nou-é-nza|Nudi nuenza tshinyi?|Que faites-vous ?
+voyage|es|bya-hé|¡Buen viaje! Que te vaya bien.|Bon voyage ! Que tout se passe bien pour toi.
+voyage|ln|mo-bem-bo|Mobembo malamu !|Bon voyage !
+voyage|lua|lou-é-ndou|Luendu luimpe!|Bon voyage !
+voyage|sw|sa-fa-ri|Safari njema!|Bon voyage !
+zero|es|sé-ro|La temperatura bajó a cero grados.|La température est descendue à zéro degré.

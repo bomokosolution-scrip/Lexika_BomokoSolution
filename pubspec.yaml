@@ -1,0 +1,64 @@
+name: lexika
+description: Bomoko Lexika - Le dictionnaire multilingue de nouvelle génération. Développé par Bomoko Solution.
+publish_to: "none"
+version: 1.1.0+2
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.0.2
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.2.3
+  speech_to_text: ^7.0.0
+  audioplayers: ^6.0.0
+  file_picker: ^8.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+
+# Les versions récentes de ce plugin exigent compileSdk 36, que file_picker ne fournit pas encore.
+dependency_overrides:
+  flutter_plugin_android_lifecycle: 2.0.28
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+  remove_alpha_ios: true
+  min_sdk_android: 21
+  adaptive_icon_background: "assets/icon/icon_background.png"
+  adaptive_icon_foreground: "assets/icon/icon_foreground.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/dictionary.txt
+    - assets/definitions.txt
+    - assets/icon/logo.png
+    - assets/definitions_en.txt
+    - assets/definitions_sw.txt
+    - assets/extras.txt
+    - assets/audio/fr/
+    - assets/audio/ln/
+    - assets/audio/en_US/
+    - assets/audio/en_GB/
+    - assets/audio/sw/
+    - assets/audio/lua/
+    - assets/audio/kg/
+    - assets/audio/es/
+    - assets/audio/pt/
+    - assets/audio/de/
+    - assets/audio/wa/
+    - assets/audio/nl_BE/
+    - assets/audio/en_SL/
+    - assets/audio/fr_SL/
+    - assets/audio/af/
+    - assets/audio/eo/
+    - assets/audio/ru/
+    - assets/audio/zu/

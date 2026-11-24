@@ -1,0 +1,109 @@
+# English definitions (id|text) — source : Webster's Unabridged (1913), domaine public ; langue parfois ancienne.
+silvousplait|To have or take pleasure in; hence, to choose; to wish; to desire; to will.
+pardon|Grieved for the loss of some good; pained for some evil; feeling regret; -- now generally used to express light grief or affliction, but formerly often used to express deeper feeling.
+non|A negative vote; one who votes in the negative; as, to call for the ayes and noes; the noes have it.
+bienvenue|Received with gladness; admitted willingly to the house, entertainment, or company; as, a welcome visitor.
+un|A single unit; as, one is the base of all numbers.
+deux|The sum of one and one; the number next greater than one, and next less than three; two units or objects.
+trois|A symbol representing three units, as 3 or iii.
+quatre|A symbol representing four units, as 4 or iv.
+cinq|The number next greater than four, and less than six; five units or objects.
+six|A symbol representing six units, as 6, vi., or VI.
+sept|A symbol representing seven units, as 7, or vii.
+huit|A symbol representing eight units, as 8 or viii.
+neuf|A symbol representing nine units, as 9 or ix.
+dix|A symbol representing ten units, as 10, x, or X.
+mere|A female parent; especially, one of the human race; a woman who has borne a child.
+pere|One who has begotten a child, whether son or daughter; a generator; a male parent.
+frere|A male person who has the same father and mother with another person, or who has one of them only. In the latter case he is more definitely called a half brother, or brother of the half blood.
+soeur|A female who has the same parents with another person, or who has one of them only. In the latter case, she is more definitely called a half sister. The correlative of brother.
+famille|The collective body of persons who live in one house, and under one head or manager; a household, including parents, children, and servants, and, as the case may be, lodgers or boarders.
+chef|The head or leader of any body of men; a commander, as of an army; a head man, as of a tribe, clan, or family; a person in authority who directs the work of others; the principal actor or agent.
+tete|The anterior or superior part of an animal, containing the brain, or chief ganglia of the nervous system, the mouth, and in the higher animals, the chief sensory organs; poll; cephalon.
+main|That part of the fore limb below the forearm or wrist in man and monkeys, and the corresponding part in many other animals; manus; paw. See Manus.
+coeur|A hollow, muscular organ, which, by contracting rhythmically, keeps up the circulation of the blood.
+oeil|A brood; as, an eye of pheasants.
+bouche|The opening through which an animal receives food; the aperture between the jaws or between the lips; also, the cavity, containing the tongue and teeth, between the lips and the pharynx; the buccal cavity.
+pied|The terminal part of the leg of man or an animal; esp., the part below the ankle or wrist; that part of an animal upon which it rests when standing, or moves. See Manus, and Pes.
+sang|The fluid which circulates in the principal vascular system of animals, carrying nourishment to all parts of the body, and bringing away waste products to be excreted. See under Arterial.
+eau|The fluid which descends from the clouds in rain, and which forms rivers, lakes, seas, etc.
+feu|Fuel in a state of combustion, as on a hearth, or in a stove or a furnace.
+terre|The globe or planet which we inhabit; the world, in distinction from the sun, moon, or stars. Also, this world as the dwelling place of mortals, in distinction from the dwelling place of spirits.
+ciel|Hence, a shadow.
+arbre|Something constructed in the form of, or considered as resembling, a tree, consisting of a stem, or stock, and branches; as, a genealogical tree.
+pluie|To fall in drops from the clouds, as water; -- used mostly with it for a nominative; as, it rains.
+fleuve|A large stream of water flowing in a bed or channel and emptying into the ocean, a sea, a lake, or another stream; a stream larger than a rivulet or brook.
+soleil|The luminous orb, the light of which constitutes day, and its absence night; the central body round which the earth and planets revolve, by which they are held in their orbits, and from which they receive light and heat. Its mean…
+lune|The celestial orb which revolves round the earth; the satellite of the earth; a secondary planet, whose light, borrowed from the sun, is reflected to the earth, and serves to dispel the darkness of night. The diameter of the moon…
+nuit|That part of the natural day when the sun is beneath the horizon, or the time from sunset to sunrise; esp., the time between dusk and dawn, when there is no light of the sun, but only moonlight, starlight, or artificial light.
+montagne|A large mass of earth and rock, rising above the common level of the earth or adjacent land; earth and rock forming an isolated peak or a ridge; an eminence higher than a hill; a mount.
+chien|A quadruped of the genus Canis, esp. the domestic dog (C. familiaris).
+chat|An animal of various species of the genera Felis and Lynx. The domestic cat is Felis domestica. The European wild cat (Felis catus) is much larger than the domestic cat. In the United States the name wild cat is commonly applied…
+poisson|A counter, used in various games.
+oiseau|Orig., a chicken; the young of a fowl; a young eaglet; a nestling; and hence, a feathered flying animal (see 2).
+elephant|A mammal of the order Proboscidia, of which two living species, Elephas Indicus and E. Africanus, and several fossil species, are known. They have a proboscis or trunk, and two large ivory tusks proceeding from the extremity of…
+lion|A large carnivorous feline mammal (Felis leo), found in Southern Asia and in most parts of Africa, distinct varieties occurring in the different countries. The adult male, in most varieties, has a thick mane of long shaggy hair…
+serpent|Any species of the order Ophidia; an ophidian; a serpent, whether harmless or venomous. See Ophidia, and Serpent.
+singe|In the most general sense, any one of the Quadrumana, including apes, baboons, and lemurs.
+poule|The female of the domestic fowl; also, the female of grouse, pheasants, or any kind of birds; as, the heath hen; the gray hen.
+vache|The female of certain large mammals, as whales, seals, etc.
+pain|An article of food made from flour or meal by moistening, kneading, and baking.
+viande|Food, in general; anything eaten for nourishment, either by man or beast. Hence, the edible part of anything; as, the meat of a lobster, a nut, or an egg.
+riz|A well-known cereal grass (Oryza sativa) and its seed. This plant is extensively cultivated in warm climates, and the grain forms a large portion of the food of the inhabitants. In America it grows chiefly on low, moist land,…
+sel|The chloride of sodium, a substance used for seasoning food, for the preservation of meat, etc. It is found native in the earth, and is also produced, by evaporation and crystallization, from sea water and other water impregnated…
+sucre|A sweet white (or brownish yellow) crystalline substance, of a sandy or granular consistency, obtained by crystallizing the evaporated juice of certain plants, as the sugar cane, sorghum, beet root, sugar maple, etc. It is used…
+cafe|The ""beans"" or ""berries"" (pyrenes) obtained from the drupes of a small evergreen tree of the genus Coffea, growing in Abyssinia, Arabia, Persia, and other warm regions of Asia and Africa, and also in tropical America.
+lait|A white fluid secreted by the mammary glands of female mammals for the nourishment of their young, consisting of minute globules of fat suspended in a solution of casein, albumin, milk sugar, and inorganic salts.
+manger|To chew and swallow as food; to devour; -- said especially of food not liquid; as, to eat bread.
+boire|To swallow anything liquid, for quenching thirst or other purpose; to imbibe; to receive or partake of, as if in satisfaction of thirst; as, to drink from a spring.
+dormir|To take rest by a suspension of the voluntary exercise of the powers of the body and mind, and an apathy of the organs of sense; to slumber.
+aller|To pass from one place to another; to be in motion; to be in a state not motionless or at rest; to proceed; to advance; to make progress; -- used, in various applications, of the movement of both animate and inanimate beings, by…
+venir|To carry through; to succeed in; as, you can't come any tricks here.
+voir|To follow with the eyes, or as with the eyes; to watch; to regard attentivelly; to look after.
+parler|To utter words or articulate sounds, as human beings; to express thoughts by words; as, the organs may be so obstructed that a man may not be able to speak.
+aimer|A feeling of strong attachment induced by that which delights or commands admiration; preeminent kindness or devotion to another; affection; tenderness; as, the love of brothers and sisters.
+travailler|To labor or operate upon; to give exertion and effort to; to prepare for use, or to utilize, by labor.
+comprendre|To have just and adequate ideas of; to apprehended the meaning or intention of; to have knowledge of; to comprehend; to know; as, to understand a problem in Euclid; to understand a proposition or a declaration; the court…
+donner|To yield to force or pressure; to relax; to become less rigid; as, the earth gives under the feet.
+bon|Well, -- especially in the phrase as good, with a following as expressed or implied; equally well with as much advantage or as little harm as possible.
+mauvais|Wanting good qualities, whether physical or moral; injurious, hurtful, inconvenient, offensive, painful, unfavorable, or defective, either physically or morally; evil; vicious; wicked; -- the opposite of good; as, a bad man; bad…
+grand|Having greatness, fullness, importance, inflation, distention, etc., whether in a good or a bad sense; as, a big heart; a big voice; big looks; to look big. As applied to looks, it indicates haughtiness or pride.
+petit|In or to small extent, quantity, or degree; little; slightly.
+chaud|Having much sensible heat; exciting the feeling of warmth in a great degree; very warm; -- opposed to cold, and exceeding warm in degree; as, a hot stove; hot water or air.
+froid|Deprived of heat, or having a low temperature; not warm or hot; gelid; frigid.
+nouveau|Having existed, or having been made, but a short time; having originated or occured lately; having recently come into existence, or into one's possession; not early or long in being; of late origin; recent; fresh; modern; --…
+jour|The time of light, or interval between one night and the next; the time between sunrise and sunset, or from dawn to darkness; hence, the light; sunshine.
+mois|One of the twelve portions into which the year is divided; the twelfth part of a year, corresponding nearly to the length of a synodic revolution of the moon, -- whence the name. In popular use, a period of four weeks is often…
+annee|The time of the apparent revolution of the sun trough the ecliptic; the period occupied by the earth in making its revolution around the sun, called the astronomical year; also, a period more or less nearly agreeing with this,…
+hier|On the day last past; on the day preceding to-day; as, the affair took place yesterday.
+ami|One who entertains for another such sentiments of esteem, respect, and affection that he seeks his society aud welfare; a wellwisher; an intimate associate; sometimes, an attendant.
+maison|A structure intended or used as a habitation or shelter for animals of any kind; but especially, a building or edifice for the habitation of man; a dwelling place, a mansion.
+ecole|A shoal; a multitude; as, a school of fish.
+travail|Exertion of strength or faculties; physical or intellectual effort directed to an end; industrial activity; toil; employment; sometimes, specifically, physically labor.
+argent|A piece of metal, as gold, silver, copper, etc., coined, or stamped, and issued by the sovereign authority as a medium of exchange in financial transactions between citizens and with government; also, any number of such pieces;…
+enfant|A son or a daughter; a male or female descendant, in the first degree; the immediate progeny of human parents; -- in law, legitimate offspring. Used also of animals and plants.
+livre|A collection of sheets of paper, or similar material, blank, written, or printed, bound together; commonly, many folded and bound sheets containing continuous printing or writing.
+femme|An adult female person; a grown-up female person, as distinguished from a man or a child; sometimes, any female person.
+homme|Especially: An adult male person; a grown-up male person, as distinguished from a woman or a child.
+village|A small assemblage of houses in the country, less than a town or city.
+ville|A corporate town; in the United States, a town or collective body of inhabitants, incorporated and governed by a mayor and aldermen or a city council consisting of a board of aldermen and a common council; in Great Britain, a…
+voiture|A small vehicle moved on wheels; usually, one having but two wheels and drawn by one horse; a cart.
+route|A journey, or stage of a journey.
+medecin|A teacher; one skilled in a profession, or branch of knowledge learned man.
+hopital|A building in which the sick, injured, or infirm are received and treated; a public or private institution founded for reception and cure, or for the refuge, of persons diseased in body or mind, or disabled, infirm, or dependent,…
+marche|A meeting together of people, at a stated time and place, for the purpose of traffic (as in cattle, provisions, wares, etc.) by private purchase and sale, and not by auction; as, a market is held in the town every week.
+musique|The science and the art of tones, or musical sounds, i. e., sounds of higher or lower pitch, begotten of uniform and synchronous vibrations, as of a string at various degrees of tension; the science of harmonical tones which…
+danse|To move with measured steps, or to a musical accompaniment; to go through, either alone or in company with others, with a regulated succession of movements, (commonly) to the sound of music; to trip or leap rhythmically.
+fete|A number of persons united in opinion or action, as distinguished from, or opposed to, the rest of a community or association; esp., one of the parts into which a people is divided on questions of public policy.
+langue|Any means of conveying or communicating ideas; specifically, human speech; the expression of ideas by the voice; sounds, expressive of thought, articulated by the organs of the throat and mouth.
+dieu|A being conceived of as possessing supernatural power, and to be propitiated by sacrifice, worship, etc.; a divinity; a deity; an object of worship; an idol.
+vie|The state of being which begins with generation, birth, or germination, and ends with death; also, the time during which this state continues; that state of an animal or plant in which all or any of its organs are capable of…
+mort|The cessation of all vital phenomena without capability of resuscitation, either in animals or plants.
+nom|The title by which any person or thing is known or designated; a distinctive specific appellation, whether of an individual or a class.
+amour|A feeling of strong attachment induced by that which delights or commands admiration; preeminent kindness or devotion to another; affection; tenderness; as, the love of brothers and sisters.
+paix|Exemption from, or cessation of, war with public enemies.
+force|The quality or state of being strong; ability to do or to bear; capacity for exertion or endurance, whether physical, intellectual, or moral; force; vigor; power; as, strength of body or of the arm; strength of mind, of memory,…
+joie|The passion or emotion excited by the acquisition or expectation of good; pleasurable feelings or emotions caused by success, good fortune, and the like, or by a rational prospect of possessing what we love or desire; gladness;…
+espoir|A desire of some good, accompanied with an expectation of obtaining it, or a belief that it is obtainable; an expectation of something which is thought to be desirable; confidence; pleasing expectancy.
+verite|The quality or being true; as: -- (a) Conformity to fact or reality; exact accordance with that which is, or has been; or shall be.
+courage|That quality of mind which enables one to encounter danger and difficulties with firmness, or without fear, or fainting of heart; valor; boldness; resolution.
